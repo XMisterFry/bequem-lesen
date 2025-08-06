@@ -16,17 +16,15 @@
     "example": "Ich hatte einen schönen Traum."
   },
   "ein": {
-    "meaning": "a / one",
-    "gender": null,
-    "pronunciation": "aɪ̯n",
-    "audio": "audio/ein.mp3",
-    "plural": null,
-    "example": "Er trinkt ein Glas Wasser."
+    "meaning": "a, an",
+    "gender": "masculine",
+    "pronunciation": "[aɪ̯n]",
+    "example": "Ich habe ein Buch."
   },
   "ist": {
     "meaning": "is",
     "pronunciation": "[ɪst]",
-    "example": "Er ist müde."
+    "example": "Das ist gut."
   },
   "unser": {
     "meaning": "our",
@@ -190,11 +188,8 @@
   },
   "und": {
     "meaning": "and",
-    "gender": null,
-    "pronunciation": "ʊnt",
-    "audio": "audio/und.mp3",
-    "plural": null,
-    "example": "Du und ich."
+    "pronunciation": "[ʊnt]",
+    "example": "Er liest und schreibt."
   },
   "Zeit": {
     "meaning": "time",
@@ -270,11 +265,8 @@
   },
   "es": {
     "meaning": "it",
-    "gender": null,
-    "pronunciation": "es",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "pronunciation": "[ɛs]",
+    "example": "Es ist warm."
   },
   "dem": {
     "meaning": "the (dative masculine/neuter)",
@@ -760,12 +752,9 @@
     "example": ""
   },
   "zu": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "meaning": "too; to",
+    "pronunciation": "[t͡suː]",
+    "example": "Das ist zu viel."
   },
   "lassen.": {
     "meaning": "",
@@ -776,12 +765,9 @@
     "example": ""
   },
   "Er": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "meaning": "he",
+    "pronunciation": "[eːɐ̯]",
+    "example": "Er spielt Fußball."
   },
   "erschien,": {
     "meaning": "",
@@ -984,6 +970,102 @@
     "example": ""
   },
   "Die": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Das": {
+    "meaning": "the (neuter)",
+    "pronunciation": "[das]"
+  },
+  "Ei": {
+    "meaning": "egg",
+    "gender": "neuter",
+    "pronunciation": "[aɪ̯]",
+    "plural": "Eier",
+    "example": "Das Ei ist frisch."
+  },
+  "Frau": {
+    "meaning": "wife",
+    "gender": "feminine",
+    "pronunciation": "[fʁaʊ̯]",
+    "plural": "Frauen",
+    "example": "Meine Frau ist nett."
+  },
+  "Frühstücksei": {
+    "meaning": "boiled egg",
+    "gender": "neuter",
+    "pronunciation": "[ˈfʁyːʃtʏksˌaɪ̯]",
+    "plural": "Frühstückseier",
+    "example": "Ich esse ein Frühstücksei."
+  },
+  "Gröttrup": {
+    "meaning": "Gröttrup (name)",
+    "pronunciation": "[ˈɡʁøtʁʊp]"
+  },
+  "Herr": {
+    "meaning": "Mr.",
+    "gender": "masculine",
+    "pronunciation": "[hɛʁ]",
+    "example": "Herr Müller ist mein Lehrer."
+  },
+  "Mann": {
+    "meaning": "man",
+    "gender": "masculine",
+    "pronunciation": "[man]",
+    "plural": "Männer",
+    "example": "Der Mann liest ein Buch."
+  },
+  "Seine": {
+    "meaning": "his",
+    "pronunciation": "[ˈzaɪ̯nə]"
+  },
+  "Tisch": {
+    "meaning": "table",
+    "gender": "masculine",
+    "pronunciation": "[tɪʃ]",
+    "plural": "Tische",
+    "example": "Der Tisch ist groß."
+  },
+  "alter": {
+    "meaning": "old",
+    "pronunciation": "[ˈaltɐ]",
+    "example": "Er ist ein alter Mann."
+  },
+  "am": {
+    "meaning": "at the",
+    "pronunciation": "[am]",
+    "example": "Er sitzt am Tisch."
+  },
+  "glücklich": {
+    "meaning": "happy",
+    "pronunciation": "[ˈɡlʏklɪç]",
+    "example": "Ich bin glücklich."
+  },
+  "isst": {
+    "meaning": "eats",
+    "pronunciation": "[ɪst]",
+    "example": "Sie isst einen Apfel."
+  },
+  "nicht": {
+    "meaning": "not",
+    "pronunciation": "[nɪçt]",
+    "example": "Ich bin nicht müde."
+  },
+  "sitzt": {
+    "meaning": "sits",
+    "pronunciation": "[zɪtst]",
+    "example": "Er sitzt am Tisch."
+  },
+  "weich": {
+    "meaning": "soft",
+    "pronunciation": "[vaɪç]",
+    "example": "Das Ei ist weich."
+  },
+  "weich!": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
