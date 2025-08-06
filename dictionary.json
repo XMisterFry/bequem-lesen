@@ -1,0 +1,658 @@
+{
+  "Ein": {
+    "meaning": "a / one",
+    "gender": null,
+    "pronunciation": "aɪ̯n",
+    "audio": "audio/ein.mp3",
+    "plural": null,
+    "example": "Ein Mann steht dort."
+  },
+  "Traum": {
+    "meaning": "dream",
+    "gender": "der (m)",
+    "pronunciation": "traʊ̯m",
+    "audio": "audio/traum.mp3",
+    "plural": "Träume",
+    "example": "Ich hatte einen schönen Traum."
+  },
+  "ein": {
+    "meaning": "a / one",
+    "gender": null,
+    "pronunciation": "aɪ̯n",
+    "audio": "audio/ein.mp3",
+    "plural": null,
+    "example": "Er trinkt ein Glas Wasser."
+  },
+  "ist": {
+    "meaning": "is",
+    "gender": null,
+    "pronunciation": "ɪst",
+    "audio": "audio/ist.mp3",
+    "plural": null,
+    "example": "Er ist hier."
+  },
+  "unser": {
+    "meaning": "our",
+    "gender": null,
+    "pronunciation": "ˈʊn.zɐ",
+    "audio": "audio/unser.mp3",
+    "plural": null,
+    "example": "Das ist unser Haus."
+  },
+  "Leben": {
+    "meaning": "life",
+    "gender": "das (n)",
+    "pronunciation": "ˈleː.bən",
+    "audio": "audio/leben.mp3",
+    "plural": "Leben",
+    "example": "Das Leben ist schön."
+  },
+  "Auf": {
+    "meaning": "on / upon",
+    "gender": null,
+    "pronunciation": "aʊ̯f",
+    "audio": "audio/auf.mp3",
+    "plural": null,
+    "example": "Das Buch liegt auf dem Tisch."
+  },
+  "Erden": {
+    "meaning": "earth (poetic)",
+    "gender": "die (f, plural form in poetry)",
+    "pronunciation": "ˈeːʁ.dən",
+    "audio": "audio/erden.mp3",
+    "plural": null,
+    "example": "Auf Erden leben viele Menschen."
+  },
+  "hier": {
+    "meaning": "here",
+    "gender": null,
+    "pronunciation": "hiːɐ̯",
+    "audio": "audio/hier.mp3",
+    "plural": null,
+    "example": "Ich bin hier."
+  },
+  "Wie": {
+    "meaning": "like / how",
+    "gender": null,
+    "pronunciation": "viː",
+    "audio": "audio/wie.mp3",
+    "plural": null,
+    "example": "Wie geht es dir?"
+  },
+  "Schatten": {
+    "meaning": "shadow",
+    "gender": "der (m)",
+    "pronunciation": "ˈʃatən",
+    "audio": "audio/schatten.mp3",
+    "plural": "Schatten",
+    "example": "Der Schatten ist lang."
+  },
+  "auf": {
+    "meaning": "on / upon",
+    "gender": null,
+    "pronunciation": "aʊ̯f",
+    "audio": "audio/auf.mp3",
+    "plural": null,
+    "example": "Das Buch liegt auf dem Tisch."
+  },
+  "den": {
+    "meaning": "the (accusative masculine)",
+    "gender": null,
+    "pronunciation": "deːn",
+    "audio": "audio/den.mp3",
+    "plural": null,
+    "example": "Ich sehe den Mann."
+  },
+  "Wogen": {
+    "meaning": "waves (poetic)",
+    "gender": "die (f, plural)",
+    "pronunciation": "ˈvoːɡn̩",
+    "audio": "audio/wogen.mp3",
+    "plural": null,
+    "example": "Die Wogen schlagen ans Ufer."
+  },
+  "schweben": {
+    "meaning": "to float / to hover",
+    "gender": null,
+    "pronunciation": "ˈʃveːbən",
+    "audio": "audio/schweben.mp3",
+    "plural": null,
+    "example": "Die Blätter schweben im Wind."
+  },
+  "Und": {
+    "meaning": "and",
+    "gender": null,
+    "pronunciation": "ʊnt",
+    "audio": "audio/und.mp3",
+    "plural": null,
+    "example": "Du und ich."
+  },
+  "schwinden": {
+    "meaning": "to fade / to vanish",
+    "gender": null,
+    "pronunciation": "ˈʃvɪndən",
+    "audio": "audio/schwinden.mp3",
+    "plural": null,
+    "example": "Die Hoffnung schwindet."
+  },
+  "wir": {
+    "meaning": "we",
+    "gender": null,
+    "pronunciation": "viːɐ̯",
+    "audio": "audio/wir.mp3",
+    "plural": null,
+    "example": "Wir gehen nach Hause."
+  },
+  "messen": {
+    "meaning": "to measure",
+    "gender": null,
+    "pronunciation": "ˈmɛsən",
+    "audio": "audio/messen.mp3",
+    "plural": null,
+    "example": "Wir messen die Länge."
+  },
+  "unsre": {
+    "meaning": "our (poetic form of 'unsere')",
+    "gender": null,
+    "pronunciation": "ˈʊnzʁə",
+    "audio": "audio/unsre.mp3",
+    "plural": null,
+    "example": "Unsre Herzen schlagen schnell."
+  },
+  "trägen": {
+    "meaning": "sluggish / lazy",
+    "gender": null,
+    "pronunciation": "ˈtʁɛːɡn̩",
+    "audio": "audio/traegen.mp3",
+    "plural": null,
+    "example": "Er ist von träger Natur."
+  },
+  "Tritte": {
+    "meaning": "steps / footsteps",
+    "gender": "der (m, plural)",
+    "pronunciation": "ˈtʁɪtə",
+    "audio": "audio/tritte.mp3",
+    "plural": "Tritte",
+    "example": "Seine Tritte hallten im Gang."
+  },
+  "Nach": {
+    "meaning": "after, toward",
+    "gender": null,
+    "pronunciation": "nahkh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Raum": {
+    "meaning": "space / room",
+    "gender": "der (m)",
+    "pronunciation": "ʁaʊ̯m",
+    "audio": "audio/raum.mp3",
+    "plural": "Räume",
+    "example": "Dieser Raum ist groß."
+  },
+  "und": {
+    "meaning": "and",
+    "gender": null,
+    "pronunciation": "ʊnt",
+    "audio": "audio/und.mp3",
+    "plural": null,
+    "example": "Du und ich."
+  },
+  "Zeit": {
+    "meaning": "time",
+    "gender": "die (f)",
+    "pronunciation": "tsaɪ̯t",
+    "audio": "audio/zeit.mp3",
+    "plural": "Zeiten",
+    "example": "Die Zeit vergeht schnell."
+  },
+  "sind": {
+    "meaning": "are",
+    "gender": null,
+    "pronunciation": "zɪnt",
+    "audio": "audio/sind.mp3",
+    "plural": null,
+    "example": "Wir sind hier."
+  },
+  "in": {
+    "meaning": "in",
+    "gender": null,
+    "pronunciation": "ɪn",
+    "audio": "audio/in.mp3",
+    "plural": null,
+    "example": "Ich bin in Berlin."
+  },
+  "Mitte": {
+    "meaning": "middle / center",
+    "gender": "die (f)",
+    "pronunciation": "ˈmɪtə",
+    "audio": "audio/mitte.mp3",
+    "plural": "Mitten",
+    "example": "In der Mitte des Raumes."
+  },
+  "Der": {
+    "meaning": "the (masculine nominative)",
+    "gender": null,
+    "pronunciation": "deːɐ̯",
+    "audio": "audio/der.mp3",
+    "plural": null,
+    "example": "Der Mann ist groß."
+  },
+  "Ewigkeit": {
+    "meaning": "eternity",
+    "gender": "die (f)",
+    "pronunciation": "ˈeːvɪçkaɪ̯t",
+    "audio": "audio/ewigkeit.mp3",
+    "plural": null,
+    "example": "Die Liebe ist für die Ewigkeit."
+  },
+  "vielen": {
+    "meaning": "many (plural, dative)",
+    "gender": null,
+    "pronunciation": "fee-len",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Jahrhunderten": {
+    "meaning": "centuries (dative plural)",
+    "gender": "n",
+    "pronunciation": "yah-hoon-der-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "gefiel": {
+    "meaning": "pleased (past of gefallen)",
+    "gender": null,
+    "pronunciation": "guh-feel",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "es": {
+    "meaning": "it",
+    "gender": null,
+    "pronunciation": "es",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "dem": {
+    "meaning": "the (dative masculine/neuter)",
+    "gender": null,
+    "pronunciation": "daym",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Phönix": {
+    "meaning": "phoenix",
+    "gender": "m",
+    "pronunciation": "fuh-niks",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sich": {
+    "meaning": "oneself",
+    "gender": null,
+    "pronunciation": "zikh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "wieder": {
+    "meaning": "again",
+    "gender": null,
+    "pronunciation": "vee-der",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "einmal": {
+    "meaning": "once",
+    "gender": null,
+    "pronunciation": "ine-mahl",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sehen": {
+    "meaning": "to see",
+    "gender": null,
+    "pronunciation": "zay-en",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "lassen": {
+    "meaning": "to let, to allow",
+    "gender": null,
+    "pronunciation": "lah-sen",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "erschien": {
+    "meaning": "appeared",
+    "gender": null,
+    "pronunciation": "air-sheen",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "alle": {
+    "meaning": "all",
+    "gender": null,
+    "pronunciation": "ah-leh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Tiere": {
+    "meaning": "animals",
+    "gender": "n",
+    "pronunciation": "tee-reh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Vögel": {
+    "meaning": "birds",
+    "gender": "m",
+    "pronunciation": "fuh-gel",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "versammelten": {
+    "meaning": "gathered",
+    "gender": null,
+    "pronunciation": "fer-zahm-elt-en",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "um": {
+    "meaning": "around",
+    "gender": null,
+    "pronunciation": "oom",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "ihn": {
+    "meaning": "him",
+    "gender": null,
+    "pronunciation": "een",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "gafften": {
+    "meaning": "gawked",
+    "gender": null,
+    "pronunciation": "gahf-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "staunten": {
+    "meaning": "were amazed",
+    "gender": null,
+    "pronunciation": "shtown-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "bewunderten": {
+    "meaning": "admired",
+    "gender": null,
+    "pronunciation": "beh-voon-der-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "brachen": {
+    "meaning": "broke out",
+    "gender": null,
+    "pronunciation": "brah-khen",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "entzückendes": {
+    "meaning": "delightful",
+    "gender": null,
+    "pronunciation": "ent-tsook-en-des",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Lob": {
+    "meaning": "praise",
+    "gender": "n",
+    "pronunciation": "lohb",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Bald": {
+    "meaning": "soon",
+    "gender": null,
+    "pronunciation": "balt",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "wandten": {
+    "meaning": "turned (past of wenden)",
+    "gender": null,
+    "pronunciation": "vahnt-en",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "besten": {
+    "meaning": "best (plural/dative)",
+    "gender": null,
+    "pronunciation": "bes-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "geselligsten": {
+    "meaning": "most sociable",
+    "gender": null,
+    "pronunciation": "geh-zel-lik-sten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "mitleidsvoll": {
+    "meaning": "compassionate",
+    "gender": null,
+    "pronunciation": "mit-lyts-foll",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Blicke": {
+    "meaning": "glances",
+    "gender": "m",
+    "pronunciation": "blik-eh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "ab": {
+    "meaning": "away",
+    "gender": null,
+    "pronunciation": "ahp",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "seufzten": {
+    "meaning": "sighed",
+    "gender": null,
+    "pronunciation": "soyf-ts-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "unglückliche": {
+    "meaning": "unlucky",
+    "gender": null,
+    "pronunciation": "oon-glook-likh-eh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "wurde": {
+    "meaning": "was (became)",
+    "gender": null,
+    "pronunciation": "voord-eh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "harte": {
+    "meaning": "hard",
+    "gender": null,
+    "pronunciation": "har-teh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Los": {
+    "meaning": "lot, fate",
+    "gender": "n",
+    "pronunciation": "lohs",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "weder": {
+    "meaning": "neither",
+    "gender": null,
+    "pronunciation": "vay-der",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Geliebte": {
+    "meaning": "beloved",
+    "gender": "m/f",
+    "pronunciation": "geh-leeb-teh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "noch": {
+    "meaning": "nor",
+    "gender": null,
+    "pronunciation": "nokh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Freund": {
+    "meaning": "friend",
+    "gender": "m",
+    "pronunciation": "froynt",
+    "audio": "",
+    "plural": "Freunde",
+    "example": ""
+  },
+  "einzige": {
+    "meaning": "only",
+    "gender": null,
+    "pronunciation": "ine-tsi-geh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Art": {
+    "meaning": "kind, species",
+    "gender": "f",
+    "pronunciation": "ahrt",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Traum,": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "hier.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Wogen*": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "wir.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Zeit.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "(und": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "wissen’s": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "nicht)": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Ewigkeit.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  }
+}

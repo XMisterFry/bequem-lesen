@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>German Poem Reader</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top-bar">bequem lesen</header>
+<h1>Wir sind gute Leser</h1>
+
+<!-- Poem selector -->
+<select id="poemSelect">
+  <option value="">-- Select a Poem --</option>
+  
+</select>
+
+<!-- Poem display area -->
+<div id="poemContainer"></div>
+
+<button id="showTranslationBtn" class="hidden">Show Translation</button>
+<div id="translationContainer" class="hidden"></div>
+
+<!-- Overlay Popup -->
+<div id="popup" class="popup hidden">
+  <button id="closeBtn" class="close-btn">&times;</button>
+  <h2 id="popup-word"></h2>
+  <p><strong>Meaning:</strong> <span id="popup-meaning"></span></p>
+  <p><strong>Gender:</strong> <span id="popup-gender"></span></p>
+  <p><strong>Pronunciation:</strong> <span id="popup-pronunciation"></span>
+     <button id="play-audio">🔊</button>
+  </p>
+  <p><strong>Plural:</strong> <span id="popup-plural"></span></p>
+  <p><strong>Example:</strong> <span id="popup-example"></span></p>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

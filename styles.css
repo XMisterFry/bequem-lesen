@@ -1,0 +1,103 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  text-align: center;
+  background-color: white;
+}
+
+.top-bar {
+  background-color: green;
+  color: white;
+  padding: 10px;
+  font-size: 1.2rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.content {
+  padding: 20px;
+}
+
+select {
+  padding: 15px;
+  margin-bottom: 20px;
+  width: 90%;
+  max-width: 300px;
+  border-radius: 10px;
+  background-color: green;
+  color: white;
+
+}
+
+.word {
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 3px;
+}
+
+.word:hover {
+  background: yellow;
+}
+
+/* Overlay Popup */
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background: green;
+  color: white;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+  padding: 15px;
+  width: 90%;
+  max-width: 400px;
+  z-index: 1000;
+}
+
+.popup.hidden {
+  display: none;
+}
+
+.close-btn {
+  position: absolute;
+  top: 8px;
+  right: 12px;
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  cursor: pointer;
+  color: white;
+}
+
+@media (max-width: 600px) {
+  .poem {
+    font-size: 1.2rem;
+  }
+}
+
+#showTranslationBtn {
+  margin-top: 10px;
+  padding: 8px 15px;
+  font-size: 1rem;
+  cursor: pointer;
+  background-color: green;
+  color: white;
+  border-radius: 5px;
+}
+
+#translationContainer {
+  margin-top: 15px;
+  font-style: italic;
+  background: green;
+  color: white;
+  padding: 20px;
+  border-radius: 5px;
+  ;
+
+}
+
+.hidden {
+  display: none !important;
+}
+
