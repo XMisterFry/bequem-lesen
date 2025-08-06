@@ -112,11 +112,28 @@ document.getElementById('play-audio').onclick = () => {
  document.getElementById('popup').classList.remove('hidden');
 }
 
-// Close popup
-document.getElementById('closeBtn').addEventListener('click', () => {
-  document.getElementById('popup').classList.add('hidden');
+const popup = document.getElementById('popup');
+const closeBtn = document.getElementById('closeBtn');
+
+// Close when clicking the X button
+closeBtn.addEventListener('click', () => {
+  popup.classList.add('hidden');
 });
 
+// Close when clicking outside the popup (but not on a word)
+document.addEventListener('click', (event) => {
+  // If popup is hidden → do nothing
+  if (popup.classList.contains('hidden')) return;
+
+  // If click is inside popup → do nothing
+  if (popup.contains(event.target)) return;
+
+  // If click is on a word span → do nothing
+  if (event.target.classList.contains('word')) return;
+
+  // Otherwise close popup
+  popup.classList.add('hidden');
+});
 
 //add index to dropdown on home
 
