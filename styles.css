@@ -26,6 +26,7 @@ select {
   border-radius: 10px;
   background-color: green;
   color: white;
+  font-size: 1rem;
 
 }
 
@@ -99,5 +100,19 @@ select {
 
 .hidden {
   display: none !important;
+}
+
+#poemContainer {
+    max-width: 600px;   /* limit width */
+  margin: 0 auto;     /* center horizontally */
+  padding: 0 20px;    /* breathing room on sides */
+  line-height: 1.6;
+  text-align: left;   /* words align left inside box */
+}
+
+@media (max-width: 600px) {
+  #poemContainer {
+    padding: 0 16px;
+  }
 }
 
