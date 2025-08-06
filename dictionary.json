@@ -132,11 +132,8 @@
   },
   "wir": {
     "meaning": "we",
-    "gender": null,
-    "pronunciation": "viːɐ̯",
-    "audio": "audio/wir.mp3",
-    "plural": null,
-    "example": "Wir gehen nach Hause."
+    "pronunciation": "[viːɐ̯]",
+    "example": "Wir gehen ins Kino."
   },
   "messen": {
     "meaning": "to measure",
@@ -541,12 +538,9 @@
     "example": ""
   },
   "noch": {
-    "meaning": "nor",
-    "gender": null,
-    "pronunciation": "nokh",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "meaning": "still; yet",
+    "pronunciation": "[nɔx]",
+    "example": "Ich bin noch nicht fertig."
   },
   "Freund": {
     "meaning": "friend",
@@ -1066,6 +1060,363 @@
     "example": "Das Ei ist weich."
   },
   "weich!": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "alt": {
+    "meaning": "old",
+    "pronunciation": "[alt]",
+    "example": "Mein Hund ist alt."
+  },
+  "angerufen": {
+    "meaning": "called (by phone)",
+    "pronunciation": "[ˈanɡəˌʁuːfən]",
+    "example": "Ich habe meine Mutter angerufen."
+  },
+  "Ball": {
+    "meaning": "ball",
+    "gender": "masculine",
+    "pronunciation": "[bal]",
+    "plural": "Bälle",
+    "example": "Der Ball ist rund."
+  },
+  "bekommen": {
+    "meaning": "get; receive",
+    "pronunciation": "[bəˈkɔmən]",
+    "example": "Ich bekomme ein Geschenk."
+  },
+  "Bildschirm": {
+    "meaning": "screen",
+    "gender": "masculine",
+    "pronunciation": "[ˈbɪltʃɪʁm]",
+    "plural": "Bildschirme",
+    "example": "Der Bildschirm ist groß."
+  },
+  "Boden": {
+    "meaning": "floor; ground",
+    "gender": "masculine",
+    "pronunciation": "[ˈboːdn̩]",
+    "plural": "Böden",
+    "example": "Das Buch liegt auf dem Boden."
+  },
+  "draußen": {
+    "meaning": "outside",
+    "pronunciation": "[ˈdʁaʊ̯sən]",
+    "example": "Die Kinder spielen draußen."
+  },
+  "fiel": {
+    "meaning": "fell",
+    "pronunciation": "[fiːl]",
+    "example": "Das Glas fiel auf den Boden."
+  },
+  "flog": {
+    "meaning": "flew",
+    "pronunciation": "[floːk]",
+    "example": "Der Vogel flog weg."
+  },
+  "fünf": {
+    "meaning": "five",
+    "pronunciation": "[fʏnf]",
+    "example": "Ich habe fünf Äpfel."
+  },
+  "gegen": {
+    "meaning": "against; into",
+    "pronunciation": "[ˈɡeːɡn̩]",
+    "example": "Er läuft gegen die Tür."
+  },
+  "gemacht": {
+    "meaning": "made; did",
+    "pronunciation": "[ɡəˈmaxt]",
+    "example": "Ich habe meine Hausaufgaben gemacht."
+  },
+  "gespielt": {
+    "meaning": "played",
+    "pronunciation": "[ɡəˈʃpiːlt]",
+    "example": "Sie hat Fußball gespielt."
+  },
+  "gesprochen": {
+    "meaning": "spoken; talked",
+    "pronunciation": "[ɡəˈʃpʁoːxn̩]",
+    "example": "Wir haben über das Wetter gesprochen."
+  },
+  "Handy": {
+    "meaning": "cell phone",
+    "gender": "neuter",
+    "pronunciation": "[ˈhɛndi]",
+    "plural": "Handys",
+    "example": "Wo ist mein Handy?"
+  },
+  "helfen": {
+    "meaning": "help",
+    "pronunciation": "[ˈhɛlfn̩]",
+    "example": "Kannst du mir helfen?"
+  },
+  "hoffe": {
+    "meaning": "hope (I hope)",
+    "pronunciation": "[ˈhɔfə]",
+    "example": "Ich hoffe auf gutes Wetter."
+  },
+  "Jahre": {
+    "meaning": "years",
+    "gender": "neuter",
+    "pronunciation": "[ˈjaːʁə]",
+    "singular": "Jahr",
+    "example": "Er ist zehn Jahre alt."
+  },
+  "jetzt": {
+    "meaning": "now",
+    "pronunciation": "[jɛtst]",
+    "example": "Jetzt ist Pause."
+  },
+  "Junge": {
+    "meaning": "boy",
+    "gender": "masculine",
+    "pronunciation": "[ˈjʊŋə]",
+    "plural": "Jungen",
+    "example": "Der Junge spielt im Garten."
+  },
+  "kaputt": {
+    "meaning": "broken",
+    "pronunciation": "[kaˈpʊt]",
+    "example": "Mein Auto ist kaputt."
+  },
+  "kann": {
+    "meaning": "can (I/he/she/it can)",
+    "pronunciation": "[kan]",
+    "example": "Ich kann schwimmen."
+  },
+  "Mutter": {
+    "meaning": "mother",
+    "gender": "feminine",
+    "pronunciation": "[ˈmʊtɐ]",
+    "plural": "Mütter",
+    "example": "Meine Mutter heißt Anna."
+  },
+  "Nachbar": {
+    "meaning": "neighbor",
+    "gender": "masculine",
+    "pronunciation": "[ˈnaχbaːɐ̯]",
+    "plural": "Nachbarn",
+    "example": "Mein Nachbar ist freundlich."
+  },
+  "neu": {
+    "meaning": "new",
+    "pronunciation": "[nɔʏ]",
+    "example": "Das Buch ist neu."
+  },
+  "nett": {
+    "meaning": "nice",
+    "pronunciation": "[nɛt]",
+    "example": "Sie ist sehr nett."
+  },
+  "oft": {
+    "meaning": "often",
+    "pronunciation": "[ɔft]",
+    "example": "Er liest oft Bücher."
+  },
+  "Plötzlich": {
+    "meaning": "suddenly",
+    "pronunciation": "[ˈplœt͡slɪç]",
+    "example": "Plötzlich regnete es."
+  },
+  "Problem": {
+    "meaning": "problem",
+    "gender": "neuter",
+    "pronunciation": "[pʁoˈbleːm]",
+    "plural": "Probleme",
+    "example": "Hast du ein Problem?"
+  },
+  "sagte": {
+    "meaning": "said",
+    "pronunciation": "[ˈzaːktə]",
+    "example": "Sie sagte Hallo."
+  },
+  "schön": {
+    "meaning": "beautiful; nice",
+    "pronunciation": "[ʃøːn]",
+    "example": "Das Wetter ist schön."
+  },
+  "seine": {
+    "meaning": "his",
+    "pronunciation": "[ˈzaɪ̯nə]",
+    "example": "Seine Mutter ist Ärztin."
+  },
+  "schnell": {
+    "meaning": "fast; quickly",
+    "pronunciation": "[ʃnɛl]",
+    "example": "Er läuft schnell."
+  },
+  "traurig": {
+    "meaning": "sad",
+    "pronunciation": "[ˈtʁaʊ̯ʁɪç]",
+    "example": "Ich bin traurig."
+  },
+  "über": {
+    "meaning": "about; over",
+    "pronunciation": "[ˈyːbɐ]",
+    "example": "Wir sprechen über das Buch."
+  },
+  "vielleicht": {
+    "meaning": "maybe",
+    "pronunciation": "[fiˈlaɪ̯çt]",
+    "example": "Vielleicht komme ich morgen."
+  },
+  "war": {
+    "meaning": "was",
+    "pronunciation": "[vaːɐ̯]",
+    "example": "Er war müde."
+  },
+  "wird": {
+    "meaning": "will (future tense auxiliary)",
+    "pronunciation": "[vɪʁt]",
+    "example": "Es wird warm."
+  },
+  "zerbrochen": {
+    "meaning": "broken; shattered",
+    "pronunciation": "[t͡sɛɐ̯ˈbʁɔxən]",
+    "example": "Das Glas ist zerbrochen."
+  },
+  "Mein": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "hat": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "mein": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Ich": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "bin": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sehr": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "spielt": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Gestern": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "mit": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "einem": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Es": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "habe": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Wir": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "haben": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Vielleicht": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "ich": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "neues": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "geht": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",

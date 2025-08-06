@@ -1,8 +1,22 @@
 [
-  {"file" : "herr-groettrup-setzt-sich-hin.json", "title": "Herr Groettrup setzt sich hin"},
-  { "file": "ein-traum.json", "title": "Ein Traum" },
-  { "file": "der-phonix.json", "title": "Der Phönix" },
-  { "file": "wanderers-nachtlied.json", "title": "Wanderers Nachtlied" }
-  
-  
+  {
+    "file": "herr-groettrup-setzt-sich-hin.json",
+    "title": "Herr Groettrup setzt sich hin"
+  },
+  {
+    "file": "mein-nachbar-hat-mein-handy-kaputt-gemacht.json",
+    "title": "Mein Nachbar hat mein Handy kaputt gemacht"
+  },
+  {
+    "file": "ein-traum.json",
+    "title": "Ein Traum"
+  },
+  {
+    "file": "der-phonix.json",
+    "title": "Der Phönix"
+  },
+  {
+    "file": "wanderers-nachtlied.json",
+    "title": "Wanderers Nachtlied"
+  }
 ]
