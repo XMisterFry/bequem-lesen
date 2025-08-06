@@ -58,7 +58,7 @@ select {
 
 @media (max-width: 600px) {
   .popup {
-    width: 85%;          /* a little more narrow on small screens */
+    width: 65%;          /* a little more narrow on small screens */
     max-width: 300px;
     padding: 12px;
     font-size: 0.9rem;   /* smaller readable text */
