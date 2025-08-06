@@ -72,12 +72,16 @@ function speakGerman(text) {
     utterance.lang = "de-DE"; // Force German
 
     const voices = speechSynthesis.getVoices();
-    const germanVoice = voices.find(v => v.lang.startsWith("de"));
 
-    if (germanVoice) {
-      utterance.voice = germanVoice;
+    // Try to find a high-quality Google German voice first
+    const preferredVoice = voices.find(v => v.lang.startsWith("de") && v.name.toLowerCase().includes("google"))
+      || voices.find(v => v.lang.startsWith("de")) // fallback to any German
+      || null;
+
+    if (preferredVoice) {
+      utterance.voice = preferredVoice;
     } else {
-      console.warn("German voice not found, using default.");
+      console.warn("No German voice found — using default.");
     }
 
     speechSynthesis.speak(utterance);
@@ -90,6 +94,7 @@ function speakGerman(text) {
     setVoiceAndSpeak();
   }
 }
+
 
 
 
