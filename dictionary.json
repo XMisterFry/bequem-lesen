@@ -25,11 +25,8 @@
   },
   "ist": {
     "meaning": "is",
-    "gender": null,
-    "pronunciation": "ɪst",
-    "audio": "audio/ist.mp3",
-    "plural": null,
-    "example": "Er ist hier."
+    "pronunciation": "[ɪst]",
+    "example": "Er ist müde."
   },
   "unser": {
     "meaning": "our",
@@ -648,6 +645,345 @@
     "example": ""
   },
   "Ewigkeit.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "allen": {
+    "meaning": "all",
+    "pronunciation": "[ˈalən]"
+  },
+  "auch": {
+    "meaning": "also; too",
+    "pronunciation": "[aʊ̯x]",
+    "example": "Ich komme auch."
+  },
+  "balde": {
+    "meaning": "soon",
+    "pronunciation": "[ˈbaldə]",
+    "example": "Bald wird es Sommer."
+  },
+  "Gipfeln": {
+    "meaning": "peaks; summits",
+    "gender": "masculine",
+    "pronunciation": "[ˈɡɪpfl̩n]",
+    "plural": "Gipfel",
+    "example": "Die Gipfel der Alpen sind hoch."
+  },
+  "Hauch": {
+    "meaning": "breath",
+    "gender": "masculine",
+    "pronunciation": "[haʊ̯x]",
+    "plural": "Hauche",
+    "example": "Ein Hauch von Wind war zu spüren."
+  },
+  "im": {
+    "meaning": "in the",
+    "pronunciation": "[ɪm]",
+    "example": "Im Sommer ist es warm."
+  },
+  "In": {
+    "meaning": "in",
+    "pronunciation": "[ɪn]"
+  },
+  "Kaum": {
+    "meaning": "hardly; scarcely",
+    "pronunciation": "[kaʊ̯m]",
+    "example": "Ich habe kaum Zeit."
+  },
+  "nur": {
+    "meaning": "only; just",
+    "pronunciation": "[nuːɐ̯]",
+    "example": "Warte nur einen Moment."
+  },
+  "Ruh": {
+    "meaning": "peace; rest",
+    "gender": "feminine",
+    "pronunciation": "[ʁuː]",
+    "example": "Sie fand endlich Ruh."
+  },
+  "Ruhest": {
+    "meaning": "rest (you rest)",
+    "pronunciation": "[ˈʁuːəst]",
+    "example": "Du ruhest sanft."
+  },
+  "schweigen": {
+    "meaning": "to be silent",
+    "pronunciation": "[ˈʃvaɪ̯ɡn̩]",
+    "example": "Sie schweigen während des Vortrags."
+  },
+  "Spürest": {
+    "meaning": "feel (you feel)",
+    "pronunciation": "[ˈʃpyːʁəst]",
+    "example": "Spürest du den Wind?"
+  },
+  "Vögelein": {
+    "meaning": "little birds",
+    "gender": "neuter",
+    "pronunciation": "[ˈføːɡl̩aɪ̯n]",
+    "plural": "Vögelein",
+    "example": "Die Vögelein singen früh."
+  },
+  "Walde": {
+    "meaning": "forest (old/fancy dative form of Wald)",
+    "gender": "masculine",
+    "pronunciation": "[ˈvaldə]",
+    "plural": "Wälder",
+    "example": "Im Walde ist es still."
+  },
+  "Warte": {
+    "meaning": "wait (you wait / imperative)",
+    "pronunciation": "[ˈvaʁtə]",
+    "example": "Warte auf mich!"
+  },
+  "Wipfeln": {
+    "meaning": "tree tops",
+    "gender": "masculine",
+    "pronunciation": "[ˈvɪpfl̩n]",
+    "plural": "Wipfel",
+    "example": "Die Wipfeln bewegen sich im Wind."
+  },
+  "Über": {
+    "meaning": "over",
+    "pronunciation": "[ˈyːbɐ]",
+    "example": "Über den Wolken ist die Sonne."
+  },
+  "Phönix,": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "zu": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "lassen.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Er": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "erschien,": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "ihn.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Sie": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "gafften,": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sie": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "staunten,": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "aus.": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "aber": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "die": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "ihre": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "seufzten:": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "»Der": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Phönix!": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Ihm": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "das": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Los,": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "haben;": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "denn": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "er": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "der": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "seiner": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Art!«": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Ist": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "du": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "einen": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Die": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
