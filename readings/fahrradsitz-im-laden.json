@@ -1,0 +1,16 @@
+{
+  "title": "Fahrradsitz im Laden",
+  "lines": [
+    ["Ich", "möchte", "einen", "Fahrradsitz", "für", "mein", "Kind", "kaufen"],
+    ["Haben", "Sie", "so", "etwas", "im", "Geschäft"],
+    ["Wie", "viel", "kostet", "der", "Fahrradsitz"],
+    ["Ist", "er", "sicher", "und", "bequem"],
+    ["Mein", "Kind", "ist", "drei", "Jahre", "alt"],
+    ["Passt", "der", "Sitz", "für", "dieses", "Alter"],
+    ["Kann", "ich", "den", "Sitz", "hier", "ausprobieren"],
+    ["Ich", "möchte", "sehen", "ob", "er", "gut", "passt"],
+    ["Haben", "Sie", "auch", "Helme", "für", "Kinder"],
+    ["Sicherheit", "ist", "sehr", "wichtig", "für", "mich"]
+  ],
+  "translation": "I want to buy a bike seat for my child. Do you have something like that in the shop? How much does the bike seat cost? Is it safe and comfortable? My child is three years old. Is the seat suitable for this age? Can I try the seat here? I want to see if it fits well. Do you also have helmets for children? Safety is very important to me."
+}

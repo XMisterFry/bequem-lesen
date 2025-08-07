@@ -1165,7 +1165,7 @@
     "gender": "neuter",
     "pronunciation": "[ˈjaːʁə]",
     "singular": "Jahr",
-    "example": "Er ist zehn Jahre alt."
+    "example": "Er ist drei Jahre alt."
   },
   "jetzt": {
     "meaning": "now",
@@ -1321,12 +1321,9 @@
     "example": ""
   },
   "sehr": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "meaning": "very",
+    "pronunciation": "[zeːɐ̯]",
+    "example": "Das ist sehr gut."
   },
   "spielt": {
     "meaning": "",
@@ -1417,6 +1414,205 @@
     "example": ""
   },
   "geht": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Fahrradsitz": {
+    "meaning": "bike seat",
+    "gender": "masculine",
+    "pronunciation": "[ˈfaːʁaːtˌzɪt͡s]",
+    "plural": "Fahrradsitze",
+    "example": "Der Fahrradsitz ist bequem."
+  },
+  "Geschäft": {
+    "meaning": "shop; store",
+    "gender": "neuter",
+    "pronunciation": "[ɡəˈʃɛft]",
+    "plural": "Geschäfte",
+    "example": "Das Geschäft ist groß."
+  },
+  "Helme": {
+    "meaning": "helmets",
+    "gender": "masculine",
+    "pronunciation": "[ˈhɛlmə]",
+    "singular": "Helm",
+    "example": "Die Helme sind bunt."
+  },
+  "Kinder": {
+    "meaning": "children",
+    "gender": "neuter",
+    "pronunciation": "[ˈkɪndɐ]",
+    "singular": "Kind",
+    "example": "Die Kinder spielen."
+  },
+  "möchte": {
+    "meaning": "would like (I/he/she would like)",
+    "pronunciation": "[ˈmœçtə]",
+    "example": "Ich möchte ein Eis."
+  },
+  "passt": {
+    "meaning": "fits (it fits)",
+    "pronunciation": "[past]",
+    "example": "Der Schuh passt mir."
+  },
+  "sicher": {
+    "meaning": "safe",
+    "pronunciation": "[ˈzɪçɐ]",
+    "example": "Der Fahrradsitz ist sicher."
+  },
+  "bequem": {
+    "meaning": "comfortable",
+    "pronunciation": "[bəˈkveːm]",
+    "example": "Der Stuhl ist bequem."
+  },
+  "ausprobieren": {
+    "meaning": "to try out",
+    "pronunciation": "[ˈaʊ̯s.proˌbiːʁən]",
+    "example": "Kann ich das ausprobieren?"
+  },
+  "kostet": {
+    "meaning": "costs (it costs)",
+    "pronunciation": "[ˈkɔstət]",
+    "example": "Wie viel kostet das?"
+  },
+  "wichtig": {
+    "meaning": "important",
+    "pronunciation": "[ˈvɪçtɪç]",
+    "example": "Sicherheit ist wichtig."
+  },
+  "für": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Kind": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "kaufen": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Haben": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "so": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "etwas": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "viel": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "drei": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Passt": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Sitz": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "dieses": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Alter": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Kann": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "ob": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "gut": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "Sicherheit": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "mich": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
