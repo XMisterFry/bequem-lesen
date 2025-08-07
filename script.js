@@ -99,8 +99,12 @@ function speakGerman(text) {
 
 
 function showPopup(word) {
-  const data = dictionary[word];
-  if (!data) return;
+    const cleanWord = word.toLowerCase(); // normalize case
+  const data = dictionary[cleanWord];
+
+    if (!data || !data.meaning || data.meaning.trim() === "") {
+    return;
+  }
 
   document.getElementById('popup-word').textContent = word;
   document.getElementById('popup-meaning').textContent = data.meaning || "-";

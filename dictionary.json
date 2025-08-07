@@ -1,25 +1,19 @@
 {
-  "Ein": {
+  "ein": {
     "meaning": "a / one",
-    "gender": null,
+    "gender": "masculine",
     "pronunciation": "aɪ̯n",
     "audio": "audio/ein.mp3",
     "plural": null,
     "example": "Ein Mann steht dort."
   },
-  "Traum": {
+  "traum": {
     "meaning": "dream",
     "gender": "der (m)",
     "pronunciation": "traʊ̯m",
     "audio": "audio/traum.mp3",
     "plural": "Träume",
     "example": "Ich hatte einen schönen Traum."
-  },
-  "ein": {
-    "meaning": "a, an",
-    "gender": "masculine",
-    "pronunciation": "[aɪ̯n]",
-    "example": "Ich habe ein Buch."
   },
   "ist": {
     "meaning": "is",
@@ -34,7 +28,7 @@
     "plural": null,
     "example": "Das ist unser Haus."
   },
-  "Leben": {
+  "leben": {
     "meaning": "life",
     "gender": "das (n)",
     "pronunciation": "ˈleː.bən",
@@ -42,7 +36,7 @@
     "plural": "Leben",
     "example": "Das Leben ist schön."
   },
-  "Auf": {
+  "auf": {
     "meaning": "on / upon",
     "gender": null,
     "pronunciation": "aʊ̯f",
@@ -50,7 +44,7 @@
     "plural": null,
     "example": "Das Buch liegt auf dem Tisch."
   },
-  "Erden": {
+  "erden": {
     "meaning": "earth (poetic)",
     "gender": "die (f, plural form in poetry)",
     "pronunciation": "ˈeːʁ.dən",
@@ -66,7 +60,7 @@
     "plural": null,
     "example": "Ich bin hier."
   },
-  "Wie": {
+  "wie": {
     "meaning": "like / how",
     "gender": null,
     "pronunciation": "viː",
@@ -74,21 +68,13 @@
     "plural": null,
     "example": "Wie geht es dir?"
   },
-  "Schatten": {
+  "schatten": {
     "meaning": "shadow",
     "gender": "der (m)",
     "pronunciation": "ˈʃatən",
     "audio": "audio/schatten.mp3",
     "plural": "Schatten",
     "example": "Der Schatten ist lang."
-  },
-  "auf": {
-    "meaning": "on / upon",
-    "gender": null,
-    "pronunciation": "aʊ̯f",
-    "audio": "audio/auf.mp3",
-    "plural": null,
-    "example": "Das Buch liegt auf dem Tisch."
   },
   "den": {
     "meaning": "the (accusative masculine)",
@@ -98,7 +84,7 @@
     "plural": null,
     "example": "Ich sehe den Mann."
   },
-  "Wogen": {
+  "wogen": {
     "meaning": "waves (poetic)",
     "gender": "die (f, plural)",
     "pronunciation": "ˈvoːɡn̩",
@@ -114,7 +100,7 @@
     "plural": null,
     "example": "Die Blätter schweben im Wind."
   },
-  "Und": {
+  "und": {
     "meaning": "and",
     "gender": null,
     "pronunciation": "ʊnt",
@@ -159,7 +145,7 @@
     "plural": null,
     "example": "Er ist von träger Natur."
   },
-  "Tritte": {
+  "tritte": {
     "meaning": "steps / footsteps",
     "gender": "der (m, plural)",
     "pronunciation": "ˈtʁɪtə",
@@ -167,7 +153,7 @@
     "plural": "Tritte",
     "example": "Seine Tritte hallten im Gang."
   },
-  "Nach": {
+  "nach": {
     "meaning": "after, toward",
     "gender": null,
     "pronunciation": "nahkh",
@@ -175,7 +161,7 @@
     "plural": null,
     "example": ""
   },
-  "Raum": {
+  "raum": {
     "meaning": "space / room",
     "gender": "der (m)",
     "pronunciation": "ʁaʊ̯m",
@@ -183,12 +169,7 @@
     "plural": "Räume",
     "example": "Dieser Raum ist groß."
   },
-  "und": {
-    "meaning": "and",
-    "pronunciation": "[ʊnt]",
-    "example": "Er liest und schreibt."
-  },
-  "Zeit": {
+  "zeit": {
     "meaning": "time",
     "gender": "die (f)",
     "pronunciation": "tsaɪ̯t",
@@ -212,7 +193,7 @@
     "plural": null,
     "example": "Ich bin in Berlin."
   },
-  "Mitte": {
+  "mitte": {
     "meaning": "middle / center",
     "gender": "die (f)",
     "pronunciation": "ˈmɪtə",
@@ -220,7 +201,7 @@
     "plural": "Mitten",
     "example": "In der Mitte des Raumes."
   },
-  "Der": {
+  "der": {
     "meaning": "the (masculine nominative)",
     "gender": null,
     "pronunciation": "deːɐ̯",
@@ -228,7 +209,7 @@
     "plural": null,
     "example": "Der Mann ist groß."
   },
-  "Ewigkeit": {
+  "ewigkeit": {
     "meaning": "eternity",
     "gender": "die (f)",
     "pronunciation": "ˈeːvɪçkaɪ̯t",
@@ -244,7 +225,7 @@
     "plural": null,
     "example": ""
   },
-  "Jahrhunderten": {
+  "jahrhunderten": {
     "meaning": "centuries (dative plural)",
     "gender": "n",
     "pronunciation": "yah-hoon-der-ten",
@@ -273,7 +254,7 @@
     "plural": null,
     "example": ""
   },
-  "Phönix": {
+  "phönix": {
     "meaning": "phoenix",
     "gender": "m",
     "pronunciation": "fuh-niks",
@@ -337,7 +318,7 @@
     "plural": null,
     "example": ""
   },
-  "Tiere": {
+  "tiere": {
     "meaning": "animals",
     "gender": "n",
     "pronunciation": "tee-reh",
@@ -345,7 +326,7 @@
     "plural": null,
     "example": ""
   },
-  "Vögel": {
+  "vögel": {
     "meaning": "birds",
     "gender": "m",
     "pronunciation": "fuh-gel",
@@ -417,7 +398,7 @@
     "plural": null,
     "example": ""
   },
-  "Lob": {
+  "lob": {
     "meaning": "praise",
     "gender": "n",
     "pronunciation": "lohb",
@@ -425,7 +406,7 @@
     "plural": null,
     "example": ""
   },
-  "Bald": {
+  "bald": {
     "meaning": "soon",
     "gender": null,
     "pronunciation": "balt",
@@ -465,7 +446,7 @@
     "plural": null,
     "example": ""
   },
-  "Blicke": {
+  "blicke": {
     "meaning": "glances",
     "gender": "m",
     "pronunciation": "blik-eh",
@@ -513,7 +494,7 @@
     "plural": null,
     "example": ""
   },
-  "Los": {
+  "los": {
     "meaning": "lot, fate",
     "gender": "n",
     "pronunciation": "lohs",
@@ -529,7 +510,7 @@
     "plural": null,
     "example": ""
   },
-  "Geliebte": {
+  "geliebte": {
     "meaning": "beloved",
     "gender": "m/f",
     "pronunciation": "geh-leeb-teh",
@@ -542,7 +523,7 @@
     "pronunciation": "[nɔx]",
     "example": "Ich bin noch nicht fertig."
   },
-  "Freund": {
+  "freund": {
     "meaning": "friend",
     "gender": "m",
     "pronunciation": "froynt",
@@ -558,7 +539,7 @@
     "plural": null,
     "example": ""
   },
-  "Art": {
+  "art": {
     "meaning": "kind, species",
     "gender": "f",
     "pronunciation": "ahrt",
@@ -566,7 +547,7 @@
     "plural": null,
     "example": ""
   },
-  "Traum,": {
+  "wissens": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -574,69 +555,13 @@
     "plural": null,
     "example": ""
   },
-  "hier.": {
-    "meaning": "",
+  "nicht": {
+    "meaning": "not",
     "gender": null,
-    "pronunciation": "",
+    "pronunciation": "[nɪçt]",
     "audio": "",
     "plural": null,
-    "example": ""
-  },
-  "Wogen*": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "wir.": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Zeit.": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "(und": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "wissen’s": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "nicht)": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Ewigkeit.": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "example": "Ich bin nicht müde."
   },
   "allen": {
     "meaning": "all",
@@ -652,14 +577,14 @@
     "pronunciation": "[ˈbaldə]",
     "example": "Bald wird es Sommer."
   },
-  "Gipfeln": {
+  "gipfeln": {
     "meaning": "peaks; summits",
     "gender": "masculine",
     "pronunciation": "[ˈɡɪpfl̩n]",
     "plural": "Gipfel",
     "example": "Die Gipfel der Alpen sind hoch."
   },
-  "Hauch": {
+  "hauch": {
     "meaning": "breath",
     "gender": "masculine",
     "pronunciation": "[haʊ̯x]",
@@ -671,11 +596,7 @@
     "pronunciation": "[ɪm]",
     "example": "Im Sommer ist es warm."
   },
-  "In": {
-    "meaning": "in",
-    "pronunciation": "[ɪn]"
-  },
-  "Kaum": {
+  "kaum": {
     "meaning": "hardly; scarcely",
     "pronunciation": "[kaʊ̯m]",
     "example": "Ich habe kaum Zeit."
@@ -685,13 +606,13 @@
     "pronunciation": "[nuːɐ̯]",
     "example": "Warte nur einen Moment."
   },
-  "Ruh": {
+  "ruh": {
     "meaning": "peace; rest",
     "gender": "feminine",
     "pronunciation": "[ʁuː]",
     "example": "Sie fand endlich Ruh."
   },
-  "Ruhest": {
+  "ruhest": {
     "meaning": "rest (you rest)",
     "pronunciation": "[ˈʁuːəst]",
     "example": "Du ruhest sanft."
@@ -701,99 +622,51 @@
     "pronunciation": "[ˈʃvaɪ̯ɡn̩]",
     "example": "Sie schweigen während des Vortrags."
   },
-  "Spürest": {
+  "spürest": {
     "meaning": "feel (you feel)",
     "pronunciation": "[ˈʃpyːʁəst]",
     "example": "Spürest du den Wind?"
   },
-  "Vögelein": {
+  "vögelein": {
     "meaning": "little birds",
     "gender": "neuter",
     "pronunciation": "[ˈføːɡl̩aɪ̯n]",
     "plural": "Vögelein",
     "example": "Die Vögelein singen früh."
   },
-  "Walde": {
+  "walde": {
     "meaning": "forest (old/fancy dative form of Wald)",
     "gender": "masculine",
     "pronunciation": "[ˈvaldə]",
     "plural": "Wälder",
     "example": "Im Walde ist es still."
   },
-  "Warte": {
+  "warte": {
     "meaning": "wait (you wait / imperative)",
     "pronunciation": "[ˈvaʁtə]",
     "example": "Warte auf mich!"
   },
-  "Wipfeln": {
+  "wipfeln": {
     "meaning": "tree tops",
     "gender": "masculine",
     "pronunciation": "[ˈvɪpfl̩n]",
     "plural": "Wipfel",
     "example": "Die Wipfeln bewegen sich im Wind."
   },
-  "Über": {
+  "über": {
     "meaning": "over",
     "pronunciation": "[ˈyːbɐ]",
     "example": "Über den Wolken ist die Sonne."
-  },
-  "Phönix,": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
   },
   "zu": {
     "meaning": "too; to",
     "pronunciation": "[t͡suː]",
     "example": "Das ist zu viel."
   },
-  "lassen.": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Er": {
+  "er": {
     "meaning": "he",
     "pronunciation": "[eːɐ̯]",
     "example": "Er spielt Fußball."
-  },
-  "erschien,": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ihn.": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Sie": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "gafften,": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
   },
   "sie": {
     "meaning": "",
@@ -803,15 +676,7 @@
     "plural": null,
     "example": ""
   },
-  "staunten,": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "aus.": {
+  "aus": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -843,31 +708,7 @@
     "plural": null,
     "example": ""
   },
-  "seufzten:": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "»Der": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Phönix!": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Ihm": {
+  "ihm": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -876,148 +717,59 @@
     "example": ""
   },
   "das": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Los,": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "haben;": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "denn": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "er": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "der": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "seiner": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Art!«": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Ist": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "du": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "einen": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Die": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Das": {
     "meaning": "the (neuter)",
-    "pronunciation": "[das]"
+    "gender": null,
+    "pronunciation": "[das]",
+    "audio": "",
+    "plural": null,
+    "example": ""
   },
-  "Ei": {
+  
+  
+  "ei": {
     "meaning": "egg",
     "gender": "neuter",
     "pronunciation": "[aɪ̯]",
     "plural": "Eier",
     "example": "Das Ei ist frisch."
   },
-  "Frau": {
+  "frau": {
     "meaning": "wife",
     "gender": "feminine",
     "pronunciation": "[fʁaʊ̯]",
     "plural": "Frauen",
     "example": "Meine Frau ist nett."
   },
-  "Frühstücksei": {
+  "frühstücksei": {
     "meaning": "boiled egg",
     "gender": "neuter",
     "pronunciation": "[ˈfʁyːʃtʏksˌaɪ̯]",
     "plural": "Frühstückseier",
     "example": "Ich esse ein Frühstücksei."
   },
-  "Gröttrup": {
+  "gröttrup": {
     "meaning": "Gröttrup (name)",
     "pronunciation": "[ˈɡʁøtʁʊp]"
   },
-  "Herr": {
+  "herr": {
     "meaning": "Mr.",
     "gender": "masculine",
     "pronunciation": "[hɛʁ]",
     "example": "Herr Müller ist mein Lehrer."
   },
-  "Mann": {
+  "mann": {
     "meaning": "man",
     "gender": "masculine",
     "pronunciation": "[man]",
     "plural": "Männer",
     "example": "Der Mann liest ein Buch."
   },
-  "Seine": {
+  "seine": {
     "meaning": "his",
-    "pronunciation": "[ˈzaɪ̯nə]"
+    "pronunciation": "[ˈzaɪ̯nə]",
+    "example": "Seine Mutter ist Ärztin."
   },
-  "Tisch": {
+  "tisch": {
     "meaning": "table",
     "gender": "masculine",
     "pronunciation": "[tɪʃ]",
@@ -1044,11 +796,6 @@
     "pronunciation": "[ɪst]",
     "example": "Sie isst einen Apfel."
   },
-  "nicht": {
-    "meaning": "not",
-    "pronunciation": "[nɪçt]",
-    "example": "Ich bin nicht müde."
-  },
   "sitzt": {
     "meaning": "sits",
     "pronunciation": "[zɪtst]",
@@ -1058,14 +805,6 @@
     "meaning": "soft",
     "pronunciation": "[vaɪç]",
     "example": "Das Ei ist weich."
-  },
-  "weich!": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
   },
   "alt": {
     "meaning": "old",
@@ -1077,7 +816,7 @@
     "pronunciation": "[ˈanɡəˌʁuːfən]",
     "example": "Ich habe meine Mutter angerufen."
   },
-  "Ball": {
+  "ball": {
     "meaning": "ball",
     "gender": "masculine",
     "pronunciation": "[bal]",
@@ -1089,14 +828,14 @@
     "pronunciation": "[bəˈkɔmən]",
     "example": "Ich bekomme ein Geschenk."
   },
-  "Bildschirm": {
+  "bildschirm": {
     "meaning": "screen",
     "gender": "masculine",
     "pronunciation": "[ˈbɪltʃɪʁm]",
     "plural": "Bildschirme",
     "example": "Der Bildschirm ist groß."
   },
-  "Boden": {
+  "boden": {
     "meaning": "floor; ground",
     "gender": "masculine",
     "pronunciation": "[ˈboːdn̩]",
@@ -1143,7 +882,7 @@
     "pronunciation": "[ɡəˈʃpʁoːxn̩]",
     "example": "Wir haben über das Wetter gesprochen."
   },
-  "Handy": {
+  "handy": {
     "meaning": "cell phone",
     "gender": "neuter",
     "pronunciation": "[ˈhɛndi]",
@@ -1160,7 +899,7 @@
     "pronunciation": "[ˈhɔfə]",
     "example": "Ich hoffe auf gutes Wetter."
   },
-  "Jahre": {
+  "jahre": {
     "meaning": "years",
     "gender": "neuter",
     "pronunciation": "[ˈjaːʁə]",
@@ -1172,7 +911,7 @@
     "pronunciation": "[jɛtst]",
     "example": "Jetzt ist Pause."
   },
-  "Junge": {
+  "junge": {
     "meaning": "boy",
     "gender": "masculine",
     "pronunciation": "[ˈjʊŋə]",
@@ -1189,14 +928,14 @@
     "pronunciation": "[kan]",
     "example": "Ich kann schwimmen."
   },
-  "Mutter": {
+  "mutter": {
     "meaning": "mother",
     "gender": "feminine",
     "pronunciation": "[ˈmʊtɐ]",
     "plural": "Mütter",
     "example": "Meine Mutter heißt Anna."
   },
-  "Nachbar": {
+  "nachbar": {
     "meaning": "neighbor",
     "gender": "masculine",
     "pronunciation": "[ˈnaχbaːɐ̯]",
@@ -1218,12 +957,12 @@
     "pronunciation": "[ɔft]",
     "example": "Er liest oft Bücher."
   },
-  "Plötzlich": {
+  "plötzlich": {
     "meaning": "suddenly",
     "pronunciation": "[ˈplœt͡slɪç]",
     "example": "Plötzlich regnete es."
   },
-  "Problem": {
+  "problem": {
     "meaning": "problem",
     "gender": "neuter",
     "pronunciation": "[pʁoˈbleːm]",
@@ -1240,11 +979,6 @@
     "pronunciation": "[ʃøːn]",
     "example": "Das Wetter ist schön."
   },
-  "seine": {
-    "meaning": "his",
-    "pronunciation": "[ˈzaɪ̯nə]",
-    "example": "Seine Mutter ist Ärztin."
-  },
   "schnell": {
     "meaning": "fast; quickly",
     "pronunciation": "[ʃnɛl]",
@@ -1254,11 +988,6 @@
     "meaning": "sad",
     "pronunciation": "[ˈtʁaʊ̯ʁɪç]",
     "example": "Ich bin traurig."
-  },
-  "über": {
-    "meaning": "about; over",
-    "pronunciation": "[ˈyːbɐ]",
-    "example": "Wir sprechen über das Buch."
   },
   "vielleicht": {
     "meaning": "maybe",
@@ -1280,7 +1009,7 @@
     "pronunciation": "[t͡sɛɐ̯ˈbʁɔxən]",
     "example": "Das Glas ist zerbrochen."
   },
-  "Mein": {
+  "mein": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1296,15 +1025,7 @@
     "plural": null,
     "example": ""
   },
-  "mein": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Ich": {
+  "ich": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1326,15 +1047,15 @@
     "example": "Das ist sehr gut."
   },
   "spielt": {
-    "meaning": "",
+    "meaning": "played",
     "gender": null,
     "pronunciation": "",
     "audio": "",
     "plural": null,
     "example": ""
   },
-  "Gestern": {
-    "meaning": "",
+  "gestern": {
+    "meaning": "yesterday",
     "gender": null,
     "pronunciation": "",
     "audio": "",
@@ -1342,7 +1063,7 @@
     "example": ""
   },
   "mit": {
-    "meaning": "",
+    "meaning": "with",
     "gender": null,
     "pronunciation": "",
     "audio": "",
@@ -1350,15 +1071,7 @@
     "example": ""
   },
   "einem": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Es": {
-    "meaning": "",
+    "meaning": "a",
     "gender": null,
     "pronunciation": "",
     "audio": "",
@@ -1366,38 +1079,6 @@
     "example": ""
   },
   "habe": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Wir": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "haben": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Vielleicht": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ich": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1421,28 +1102,28 @@
     "plural": null,
     "example": ""
   },
-  "Fahrradsitz": {
+  "fahrradsitz": {
     "meaning": "bike seat",
     "gender": "masculine",
     "pronunciation": "[ˈfaːʁaːtˌzɪt͡s]",
     "plural": "Fahrradsitze",
     "example": "Der Fahrradsitz ist bequem."
   },
-  "Geschäft": {
+  "geschäft": {
     "meaning": "shop; store",
     "gender": "neuter",
     "pronunciation": "[ɡəˈʃɛft]",
     "plural": "Geschäfte",
     "example": "Das Geschäft ist groß."
   },
-  "Helme": {
+  "helme": {
     "meaning": "helmets",
     "gender": "masculine",
     "pronunciation": "[ˈhɛlmə]",
     "singular": "Helm",
     "example": "Die Helme sind bunt."
   },
-  "Kinder": {
+  "kinder": {
     "meaning": "children",
     "gender": "neuter",
     "pronunciation": "[ˈkɪndɐ]",
@@ -1492,7 +1173,7 @@
     "plural": null,
     "example": ""
   },
-  "Kind": {
+  "kind": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1501,14 +1182,6 @@
     "example": ""
   },
   "kaufen": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Haben": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1548,15 +1221,7 @@
     "plural": null,
     "example": ""
   },
-  "Passt": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Sitz": {
+  "sitz": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1565,22 +1230,6 @@
     "example": ""
   },
   "dieses": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Alter": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "Kann": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1604,7 +1253,7 @@
     "plural": null,
     "example": ""
   },
-  "Sicherheit": {
+  "sicherheit": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
@@ -1613,6 +1262,14 @@
     "example": ""
   },
   "mich": {
+    "meaning": "",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "wogen*": {
     "meaning": "",
     "gender": null,
     "pronunciation": "",
