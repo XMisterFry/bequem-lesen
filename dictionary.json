@@ -1,40 +1,41 @@
 {
-  "ein": {
-    "meaning": "a / one",
-    "gender": "masculine",
-    "pronunciation": "aɪ̯n",
-    "audio": "audio/ein.mp3",
+  
+  "allen": {
+    "meaning": "all",
+    "pronunciation": "[ˈalən]"
+  },
+  "alt": {
+    "meaning": "old",
+    "pronunciation": "[alt]",
+    "example": "Mein Hund ist alt."
+  },
+  "alter": {
+    "meaning": "old",
+    "pronunciation": "[ˈaltɐ]",
+    "example": "Er ist ein alter Mann."
+  },
+  "am": {
+    "meaning": "at the",
+    "pronunciation": "[am]",
+    "example": "Er sitzt am Tisch."
+  },
+  "angerufen": {
+    "meaning": "called (by phone)",
+    "pronunciation": "[ˈanɡəˌʁuːfən]",
+    "example": "Ich habe meine Mutter angerufen."
+  },
+  "art": {
+    "meaning": "kind, species",
+    "gender": "f",
+    "pronunciation": "ahrt",
+    "audio": "",
     "plural": null,
-    "example": "Ein Mann steht dort."
+    "example": ""
   },
-  "traum": {
-    "meaning": "dream",
-    "gender": "der (m)",
-    "pronunciation": "traʊ̯m",
-    "audio": "audio/traum.mp3",
-    "plural": "Träume",
-    "example": "Ich hatte einen schönen Traum."
-  },
-  "ist": {
-    "meaning": "is",
-    "pronunciation": "[ɪst]",
-    "example": "Das ist gut."
-  },
-  "unser": {
-    "meaning": "our",
-    "gender": null,
-    "pronunciation": "ˈʊn.zɐ",
-    "audio": "audio/unser.mp3",
-    "plural": null,
-    "example": "Das ist unser Haus."
-  },
-  "leben": {
-    "meaning": "life",
-    "gender": "das (n)",
-    "pronunciation": "ˈleː.bən",
-    "audio": "audio/leben.mp3",
-    "plural": "Leben",
-    "example": "Das Leben ist schön."
+  "auch": {
+    "meaning": "also; too",
+    "pronunciation": "[aʊ̯x]",
+    "example": "Ich komme auch."
   },
   "auf": {
     "meaning": "on / upon",
@@ -44,332 +45,45 @@
     "plural": null,
     "example": "Das Buch liegt auf dem Tisch."
   },
-  "erden": {
-    "meaning": "earth (poetic)",
-    "gender": "die (f, plural form in poetry)",
-    "pronunciation": "ˈeːʁ.dən",
-    "audio": "audio/erden.mp3",
-    "plural": null,
-    "example": "Auf Erden leben viele Menschen."
+  "ausprobieren": {
+    "meaning": "to try out",
+    "pronunciation": "[ˈaʊ̯s.proˌbiːʁən]",
+    "example": "Kann ich das ausprobieren?"
   },
-  "hier": {
-    "meaning": "here",
+  "bald": {
+    "meaning": "soon",
     "gender": null,
-    "pronunciation": "hiːɐ̯",
-    "audio": "audio/hier.mp3",
-    "plural": null,
-    "example": "Ich bin hier."
-  },
-  "wie": {
-    "meaning": "like / how",
-    "gender": null,
-    "pronunciation": "viː",
-    "audio": "audio/wie.mp3",
-    "plural": null,
-    "example": "Wie geht es dir?"
-  },
-  "schatten": {
-    "meaning": "shadow",
-    "gender": "der (m)",
-    "pronunciation": "ˈʃatən",
-    "audio": "audio/schatten.mp3",
-    "plural": "Schatten",
-    "example": "Der Schatten ist lang."
-  },
-  "den": {
-    "meaning": "the (accusative masculine)",
-    "gender": null,
-    "pronunciation": "deːn",
-    "audio": "audio/den.mp3",
-    "plural": null,
-    "example": "Ich sehe den Mann."
-  },
-  "wogen": {
-    "meaning": "waves (poetic)",
-    "gender": "die (f, plural)",
-    "pronunciation": "ˈvoːɡn̩",
-    "audio": "audio/wogen.mp3",
-    "plural": null,
-    "example": "Die Wogen schlagen ans Ufer."
-  },
-  "schweben": {
-    "meaning": "to float / to hover",
-    "gender": null,
-    "pronunciation": "ˈʃveːbən",
-    "audio": "audio/schweben.mp3",
-    "plural": null,
-    "example": "Die Blätter schweben im Wind."
-  },
-  "und": {
-    "meaning": "and",
-    "gender": null,
-    "pronunciation": "ʊnt",
-    "audio": "audio/und.mp3",
-    "plural": null,
-    "example": "Du und ich."
-  },
-  "schwinden": {
-    "meaning": "to fade / to vanish",
-    "gender": null,
-    "pronunciation": "ˈʃvɪndən",
-    "audio": "audio/schwinden.mp3",
-    "plural": null,
-    "example": "Die Hoffnung schwindet."
-  },
-  "wir": {
-    "meaning": "we",
-    "pronunciation": "[viːɐ̯]",
-    "example": "Wir gehen ins Kino."
-  },
-  "messen": {
-    "meaning": "to measure",
-    "gender": null,
-    "pronunciation": "ˈmɛsən",
-    "audio": "audio/messen.mp3",
-    "plural": null,
-    "example": "Wir messen die Länge."
-  },
-  "unsre": {
-    "meaning": "our (poetic form of 'unsere')",
-    "gender": null,
-    "pronunciation": "ˈʊnzʁə",
-    "audio": "audio/unsre.mp3",
-    "plural": null,
-    "example": "Unsre Herzen schlagen schnell."
-  },
-  "trägen": {
-    "meaning": "sluggish / lazy",
-    "gender": null,
-    "pronunciation": "ˈtʁɛːɡn̩",
-    "audio": "audio/traegen.mp3",
-    "plural": null,
-    "example": "Er ist von träger Natur."
-  },
-  "tritte": {
-    "meaning": "steps / footsteps",
-    "gender": "der (m, plural)",
-    "pronunciation": "ˈtʁɪtə",
-    "audio": "audio/tritte.mp3",
-    "plural": "Tritte",
-    "example": "Seine Tritte hallten im Gang."
-  },
-  "nach": {
-    "meaning": "after, toward",
-    "gender": null,
-    "pronunciation": "nahkh",
+    "pronunciation": "balt",
     "audio": "",
     "plural": null,
     "example": ""
   },
-  "raum": {
-    "meaning": "space / room",
-    "gender": "der (m)",
-    "pronunciation": "ʁaʊ̯m",
-    "audio": "audio/raum.mp3",
-    "plural": "Räume",
-    "example": "Dieser Raum ist groß."
+  "balde": {
+    "meaning": "soon",
+    "pronunciation": "[ˈbaldə]",
+    "example": "Bald wird es Sommer."
   },
-  "zeit": {
-    "meaning": "time",
-    "gender": "die (f)",
-    "pronunciation": "tsaɪ̯t",
-    "audio": "audio/zeit.mp3",
-    "plural": "Zeiten",
-    "example": "Die Zeit vergeht schnell."
+  "ball": {
+    "meaning": "ball",
+    "gender": "masculine",
+    "pronunciation": "[bal]",
+    "plural": "Bälle",
+    "example": "Der Ball ist rund."
   },
-  "sind": {
-    "meaning": "are",
+  "bekommen": {
+    "meaning": "get; receive",
+    "pronunciation": "[bəˈkɔmən]",
+    "example": "Ich bekomme ein Geschenk."
+  },
+  "bequem": {
+    "meaning": "comfortable",
+    "pronunciation": "[bəˈkveːm]",
+    "example": "Der Stuhl ist bequem."
+  },
+  "besten": {
+    "meaning": "best (plural/dative)",
     "gender": null,
-    "pronunciation": "zɪnt",
-    "audio": "audio/sind.mp3",
-    "plural": null,
-    "example": "Wir sind hier."
-  },
-  "in": {
-    "meaning": "in",
-    "gender": null,
-    "pronunciation": "ɪn",
-    "audio": "audio/in.mp3",
-    "plural": null,
-    "example": "Ich bin in Berlin."
-  },
-  "mitte": {
-    "meaning": "middle / center",
-    "gender": "die (f)",
-    "pronunciation": "ˈmɪtə",
-    "audio": "audio/mitte.mp3",
-    "plural": "Mitten",
-    "example": "In der Mitte des Raumes."
-  },
-  "der": {
-    "meaning": "the (masculine nominative)",
-    "gender": null,
-    "pronunciation": "deːɐ̯",
-    "audio": "audio/der.mp3",
-    "plural": null,
-    "example": "Der Mann ist groß."
-  },
-  "ewigkeit": {
-    "meaning": "eternity",
-    "gender": "die (f)",
-    "pronunciation": "ˈeːvɪçkaɪ̯t",
-    "audio": "audio/ewigkeit.mp3",
-    "plural": null,
-    "example": "Die Liebe ist für die Ewigkeit."
-  },
-  "vielen": {
-    "meaning": "many (plural, dative)",
-    "gender": null,
-    "pronunciation": "fee-len",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "jahrhunderten": {
-    "meaning": "centuries (dative plural)",
-    "gender": "n",
-    "pronunciation": "yah-hoon-der-ten",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "gefiel": {
-    "meaning": "pleased (past of gefallen)",
-    "gender": null,
-    "pronunciation": "guh-feel",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "es": {
-    "meaning": "it",
-    "pronunciation": "[ɛs]",
-    "example": "Es ist warm."
-  },
-  "dem": {
-    "meaning": "the (dative masculine/neuter)",
-    "gender": null,
-    "pronunciation": "daym",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "phönix": {
-    "meaning": "phoenix",
-    "gender": "m",
-    "pronunciation": "fuh-niks",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "sich": {
-    "meaning": "oneself",
-    "gender": null,
-    "pronunciation": "zikh",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "wieder": {
-    "meaning": "again",
-    "gender": null,
-    "pronunciation": "vee-der",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "einmal": {
-    "meaning": "once",
-    "gender": null,
-    "pronunciation": "ine-mahl",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "sehen": {
-    "meaning": "to see",
-    "gender": null,
-    "pronunciation": "zay-en",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "lassen": {
-    "meaning": "to let, to allow",
-    "gender": null,
-    "pronunciation": "lah-sen",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "erschien": {
-    "meaning": "appeared",
-    "gender": null,
-    "pronunciation": "air-sheen",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "alle": {
-    "meaning": "all",
-    "gender": null,
-    "pronunciation": "ah-leh",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "tiere": {
-    "meaning": "animals",
-    "gender": "n",
-    "pronunciation": "tee-reh",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "vögel": {
-    "meaning": "birds",
-    "gender": "m",
-    "pronunciation": "fuh-gel",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "versammelten": {
-    "meaning": "gathered",
-    "gender": null,
-    "pronunciation": "fer-zahm-elt-en",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "um": {
-    "meaning": "around",
-    "gender": null,
-    "pronunciation": "oom",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ihn": {
-    "meaning": "him",
-    "gender": null,
-    "pronunciation": "een",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "gafften": {
-    "meaning": "gawked",
-    "gender": null,
-    "pronunciation": "gahf-ten",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "staunten": {
-    "meaning": "were amazed",
-    "gender": null,
-    "pronunciation": "shtown-ten",
+    "pronunciation": "bes-ten",
     "audio": "",
     "plural": null,
     "example": ""
@@ -382,10 +96,118 @@
     "plural": null,
     "example": ""
   },
+  "bildschirm": {
+    "meaning": "screen",
+    "gender": "masculine",
+    "pronunciation": "[ˈbɪltʃɪʁm]",
+    "plural": "Bildschirme",
+    "example": "Der Bildschirm ist groß."
+  },
+  "blicke": {
+    "meaning": "glances",
+    "gender": "m",
+    "pronunciation": "blik-eh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "boden": {
+    "meaning": "floor; ground",
+    "gender": "masculine",
+    "pronunciation": "[ˈboːdn̩]",
+    "plural": "Böden",
+    "example": "Das Buch liegt auf dem Boden."
+  },
   "brachen": {
     "meaning": "broke out",
     "gender": null,
     "pronunciation": "brah-khen",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "das": {
+    "meaning": "the (neuter)",
+    "gender": null,
+    "pronunciation": "[das]",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "dem": {
+    "meaning": "the (dative masculine/neuter)",
+    "gender": null,
+    "pronunciation": "daym",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "den": {
+    "meaning": "the (accusative masculine)",
+    "gender": null,
+    "pronunciation": "deːn",
+    "audio": "audio/den.mp3",
+    "plural": null,
+    "example": "Ich sehe den Mann."
+  },
+  "der": {
+    "meaning": "the (masculine nominative)",
+    "gender": null,
+    "pronunciation": "deːɐ̯",
+    "audio": "audio/der.mp3",
+    "plural": null,
+    "example": "Der Mann ist groß."
+  },
+  "dieses": {
+    "meaning": "this (neuter, accusative)",
+    "pronunciation": "[ˈdiːzəs]",
+    "example": "Gefällt dir dieses Buch?"
+  },
+  "draußen": {
+    "meaning": "outside",
+    "pronunciation": "[ˈdʁaʊ̯sən]",
+    "example": "Die Kinder spielen draußen."
+  },
+  "drei": {
+    "meaning": "three",
+    "pronunciation": "[dʁaɪ̯]",
+    "example": "Das Kind ist drei Jahre alt."
+  },
+  "ei": {
+    "meaning": "egg",
+    "gender": "neuter",
+    "pronunciation": "[aɪ̯]",
+    "plural": "Eier",
+    "example": "Das Ei ist frisch."
+  },
+  "ein": {
+    "meaning": "a / one",
+    "gender": "masculine",
+    "pronunciation": "aɪ̯n",
+    "audio": "audio/ein.mp3",
+    "plural": null,
+    "example": "Ein Mann steht dort."
+  },
+  "einem": {
+    "meaning": "a",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "einmal": {
+    "meaning": "once",
+    "gender": null,
+    "pronunciation": "ine-mahl",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "einzige": {
+    "meaning": "only",
+    "gender": null,
+    "pronunciation": "ine-tsi-geh",
     "audio": "",
     "plural": null,
     "example": ""
@@ -398,37 +220,134 @@
     "plural": null,
     "example": ""
   },
-  "lob": {
-    "meaning": "praise",
-    "gender": "n",
-    "pronunciation": "lohb",
+  "er": {
+    "meaning": "he",
+    "pronunciation": "[eːɐ̯]",
+    "example": "Er spielt Fußball."
+  },
+  "erden": {
+    "meaning": "earth (poetic)",
+    "gender": "die (f, plural form in poetry)",
+    "pronunciation": "ˈeːʁ.dən",
+    "audio": "audio/erden.mp3",
+    "plural": null,
+    "example": "Auf Erden leben viele Menschen."
+  },
+  "erschien": {
+    "meaning": "appeared",
+    "gender": null,
+    "pronunciation": "air-sheen",
     "audio": "",
     "plural": null,
     "example": ""
   },
-  "bald": {
-    "meaning": "soon",
+  "es": {
+    "meaning": "it",
+    "pronunciation": "[ɛs]",
+    "example": "Es ist warm."
+  },
+  "etwas": {
+    "meaning": "something",
+    "pronunciation": "[ˈɛtvas]",
+    "example": "Ich habe etwas gekauft."
+  },
+  "ewigkeit": {
+    "meaning": "eternity",
+    "gender": "die (f)",
+    "pronunciation": "ˈeːvɪçkaɪ̯t",
+    "audio": "audio/ewigkeit.mp3",
+    "plural": null,
+    "example": "Die Liebe ist für die Ewigkeit."
+  },
+  "fahrradsitz": {
+    "meaning": "bike seat",
+    "gender": "masculine",
+    "pronunciation": "[ˈfaːʁaːtˌzɪt͡s]",
+    "plural": "Fahrradsitze",
+    "example": "Der Fahrradsitz ist bequem."
+  },
+  "fiel": {
+    "meaning": "fell",
+    "pronunciation": "[fiːl]",
+    "example": "Das Glas fiel auf den Boden."
+  },
+  "flog": {
+    "meaning": "flew",
+    "pronunciation": "[floːk]",
+    "example": "Der Vogel flog weg."
+  },
+  "frau": {
+    "meaning": "wife",
+    "gender": "feminine",
+    "pronunciation": "[fʁaʊ̯]",
+    "plural": "Frauen",
+    "example": "Meine Frau ist nett."
+  },
+  "freund": {
+    "meaning": "friend",
+    "gender": "m",
+    "pronunciation": "froynt",
+    "audio": "",
+    "plural": "Freunde",
+    "example": ""
+  },
+  "frühstücksei": {
+    "meaning": "boiled egg",
+    "gender": "neuter",
+    "pronunciation": "[ˈfʁyːʃtʏksˌaɪ̯]",
+    "plural": "Frühstückseier",
+    "example": "Ich esse ein Frühstücksei."
+  },
+  "fünf": {
+    "meaning": "five",
+    "pronunciation": "[fʏnf]",
+    "example": "Ich habe fünf Äpfel."
+  },
+  "für": {
+    "meaning": "for",
+    "pronunciation": "[fyːɐ̯]",
+    "example": "Das Geschenk ist für dich."
+  },
+  "gafften": {
+    "meaning": "gawked",
     "gender": null,
-    "pronunciation": "balt",
+    "pronunciation": "gahf-ten",
     "audio": "",
     "plural": null,
     "example": ""
   },
-  "wandten": {
-    "meaning": "turned (past of wenden)",
+  "gefiel": {
+    "meaning": "pleased (past of gefallen)",
     "gender": null,
-    "pronunciation": "vahnt-en",
+    "pronunciation": "guh-feel",
     "audio": "",
     "plural": null,
     "example": ""
   },
-  "besten": {
-    "meaning": "best (plural/dative)",
-    "gender": null,
-    "pronunciation": "bes-ten",
+  "gegen": {
+    "meaning": "against; into",
+    "pronunciation": "[ˈɡeːɡn̩]",
+    "example": "Er läuft gegen die Tür."
+  },
+  "geliebte": {
+    "meaning": "beloved",
+    "gender": "m/f",
+    "pronunciation": "geh-leeb-teh",
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "gemacht": {
+    "meaning": "made; did",
+    "pronunciation": "[ɡəˈmaxt]",
+    "example": "Ich habe meine Hausaufgaben gemacht."
+  },
+  "geschäft": {
+    "meaning": "shop; store",
+    "gender": "neuter",
+    "pronunciation": "[ɡəˈʃɛft]",
+    "plural": "Geschäfte",
+    "example": "Das Geschäft ist groß."
   },
   "geselligsten": {
     "meaning": "most sociable",
@@ -438,58 +357,215 @@
     "plural": null,
     "example": ""
   },
-  "mitleidsvoll": {
-    "meaning": "compassionate",
+  "gespielt": {
+    "meaning": "played",
+    "pronunciation": "[ɡəˈʃpiːlt]",
+    "example": "Sie hat Fußball gespielt."
+  },
+  "gesprochen": {
+    "meaning": "spoken; talked",
+    "pronunciation": "[ɡəˈʃpʁoːxn̩]",
+    "example": "Wir haben über das Wetter gesprochen."
+  },
+  "gestern": {
+    "meaning": "yesterday",
     "gender": null,
-    "pronunciation": "mit-lyts-foll",
+    "pronunciation": "",
     "audio": "",
     "plural": null,
     "example": ""
   },
-  "blicke": {
-    "meaning": "glances",
-    "gender": "m",
-    "pronunciation": "blik-eh",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "gipfeln": {
+    "meaning": "peaks; summits",
+    "gender": "masculine",
+    "pronunciation": "[ˈɡɪpfl̩n]",
+    "plural": "Gipfel",
+    "example": "Die Gipfel der Alpen sind hoch."
   },
-  "ab": {
-    "meaning": "away",
-    "gender": null,
-    "pronunciation": "ahp",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "glücklich": {
+    "meaning": "happy",
+    "pronunciation": "[ˈɡlʏklɪç]",
+    "example": "Ich bin glücklich."
   },
-  "seufzten": {
-    "meaning": "sighed",
-    "gender": null,
-    "pronunciation": "soyf-ts-ten",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "gröttrup": {
+    "meaning": "Gröttrup (name)",
+    "pronunciation": "[ˈɡʁøtʁʊp]"
   },
-  "unglückliche": {
-    "meaning": "unlucky",
-    "gender": null,
-    "pronunciation": "oon-glook-likh-eh",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "gut": {
+    "meaning": "good",
+    "pronunciation": "[ɡuːt]",
+    "example": "Der Film war gut."
   },
-  "wurde": {
-    "meaning": "was (became)",
-    "gender": null,
-    "pronunciation": "voord-eh",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "handy": {
+    "meaning": "cell phone",
+    "gender": "neuter",
+    "pronunciation": "[ˈhɛndi]",
+    "plural": "Handys",
+    "example": "Wo ist mein Handy?"
   },
   "harte": {
     "meaning": "hard",
     "gender": null,
     "pronunciation": "har-teh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "hauch": {
+    "meaning": "breath",
+    "gender": "masculine",
+    "pronunciation": "[haʊ̯x]",
+    "plural": "Hauche",
+    "example": "Ein Hauch von Wind war zu spüren."
+  },
+  "helfen": {
+    "meaning": "help",
+    "pronunciation": "[ˈhɛlfn̩]",
+    "example": "Kannst du mir helfen?"
+  },
+  "helme": {
+    "meaning": "helmets",
+    "gender": "masculine",
+    "pronunciation": "[ˈhɛlmə]",
+    "singular": "Helm",
+    "example": "Die Helme sind bunt."
+  },
+  "herr": {
+    "meaning": "Mr.",
+    "gender": "masculine",
+    "pronunciation": "[hɛʁ]",
+    "example": "Herr Müller ist mein Lehrer."
+  },
+  "hier": {
+    "meaning": "here",
+    "gender": null,
+    "pronunciation": "hiːɐ̯",
+    "audio": "audio/hier.mp3",
+    "plural": null,
+    "example": "Ich bin hier."
+  },
+  "hoffe": {
+    "meaning": "hope (I hope)",
+    "pronunciation": "[ˈhɔfə]",
+    "example": "Ich hoffe auf gutes Wetter."
+  },
+  "ihn": {
+    "meaning": "him",
+    "gender": null,
+    "pronunciation": "een",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "im": {
+    "meaning": "in the",
+    "pronunciation": "[ɪm]",
+    "example": "Im Sommer ist es warm."
+  },
+  "in": {
+    "meaning": "in",
+    "gender": null,
+    "pronunciation": "ɪn",
+    "audio": "audio/in.mp3",
+    "plural": null,
+    "example": "Ich bin in Berlin."
+  },
+  "isst": {
+    "meaning": "eats",
+    "pronunciation": "[ɪst]",
+    "example": "Sie isst einen Apfel."
+  },
+  "ist": {
+    "meaning": "is",
+    "pronunciation": "[ɪst]",
+    "example": "Das ist gut."
+  },
+  "jahre": {
+    "meaning": "years",
+    "gender": "neuter",
+    "pronunciation": "[ˈjaːʁə]",
+    "singular": "Jahr",
+    "example": "Er ist drei Jahre alt."
+  },
+  "jahrhunderten": {
+    "meaning": "centuries (dative plural)",
+    "gender": "n",
+    "pronunciation": "yah-hoon-der-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "jetzt": {
+    "meaning": "now",
+    "pronunciation": "[jɛtst]",
+    "example": "Jetzt ist Pause."
+  },
+  "junge": {
+    "meaning": "boy",
+    "gender": "masculine",
+    "pronunciation": "[ˈjʊŋə]",
+    "plural": "Jungen",
+    "example": "Der Junge spielt im Garten."
+  },
+  "kann": {
+    "meaning": "can (I/he/she/it can)",
+    "pronunciation": "[kan]",
+    "example": "Ich kann schwimmen."
+  },
+  "kaputt": {
+    "meaning": "broken",
+    "pronunciation": "[kaˈpʊt]",
+    "example": "Mein Auto ist kaputt."
+  },
+  "kaufen": {
+    "meaning": "to buy",
+    "pronunciation": "[ˈkaʊ̯fn̩]",
+    "example": "Ich möchte ein Auto kaufen."
+  },
+  "kaum": {
+    "meaning": "hardly; scarcely",
+    "pronunciation": "[kaʊ̯m]",
+    "example": "Ich habe kaum Zeit."
+  },
+  "kind": {
+    "meaning": "child",
+    "gender": "neuter",
+    "pronunciation": "[kɪnt]",
+    "plural": "Kinder",
+    "example": "Mein Kind ist fröhlich."
+  },
+  "kinder": {
+    "meaning": "children",
+    "gender": "neuter",
+    "pronunciation": "[ˈkɪndɐ]",
+    "singular": "Kind",
+    "example": "Die Kinder spielen."
+  },
+  "kostet": {
+    "meaning": "costs (it costs)",
+    "pronunciation": "[ˈkɔstət]",
+    "example": "Wie viel kostet das?"
+  },
+  "lassen": {
+    "meaning": "to let, to allow",
+    "gender": null,
+    "pronunciation": "lah-sen",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "leben": {
+    "meaning": "life",
+    "gender": "das (n)",
+    "pronunciation": "ˈleː.bən",
+    "audio": "audio/leben.mp3",
+    "plural": "Leben",
+    "example": "Das Leben ist schön."
+  },
+  "lob": {
+    "meaning": "praise",
+    "gender": "n",
+    "pronunciation": "lohb",
     "audio": "",
     "plural": null,
     "example": ""
@@ -502,58 +578,86 @@
     "plural": null,
     "example": ""
   },
-  "weder": {
-    "meaning": "neither",
+  "mann": {
+    "meaning": "man",
+    "gender": "masculine",
+    "pronunciation": "[man]",
+    "plural": "Männer",
+    "example": "Der Mann liest ein Buch."
+  },
+  "messen": {
+    "meaning": "to measure",
     "gender": null,
-    "pronunciation": "vay-der",
-    "audio": "",
+    "pronunciation": "ˈmɛsən",
+    "audio": "audio/messen.mp3",
     "plural": null,
-    "example": ""
+    "example": "Wir messen die Länge."
   },
-  "geliebte": {
-    "meaning": "beloved",
-    "gender": "m/f",
-    "pronunciation": "geh-leeb-teh",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "mich": {
+    "meaning": "me (accusative of 'ich', I)",
+    "pronunciation": "[mɪç]",
+    "example": "Kannst du mich hören?"
   },
-  "noch": {
-    "meaning": "still; yet",
-    "pronunciation": "[nɔx]",
-    "example": "Ich bin noch nicht fertig."
-  },
-  "freund": {
-    "meaning": "friend",
-    "gender": "m",
-    "pronunciation": "froynt",
-    "audio": "",
-    "plural": "Freunde",
-    "example": ""
-  },
-  "einzige": {
-    "meaning": "only",
-    "gender": null,
-    "pronunciation": "ine-tsi-geh",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "art": {
-    "meaning": "kind, species",
-    "gender": "f",
-    "pronunciation": "ahrt",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "wissens": {
-    "meaning": "",
+  "mit": {
+    "meaning": "with",
     "gender": null,
     "pronunciation": "",
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "mitleidsvoll": {
+    "meaning": "compassionate",
+    "gender": null,
+    "pronunciation": "mit-lyts-foll",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "mitte": {
+    "meaning": "middle / center",
+    "gender": "die (f)",
+    "pronunciation": "ˈmɪtə",
+    "audio": "audio/mitte.mp3",
+    "plural": "Mitten",
+    "example": "In der Mitte des Raumes."
+  },
+  "möchte": {
+    "meaning": "would like (I/he/she would like)",
+    "pronunciation": "[ˈmœçtə]",
+    "example": "Ich möchte ein Eis."
+  },
+  "mutter": {
+    "meaning": "mother",
+    "gender": "feminine",
+    "pronunciation": "[ˈmʊtɐ]",
+    "plural": "Mütter",
+    "example": "Meine Mutter heißt Anna."
+  },
+  "nach": {
+    "meaning": "after, toward",
+    "gender": null,
+    "pronunciation": "nahkh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "nachbar": {
+    "meaning": "neighbor",
+    "gender": "masculine",
+    "pronunciation": "[ˈnaχbaːɐ̯]",
+    "plural": "Nachbarn",
+    "example": "Mein Nachbar ist freundlich."
+  },
+  "nett": {
+    "meaning": "nice",
+    "pronunciation": "[nɛt]",
+    "example": "Sie ist sehr nett."
+  },
+  "neu": {
+    "meaning": "new",
+    "pronunciation": "[nɔʏ]",
+    "example": "Das Buch ist neu."
   },
   "nicht": {
     "meaning": "not",
@@ -563,48 +667,58 @@
     "plural": null,
     "example": "Ich bin nicht müde."
   },
-  "allen": {
-    "meaning": "all",
-    "pronunciation": "[ˈalən]"
-  },
-  "auch": {
-    "meaning": "also; too",
-    "pronunciation": "[aʊ̯x]",
-    "example": "Ich komme auch."
-  },
-  "balde": {
-    "meaning": "soon",
-    "pronunciation": "[ˈbaldə]",
-    "example": "Bald wird es Sommer."
-  },
-  "gipfeln": {
-    "meaning": "peaks; summits",
-    "gender": "masculine",
-    "pronunciation": "[ˈɡɪpfl̩n]",
-    "plural": "Gipfel",
-    "example": "Die Gipfel der Alpen sind hoch."
-  },
-  "hauch": {
-    "meaning": "breath",
-    "gender": "masculine",
-    "pronunciation": "[haʊ̯x]",
-    "plural": "Hauche",
-    "example": "Ein Hauch von Wind war zu spüren."
-  },
-  "im": {
-    "meaning": "in the",
-    "pronunciation": "[ɪm]",
-    "example": "Im Sommer ist es warm."
-  },
-  "kaum": {
-    "meaning": "hardly; scarcely",
-    "pronunciation": "[kaʊ̯m]",
-    "example": "Ich habe kaum Zeit."
+  "noch": {
+    "meaning": "still; yet",
+    "pronunciation": "[nɔx]",
+    "example": "Ich bin noch nicht fertig."
   },
   "nur": {
     "meaning": "only; just",
     "pronunciation": "[nuːɐ̯]",
     "example": "Warte nur einen Moment."
+  },
+  "ob": {
+    "meaning": "if; whether",
+    "pronunciation": "[ɔp]",
+    "example": "Weißt du, ob er kommt?"
+  },
+  "oft": {
+    "meaning": "often",
+    "pronunciation": "[ɔft]",
+    "example": "Er liest oft Bücher."
+  },
+  "passt": {
+    "meaning": "fits (it fits)",
+    "pronunciation": "[past]",
+    "example": "Der Schuh passt mir."
+  },
+  "phönix": {
+    "meaning": "phoenix",
+    "gender": "m",
+    "pronunciation": "fuh-niks",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "plötzlich": {
+    "meaning": "suddenly",
+    "pronunciation": "[ˈplœt͡slɪç]",
+    "example": "Plötzlich regnete es."
+  },
+  "problem": {
+    "meaning": "problem",
+    "gender": "neuter",
+    "pronunciation": "[pʁoˈbleːm]",
+    "plural": "Probleme",
+    "example": "Hast du ein Problem?"
+  },
+  "raum": {
+    "meaning": "space / room",
+    "gender": "der (m)",
+    "pronunciation": "ʁaʊ̯m",
+    "audio": "audio/raum.mp3",
+    "plural": "Räume",
+    "example": "Dieser Raum ist groß."
   },
   "ruh": {
     "meaning": "peace; rest",
@@ -617,15 +731,263 @@
     "pronunciation": "[ˈʁuːəst]",
     "example": "Du ruhest sanft."
   },
+  "sagte": {
+    "meaning": "said",
+    "pronunciation": "[ˈzaːktə]",
+    "example": "Sie sagte Hallo."
+  },
+  "schatten": {
+    "meaning": "shadow",
+    "gender": "der (m)",
+    "pronunciation": "ˈʃatən",
+    "audio": "audio/schatten.mp3",
+    "plural": "Schatten",
+    "example": "Der Schatten ist lang."
+  },
+  "schnell": {
+    "meaning": "fast; quickly",
+    "pronunciation": "[ʃnɛl]",
+    "example": "Er läuft schnell."
+  },
+  "schön": {
+    "meaning": "beautiful; nice",
+    "pronunciation": "[ʃøːn]",
+    "example": "Das Wetter ist schön."
+  },
+  "schweben": {
+    "meaning": "to float / to hover",
+    "gender": null,
+    "pronunciation": "ˈʃveːbən",
+    "audio": "audio/schweben.mp3",
+    "plural": null,
+    "example": "Die Blätter schweben im Wind."
+  },
   "schweigen": {
     "meaning": "to be silent",
     "pronunciation": "[ˈʃvaɪ̯ɡn̩]",
     "example": "Sie schweigen während des Vortrags."
   },
+  "schwinden": {
+    "meaning": "to fade / to vanish",
+    "gender": null,
+    "pronunciation": "ˈʃvɪndən",
+    "audio": "audio/schwinden.mp3",
+    "plural": null,
+    "example": "Die Hoffnung schwindet."
+  },
+  "sehen": {
+    "meaning": "to see",
+    "gender": null,
+    "pronunciation": "zay-en",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sehr": {
+    "meaning": "very",
+    "pronunciation": "[zeːɐ̯]",
+    "example": "Das ist sehr gut."
+  },
+  "seine": {
+    "meaning": "his",
+    "pronunciation": "[ˈzaɪ̯nə]",
+    "example": "Seine Mutter ist Ärztin."
+  },
+  "seufzten": {
+    "meaning": "sighed",
+    "gender": null,
+    "pronunciation": "soyf-ts-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sich": {
+    "meaning": "oneself",
+    "gender": null,
+    "pronunciation": "zikh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "sicher": {
+    "meaning": "safe",
+    "pronunciation": "[ˈzɪçɐ]",
+    "example": "Der Fahrradsitz ist sicher."
+  },
+  "sicherheit": {
+    "meaning": "safety; security",
+    "gender": "feminine",
+    "pronunciation": "[ˈzɪçɐhaɪ̯t]",
+    "example": "Sicherheit ist wichtig."
+  },
+  "sind": {
+    "meaning": "are",
+    "gender": null,
+    "pronunciation": "zɪnt",
+    "audio": "audio/sind.mp3",
+    "plural": null,
+    "example": "Wir sind hier."
+  },
+  "sitz": {
+    "meaning": "seat",
+    "gender": "masculine",
+    "pronunciation": "[zɪt͡s]",
+    "plural": "Sitze",
+    "example": "Der Sitz ist bequem."
+  },
+  "sitzt": {
+    "meaning": "sits",
+    "pronunciation": "[zɪtst]",
+    "example": "Er sitzt am Tisch."
+  },
+  "so": {
+    "meaning": "so; such",
+    "pronunciation": "[zoː]",
+    "example": "Das ist so schön!"
+  },
+  "spielt": {
+    "meaning": "played",
+    "gender": null,
+    "pronunciation": "",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
   "spürest": {
     "meaning": "feel (you feel)",
     "pronunciation": "[ˈʃpyːʁəst]",
     "example": "Spürest du den Wind?"
+  },
+  "staunten": {
+    "meaning": "were amazed",
+    "gender": null,
+    "pronunciation": "shtown-ten",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "tiere": {
+    "meaning": "animals",
+    "gender": "n",
+    "pronunciation": "tee-reh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "tisch": {
+    "meaning": "table",
+    "gender": "masculine",
+    "pronunciation": "[tɪʃ]",
+    "plural": "Tische",
+    "example": "Der Tisch ist groß."
+  },
+  "trägen": {
+    "meaning": "sluggish / lazy",
+    "gender": null,
+    "pronunciation": "ˈtʁɛːɡn̩",
+    "audio": "audio/traegen.mp3",
+    "plural": null,
+    "example": "Er ist von träger Natur."
+  },
+  "traum": {
+    "meaning": "dream",
+    "gender": "der (m)",
+    "pronunciation": "traʊ̯m",
+    "audio": "audio/traum.mp3",
+    "plural": "Träume",
+    "example": "Ich hatte einen schönen Traum."
+  },
+  "traurig": {
+    "meaning": "sad",
+    "pronunciation": "[ˈtʁaʊ̯ʁɪç]",
+    "example": "Ich bin traurig."
+  },
+  "tritte": {
+    "meaning": "steps / footsteps",
+    "gender": "der (m, plural)",
+    "pronunciation": "ˈtʁɪtə",
+    "audio": "audio/tritte.mp3",
+    "plural": "Tritte",
+    "example": "Seine Tritte hallten im Gang."
+  },
+  "über": {
+    "meaning": "over",
+    "pronunciation": "[ˈyːbɐ]",
+    "example": "Über den Wolken ist die Sonne."
+  },
+  "um": {
+    "meaning": "around",
+    "gender": null,
+    "pronunciation": "oom",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "und": {
+    "meaning": "and",
+    "gender": null,
+    "pronunciation": "ʊnt",
+    "audio": "audio/und.mp3",
+    "plural": null,
+    "example": "Du und ich."
+  },
+  "unglückliche": {
+    "meaning": "unlucky",
+    "gender": null,
+    "pronunciation": "oon-glook-likh-eh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "unser": {
+    "meaning": "our",
+    "gender": null,
+    "pronunciation": "ˈʊn.zɐ",
+    "audio": "audio/unser.mp3",
+    "plural": null,
+    "example": "Das ist unser Haus."
+  },
+  "unsre": {
+    "meaning": "our (poetic form of 'unsere')",
+    "gender": null,
+    "pronunciation": "ˈʊnzʁə",
+    "audio": "audio/unsre.mp3",
+    "plural": null,
+    "example": "Unsre Herzen schlagen schnell."
+  },
+  "versammelten": {
+    "meaning": "gathered",
+    "gender": null,
+    "pronunciation": "fer-zahm-elt-en",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "viel": {
+    "meaning": "much; a lot",
+    "pronunciation": "[fiːl]",
+    "example": "Ich habe viel Zeit."
+  },
+  "vielen": {
+    "meaning": "many (plural, dative)",
+    "gender": null,
+    "pronunciation": "fee-len",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "vielleicht": {
+    "meaning": "maybe",
+    "pronunciation": "[fiˈlaɪ̯çt]",
+    "example": "Vielleicht komme ich morgen."
+  },
+  "vögel": {
+    "meaning": "birds",
+    "gender": "m",
+    "pronunciation": "fuh-gel",
+    "audio": "",
+    "plural": null,
+    "example": ""
   },
   "vögelein": {
     "meaning": "little birds",
@@ -641,10 +1003,57 @@
     "plural": "Wälder",
     "example": "Im Walde ist es still."
   },
+  "wandten": {
+    "meaning": "turned (past of wenden)",
+    "gender": null,
+    "pronunciation": "vahnt-en",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "war": {
+    "meaning": "was",
+    "pronunciation": "[vaːɐ̯]",
+    "example": "Er war müde."
+  },
   "warte": {
     "meaning": "wait (you wait / imperative)",
     "pronunciation": "[ˈvaʁtə]",
     "example": "Warte auf mich!"
+  },
+  "weder": {
+    "meaning": "neither",
+    "gender": null,
+    "pronunciation": "vay-der",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "weich": {
+    "meaning": "soft",
+    "pronunciation": "[vaɪç]",
+    "example": "Das Ei ist weich."
+  },
+  "wichtig": {
+    "meaning": "important",
+    "pronunciation": "[ˈvɪçtɪç]",
+    "example": "Sicherheit ist wichtig."
+  },
+  "wie": {
+    "meaning": "like / how",
+    "gender": null,
+    "pronunciation": "viː",
+    "audio": "audio/wie.mp3",
+    "plural": null,
+    "example": "Wie geht es dir?"
+  },
+  "wieder": {
+    "meaning": "again",
+    "gender": null,
+    "pronunciation": "vee-der",
+    "audio": "",
+    "plural": null,
+    "example": ""
   },
   "wipfeln": {
     "meaning": "tree tops",
@@ -653,628 +1062,53 @@
     "plural": "Wipfel",
     "example": "Die Wipfeln bewegen sich im Wind."
   },
-  "über": {
-    "meaning": "over",
-    "pronunciation": "[ˈyːbɐ]",
-    "example": "Über den Wolken ist die Sonne."
-  },
-  "zu": {
-    "meaning": "too; to",
-    "pronunciation": "[t͡suː]",
-    "example": "Das ist zu viel."
-  },
-  "er": {
-    "meaning": "he",
-    "pronunciation": "[eːɐ̯]",
-    "example": "Er spielt Fußball."
-  },
-  "sie": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "aus": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "aber": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "die": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ihre": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ihm": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "das": {
-    "meaning": "the (neuter)",
-    "gender": null,
-    "pronunciation": "[das]",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  
-  
-  "ei": {
-    "meaning": "egg",
-    "gender": "neuter",
-    "pronunciation": "[aɪ̯]",
-    "plural": "Eier",
-    "example": "Das Ei ist frisch."
-  },
-  "frau": {
-    "meaning": "wife",
-    "gender": "feminine",
-    "pronunciation": "[fʁaʊ̯]",
-    "plural": "Frauen",
-    "example": "Meine Frau ist nett."
-  },
-  "frühstücksei": {
-    "meaning": "boiled egg",
-    "gender": "neuter",
-    "pronunciation": "[ˈfʁyːʃtʏksˌaɪ̯]",
-    "plural": "Frühstückseier",
-    "example": "Ich esse ein Frühstücksei."
-  },
-  "gröttrup": {
-    "meaning": "Gröttrup (name)",
-    "pronunciation": "[ˈɡʁøtʁʊp]"
-  },
-  "herr": {
-    "meaning": "Mr.",
-    "gender": "masculine",
-    "pronunciation": "[hɛʁ]",
-    "example": "Herr Müller ist mein Lehrer."
-  },
-  "mann": {
-    "meaning": "man",
-    "gender": "masculine",
-    "pronunciation": "[man]",
-    "plural": "Männer",
-    "example": "Der Mann liest ein Buch."
-  },
-  "seine": {
-    "meaning": "his",
-    "pronunciation": "[ˈzaɪ̯nə]",
-    "example": "Seine Mutter ist Ärztin."
-  },
-  "tisch": {
-    "meaning": "table",
-    "gender": "masculine",
-    "pronunciation": "[tɪʃ]",
-    "plural": "Tische",
-    "example": "Der Tisch ist groß."
-  },
-  "alter": {
-    "meaning": "old",
-    "pronunciation": "[ˈaltɐ]",
-    "example": "Er ist ein alter Mann."
-  },
-  "am": {
-    "meaning": "at the",
-    "pronunciation": "[am]",
-    "example": "Er sitzt am Tisch."
-  },
-  "glücklich": {
-    "meaning": "happy",
-    "pronunciation": "[ˈɡlʏklɪç]",
-    "example": "Ich bin glücklich."
-  },
-  "isst": {
-    "meaning": "eats",
-    "pronunciation": "[ɪst]",
-    "example": "Sie isst einen Apfel."
-  },
-  "sitzt": {
-    "meaning": "sits",
-    "pronunciation": "[zɪtst]",
-    "example": "Er sitzt am Tisch."
-  },
-  "weich": {
-    "meaning": "soft",
-    "pronunciation": "[vaɪç]",
-    "example": "Das Ei ist weich."
-  },
-  "alt": {
-    "meaning": "old",
-    "pronunciation": "[alt]",
-    "example": "Mein Hund ist alt."
-  },
-  "angerufen": {
-    "meaning": "called (by phone)",
-    "pronunciation": "[ˈanɡəˌʁuːfən]",
-    "example": "Ich habe meine Mutter angerufen."
-  },
-  "ball": {
-    "meaning": "ball",
-    "gender": "masculine",
-    "pronunciation": "[bal]",
-    "plural": "Bälle",
-    "example": "Der Ball ist rund."
-  },
-  "bekommen": {
-    "meaning": "get; receive",
-    "pronunciation": "[bəˈkɔmən]",
-    "example": "Ich bekomme ein Geschenk."
-  },
-  "bildschirm": {
-    "meaning": "screen",
-    "gender": "masculine",
-    "pronunciation": "[ˈbɪltʃɪʁm]",
-    "plural": "Bildschirme",
-    "example": "Der Bildschirm ist groß."
-  },
-  "boden": {
-    "meaning": "floor; ground",
-    "gender": "masculine",
-    "pronunciation": "[ˈboːdn̩]",
-    "plural": "Böden",
-    "example": "Das Buch liegt auf dem Boden."
-  },
-  "draußen": {
-    "meaning": "outside",
-    "pronunciation": "[ˈdʁaʊ̯sən]",
-    "example": "Die Kinder spielen draußen."
-  },
-  "fiel": {
-    "meaning": "fell",
-    "pronunciation": "[fiːl]",
-    "example": "Das Glas fiel auf den Boden."
-  },
-  "flog": {
-    "meaning": "flew",
-    "pronunciation": "[floːk]",
-    "example": "Der Vogel flog weg."
-  },
-  "fünf": {
-    "meaning": "five",
-    "pronunciation": "[fʏnf]",
-    "example": "Ich habe fünf Äpfel."
-  },
-  "gegen": {
-    "meaning": "against; into",
-    "pronunciation": "[ˈɡeːɡn̩]",
-    "example": "Er läuft gegen die Tür."
-  },
-  "gemacht": {
-    "meaning": "made; did",
-    "pronunciation": "[ɡəˈmaxt]",
-    "example": "Ich habe meine Hausaufgaben gemacht."
-  },
-  "gespielt": {
-    "meaning": "played",
-    "pronunciation": "[ɡəˈʃpiːlt]",
-    "example": "Sie hat Fußball gespielt."
-  },
-  "gesprochen": {
-    "meaning": "spoken; talked",
-    "pronunciation": "[ɡəˈʃpʁoːxn̩]",
-    "example": "Wir haben über das Wetter gesprochen."
-  },
-  "handy": {
-    "meaning": "cell phone",
-    "gender": "neuter",
-    "pronunciation": "[ˈhɛndi]",
-    "plural": "Handys",
-    "example": "Wo ist mein Handy?"
-  },
-  "helfen": {
-    "meaning": "help",
-    "pronunciation": "[ˈhɛlfn̩]",
-    "example": "Kannst du mir helfen?"
-  },
-  "hoffe": {
-    "meaning": "hope (I hope)",
-    "pronunciation": "[ˈhɔfə]",
-    "example": "Ich hoffe auf gutes Wetter."
-  },
-  "jahre": {
-    "meaning": "years",
-    "gender": "neuter",
-    "pronunciation": "[ˈjaːʁə]",
-    "singular": "Jahr",
-    "example": "Er ist drei Jahre alt."
-  },
-  "jetzt": {
-    "meaning": "now",
-    "pronunciation": "[jɛtst]",
-    "example": "Jetzt ist Pause."
-  },
-  "junge": {
-    "meaning": "boy",
-    "gender": "masculine",
-    "pronunciation": "[ˈjʊŋə]",
-    "plural": "Jungen",
-    "example": "Der Junge spielt im Garten."
-  },
-  "kaputt": {
-    "meaning": "broken",
-    "pronunciation": "[kaˈpʊt]",
-    "example": "Mein Auto ist kaputt."
-  },
-  "kann": {
-    "meaning": "can (I/he/she/it can)",
-    "pronunciation": "[kan]",
-    "example": "Ich kann schwimmen."
-  },
-  "mutter": {
-    "meaning": "mother",
-    "gender": "feminine",
-    "pronunciation": "[ˈmʊtɐ]",
-    "plural": "Mütter",
-    "example": "Meine Mutter heißt Anna."
-  },
-  "nachbar": {
-    "meaning": "neighbor",
-    "gender": "masculine",
-    "pronunciation": "[ˈnaχbaːɐ̯]",
-    "plural": "Nachbarn",
-    "example": "Mein Nachbar ist freundlich."
-  },
-  "neu": {
-    "meaning": "new",
-    "pronunciation": "[nɔʏ]",
-    "example": "Das Buch ist neu."
-  },
-  "nett": {
-    "meaning": "nice",
-    "pronunciation": "[nɛt]",
-    "example": "Sie ist sehr nett."
-  },
-  "oft": {
-    "meaning": "often",
-    "pronunciation": "[ɔft]",
-    "example": "Er liest oft Bücher."
-  },
-  "plötzlich": {
-    "meaning": "suddenly",
-    "pronunciation": "[ˈplœt͡slɪç]",
-    "example": "Plötzlich regnete es."
-  },
-  "problem": {
-    "meaning": "problem",
-    "gender": "neuter",
-    "pronunciation": "[pʁoˈbleːm]",
-    "plural": "Probleme",
-    "example": "Hast du ein Problem?"
-  },
-  "sagte": {
-    "meaning": "said",
-    "pronunciation": "[ˈzaːktə]",
-    "example": "Sie sagte Hallo."
-  },
-  "schön": {
-    "meaning": "beautiful; nice",
-    "pronunciation": "[ʃøːn]",
-    "example": "Das Wetter ist schön."
-  },
-  "schnell": {
-    "meaning": "fast; quickly",
-    "pronunciation": "[ʃnɛl]",
-    "example": "Er läuft schnell."
-  },
-  "traurig": {
-    "meaning": "sad",
-    "pronunciation": "[ˈtʁaʊ̯ʁɪç]",
-    "example": "Ich bin traurig."
-  },
-  "vielleicht": {
-    "meaning": "maybe",
-    "pronunciation": "[fiˈlaɪ̯çt]",
-    "example": "Vielleicht komme ich morgen."
-  },
-  "war": {
-    "meaning": "was",
-    "pronunciation": "[vaːɐ̯]",
-    "example": "Er war müde."
+  "wir": {
+    "meaning": "we",
+    "pronunciation": "[viːɐ̯]",
+    "example": "Wir gehen ins Kino."
   },
   "wird": {
     "meaning": "will (future tense auxiliary)",
     "pronunciation": "[vɪʁt]",
     "example": "Es wird warm."
   },
+  "wogen": {
+    "meaning": "waves (poetic)",
+    "gender": "die (f, plural)",
+    "pronunciation": "ˈvoːɡn̩",
+    "audio": "audio/wogen.mp3",
+    "plural": null,
+    "example": "Die Wogen schlagen ans Ufer."
+  },
+  "wogen*": {
+    "meaning": "(word not found in this context; did you mean 'wägen' (to weigh), 'Wogen' (waves), or another word?)",
+    "pronunciation": "",
+    "example": ""
+  },
+  "wurde": {
+    "meaning": "was (became)",
+    "gender": null,
+    "pronunciation": "voord-eh",
+    "audio": "",
+    "plural": null,
+    "example": ""
+  },
+  "zeit": {
+    "meaning": "time",
+    "gender": "die (f)",
+    "pronunciation": "tsaɪ̯t",
+    "audio": "audio/zeit.mp3",
+    "plural": "Zeiten",
+    "example": "Die Zeit vergeht schnell."
+  },
   "zerbrochen": {
     "meaning": "broken; shattered",
     "pronunciation": "[t͡sɛɐ̯ˈbʁɔxən]",
     "example": "Das Glas ist zerbrochen."
   },
-  "mein": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "hat": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ich": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "bin": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "sehr": {
-    "meaning": "very",
-    "pronunciation": "[zeːɐ̯]",
-    "example": "Das ist sehr gut."
-  },
-  "spielt": {
-    "meaning": "played",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "gestern": {
-    "meaning": "yesterday",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "mit": {
-    "meaning": "with",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "einem": {
-    "meaning": "a",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "habe": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "neues": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "geht": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "fahrradsitz": {
-    "meaning": "bike seat",
-    "gender": "masculine",
-    "pronunciation": "[ˈfaːʁaːtˌzɪt͡s]",
-    "plural": "Fahrradsitze",
-    "example": "Der Fahrradsitz ist bequem."
-  },
-  "geschäft": {
-    "meaning": "shop; store",
-    "gender": "neuter",
-    "pronunciation": "[ɡəˈʃɛft]",
-    "plural": "Geschäfte",
-    "example": "Das Geschäft ist groß."
-  },
-  "helme": {
-    "meaning": "helmets",
-    "gender": "masculine",
-    "pronunciation": "[ˈhɛlmə]",
-    "singular": "Helm",
-    "example": "Die Helme sind bunt."
-  },
-  "kinder": {
-    "meaning": "children",
-    "gender": "neuter",
-    "pronunciation": "[ˈkɪndɐ]",
-    "singular": "Kind",
-    "example": "Die Kinder spielen."
-  },
-  "möchte": {
-    "meaning": "would like (I/he/she would like)",
-    "pronunciation": "[ˈmœçtə]",
-    "example": "Ich möchte ein Eis."
-  },
-  "passt": {
-    "meaning": "fits (it fits)",
-    "pronunciation": "[past]",
-    "example": "Der Schuh passt mir."
-  },
-  "sicher": {
-    "meaning": "safe",
-    "pronunciation": "[ˈzɪçɐ]",
-    "example": "Der Fahrradsitz ist sicher."
-  },
-  "bequem": {
-    "meaning": "comfortable",
-    "pronunciation": "[bəˈkveːm]",
-    "example": "Der Stuhl ist bequem."
-  },
-  "ausprobieren": {
-    "meaning": "to try out",
-    "pronunciation": "[ˈaʊ̯s.proˌbiːʁən]",
-    "example": "Kann ich das ausprobieren?"
-  },
-  "kostet": {
-    "meaning": "costs (it costs)",
-    "pronunciation": "[ˈkɔstət]",
-    "example": "Wie viel kostet das?"
-  },
-  "wichtig": {
-    "meaning": "important",
-    "pronunciation": "[ˈvɪçtɪç]",
-    "example": "Sicherheit ist wichtig."
-  },
-  "für": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "kind": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "kaufen": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "so": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "etwas": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "viel": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "drei": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "sitz": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "dieses": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "ob": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "gut": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "sicherheit": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "mich": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
-  },
-  "wogen*": {
-    "meaning": "",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+  "zu": {
+    "meaning": "too; to",
+    "pronunciation": "[t͡suː]",
+    "example": "Das ist zu viel."
   }
 }
