@@ -1,5 +1,19 @@
 {
-  
+  "ab": {
+    "meaning": "from; as of",
+    "pronunciation": "[ap]",
+    "example": "Der Kurs beginnt ab Montag."
+  },
+  "aber": {
+    "meaning": "but",
+    "pronunciation": "[ˈaːbɐ]",
+    "example": "Ich mag Kaffee, aber ich trinke lieber Tee."
+  },
+  "alle": {
+    "meaning": "all (plural)",
+    "pronunciation": "[ˈalə]",
+    "example": "Alle Kinder spielen im Garten."
+  },
   "allen": {
     "meaning": "all",
     "pronunciation": "[ˈalən]"
@@ -44,6 +58,16 @@
     "audio": "audio/auf.mp3",
     "plural": null,
     "example": "Das Buch liegt auf dem Tisch."
+  },
+  "aufgeregt": {
+    "meaning": "excited, nervous",
+    "pronunciation": "[ˈaʊ̯fɡəʁeːkt]",
+    "example": "Ich bin aufgeregt."
+  },
+  "aus": {
+    "meaning": "from; out of",
+    "pronunciation": "[aʊ̯s]",
+    "example": "Er kommt aus Deutschland."
   },
   "ausprobieren": {
     "meaning": "to try out",
@@ -103,6 +127,11 @@
     "plural": "Bildschirme",
     "example": "Der Bildschirm ist groß."
   },
+  "bin": {
+    "meaning": "am (I am)",
+    "pronunciation": "[bɪn]",
+    "example": "Ich bin müde."
+  },
   "blicke": {
     "meaning": "glances",
     "gender": "m",
@@ -125,6 +154,13 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "brotbox": {
+    "meaning": "lunchbox",
+    "gender": "feminine",
+    "pronunciation": "[ˈbʁoːtˌbɔks]",
+    "plural": "Brotboxen",
+    "example": "Meine Brotbox ist neu."
   },
   "das": {
     "meaning": "the (neuter)",
@@ -150,6 +186,11 @@
     "plural": null,
     "example": "Ich sehe den Mann."
   },
+  "denn": {
+    "meaning": "because; for",
+    "pronunciation": "[dɛn]",
+    "example": "Ich gehe, denn es ist spät."
+  },
   "der": {
     "meaning": "the (masculine nominative)",
     "gender": null,
@@ -157,6 +198,11 @@
     "audio": "audio/der.mp3",
     "plural": null,
     "example": "Der Mann ist groß."
+  },
+  "die": {
+    "meaning": "the (feminine / plural)",
+    "pronunciation": "[diː]",
+    "example": "Die Frau lächelt."
   },
   "dieses": {
     "meaning": "this (neuter, accusative)",
@@ -173,6 +219,11 @@
     "pronunciation": "[dʁaɪ̯]",
     "example": "Das Kind ist drei Jahre alt."
   },
+  "du": {
+    "meaning": "you (singular, informal)",
+    "pronunciation": "[duː]",
+    "example": "Du bist mein Freund."
+  },
   "ei": {
     "meaning": "egg",
     "gender": "neuter",
@@ -188,6 +239,11 @@
     "plural": null,
     "example": "Ein Mann steht dort."
   },
+  "eine": {
+    "meaning": "a; one (feminine)",
+    "pronunciation": "[ˈaɪ̯nə]",
+    "example": "Ich habe eine Idee."
+  },
   "einem": {
     "meaning": "a",
     "gender": null,
@@ -195,6 +251,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "einen": {
+    "meaning": "a; one (masculine, accusative)",
+    "pronunciation": "[ˈaɪ̯nən]",
+    "example": "Ich sehe einen Hund."
   },
   "einmal": {
     "meaning": "once",
@@ -240,6 +301,16 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "erster": {
+    "meaning": "first (masculine)",
+    "pronunciation": "[ˈeːɐ̯stɐ]",
+    "example": "Mein erster Tag in der Schule war schön."
+  },
+  "erzähle": {
+    "meaning": "tell (I tell)",
+    "pronunciation": "[ɛɐ̯ˈtsɛːlə]",
+    "example": "Ich erzähle eine Geschichte."
   },
   "es": {
     "meaning": "it",
@@ -291,6 +362,11 @@
     "plural": "Freunde",
     "example": ""
   },
+  "freundlich": {
+    "meaning": "friendly",
+    "pronunciation": "[ˈfʁɔɪ̯ntlɪç]",
+    "example": "Die Lehrerin ist freundlich."
+  },
   "frühstücksei": {
     "meaning": "boiled egg",
     "gender": "neuter",
@@ -328,6 +404,11 @@
     "meaning": "against; into",
     "pronunciation": "[ˈɡeːɡn̩]",
     "example": "Er läuft gegen die Tür."
+  },
+  "geht": {
+    "meaning": "goes; walks",
+    "pronunciation": "[ɡeːt]",
+    "example": "Er geht nach Hause."
   },
   "geliebte": {
     "meaning": "beloved",
@@ -396,6 +477,16 @@
     "pronunciation": "[ɡuːt]",
     "example": "Der Film war gut."
   },
+  "habe": {
+    "meaning": "have (I have)",
+    "pronunciation": "[ˈhaːbə]",
+    "example": "Ich habe Hunger."
+  },
+  "haben": {
+    "meaning": "to have",
+    "pronunciation": "[ˈhaːbn̩]",
+    "example": "Wir haben ein Auto."
+  },
   "handy": {
     "meaning": "cell phone",
     "gender": "neuter",
@@ -410,6 +501,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "hat": {
+    "meaning": "has (he/she/it has)",
+    "pronunciation": "[hat]",
+    "example": "Sie hat zwei Brüder."
   },
   "hauch": {
     "meaning": "breath",
@@ -436,6 +532,11 @@
     "pronunciation": "[hɛʁ]",
     "example": "Herr Müller ist mein Lehrer."
   },
+  "heute": {
+    "meaning": "today",
+    "pronunciation": "[ˈhɔɪ̯tə]",
+    "example": "Heute ist Montag."
+  },
   "hier": {
     "meaning": "here",
     "gender": null,
@@ -449,6 +550,16 @@
     "pronunciation": "[ˈhɔfə]",
     "example": "Ich hoffe auf gutes Wetter."
   },
+  "ich": {
+    "meaning": "I",
+    "pronunciation": "[ɪç]",
+    "example": "Ich lerne Deutsch."
+  },
+  "ihm": {
+    "meaning": "him (dative)",
+    "pronunciation": "[iːm]",
+    "example": "Ich gebe ihm ein Buch."
+  },
   "ihn": {
     "meaning": "him",
     "gender": null,
@@ -456,6 +567,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "ihre": {
+    "meaning": "her; their (feminine/plural possessive)",
+    "pronunciation": "[ˈiːʁə]",
+    "example": "Ihre Tasche ist rot."
   },
   "im": {
     "meaning": "in the",
@@ -541,6 +657,13 @@
     "singular": "Kind",
     "example": "Die Kinder spielen."
   },
+  "klasse": {
+    "meaning": "class (school)",
+    "gender": "feminine",
+    "pronunciation": "[ˈklasə]",
+    "plural": "Klassen",
+    "example": "Die Klasse ist groß."
+  },
   "kostet": {
     "meaning": "costs (it costs)",
     "pronunciation": "[ˈkɔstət]",
@@ -561,6 +684,20 @@
     "audio": "audio/leben.mp3",
     "plural": "Leben",
     "example": "Das Leben ist schön."
+  },
+  "lehrerin": {
+    "meaning": "female teacher",
+    "gender": "feminine",
+    "pronunciation": "[ˈleːʁəʁɪn]",
+    "plural": "Lehrerinnen",
+    "example": "Meine Lehrerin ist freundlich."
+  },
+  "lied": {
+    "meaning": "song",
+    "gender": "neuter",
+    "pronunciation": "[liːt]",
+    "plural": "Lieder",
+    "example": "Wir singen ein Lied."
   },
   "lob": {
     "meaning": "praise",
@@ -585,6 +722,21 @@
     "plural": "Männer",
     "example": "Der Mann liest ein Buch."
   },
+  "mein": {
+    "meaning": "my (masculine/neuter)",
+    "pronunciation": "[maɪ̯n]",
+    "example": "Mein Hund heißt Max."
+  },
+  "meine": {
+    "meaning": "my (feminine/plural)",
+    "pronunciation": "[ˈmaɪ̯nə]",
+    "example": "Meine Freunde sind nett."
+  },
+  "meinem": {
+    "meaning": "my (masculine/neuter dative)",
+    "pronunciation": "[ˈmaɪ̯nəm]",
+    "example": "Ich gebe meinem Freund das Buch."
+  },
   "messen": {
     "meaning": "to measure",
     "gender": null,
@@ -597,6 +749,11 @@
     "meaning": "me (accusative of 'ich', I)",
     "pronunciation": "[mɪç]",
     "example": "Kannst du mich hören?"
+  },
+  "mir": {
+    "meaning": "me (dative)",
+    "pronunciation": "[miːɐ̯]",
+    "example": "Das gefällt mir."
   },
   "mit": {
     "meaning": "with",
@@ -657,7 +814,17 @@
   "neu": {
     "meaning": "new",
     "pronunciation": "[nɔʏ]",
-    "example": "Das Buch ist neu."
+    "example": "Mein Ranzen ist neu."
+  },
+  "neue": {
+    "meaning": "new (feminine/plural form)",
+    "pronunciation": "[ˈnɔʏə]",
+    "example": "Ich habe eine neue Tasche."
+  },
+  "neues": {
+    "meaning": "new (neuter/accusative form)",
+    "pronunciation": "[ˈnɔʏəs]",
+    "example": "Das ist ein neues Auto."
   },
   "nicht": {
     "meaning": "not",
@@ -712,6 +879,13 @@
     "plural": "Probleme",
     "example": "Hast du ein Problem?"
   },
+  "ranzen": {
+    "meaning": "satchel (school bag)",
+    "gender": "masculine",
+    "pronunciation": "[ˈʁant͡sn̩]",
+    "plural": "Ranzen",
+    "example": "Ich habe einen blauen Ranzen."
+  },
   "raum": {
     "meaning": "space / room",
     "gender": "der (m)",
@@ -754,6 +928,20 @@
     "pronunciation": "[ʃøːn]",
     "example": "Das Wetter ist schön."
   },
+  "schule": {
+    "meaning": "school",
+    "gender": "feminine",
+    "pronunciation": "[ˈʃuːlə]",
+    "plural": "Schulen",
+    "example": "Die Schule ist nah."
+  },
+  "schultag": {
+    "meaning": "school day",
+    "gender": "masculine",
+    "pronunciation": "[ˈʃuːlˌtaːk]",
+    "plural": "Schultage",
+    "example": "Mein erster Schultag ist heute."
+  },
   "schweben": {
     "meaning": "to float / to hover",
     "gender": null,
@@ -793,6 +981,11 @@
     "pronunciation": "[ˈzaɪ̯nə]",
     "example": "Seine Mutter ist Ärztin."
   },
+  "seiner": {
+    "meaning": "his (masculine/neuter dative or feminine genitive)",
+    "pronunciation": "[ˈzaɪ̯nɐ]",
+    "example": "Ich helfe seiner Schwester."
+  },
   "seufzten": {
     "meaning": "sighed",
     "gender": null,
@@ -820,6 +1013,11 @@
     "pronunciation": "[ˈzɪçɐhaɪ̯t]",
     "example": "Sicherheit ist wichtig."
   },
+  "sie": {
+    "meaning": "she; they",
+    "pronunciation": "[ziː]",
+    "example": "Sie ist meine Freundin."
+  },
   "sind": {
     "meaning": "are",
     "gender": null,
@@ -827,6 +1025,16 @@
     "audio": "audio/sind.mp3",
     "plural": null,
     "example": "Wir sind hier."
+  },
+  "singen": {
+    "meaning": "to sing",
+    "pronunciation": "[ˈzɪŋən]",
+    "example": "Wir singen ein Lied."
+  },
+  "singt": {
+    "meaning": "sings (he/she/it sings)",
+    "pronunciation": "[zɪŋt]",
+    "example": "Sie singt gern."
   },
   "sitz": {
     "meaning": "seat",
@@ -844,6 +1052,11 @@
     "meaning": "so; such",
     "pronunciation": "[zoː]",
     "example": "Das ist so schön!"
+  },
+  "spielen": {
+    "meaning": "to play",
+    "pronunciation": "[ˈʃpiːlən]",
+    "example": "Die Kinder spielen im Park."
   },
   "spielt": {
     "meaning": "played",
@@ -865,6 +1078,13 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "tag": {
+    "meaning": "day",
+    "gender": "masculine",
+    "pronunciation": "[taːk]",
+    "plural": "Tage",
+    "example": "Heute ist ein schöner Tag."
   },
   "tiere": {
     "meaning": "animals",
@@ -968,6 +1188,11 @@
     "pronunciation": "[fiːl]",
     "example": "Ich habe viel Zeit."
   },
+  "viele": {
+    "meaning": "many",
+    "pronunciation": "[ˈfiːlə]",
+    "example": "Viele Leute sind hier."
+  },
   "vielen": {
     "meaning": "many (plural, dative)",
     "gender": null,
@@ -995,6 +1220,11 @@
     "pronunciation": "[ˈføːɡl̩aɪ̯n]",
     "plural": "Vögelein",
     "example": "Die Vögelein singen früh."
+  },
+  "von": {
+    "meaning": "from; of",
+    "pronunciation": "[fɔn]",
+    "example": "Das ist ein Geschenk von meiner Mutter."
   },
   "walde": {
     "meaning": "forest (old/fancy dative form of Wald)",
@@ -1072,6 +1302,13 @@
     "pronunciation": "[vɪʁt]",
     "example": "Es wird warm."
   },
+  "wissens": {
+    "meaning": "of knowledge (genitive form of Wissen)",
+    "gender": "neuter",
+    "pronunciation": "[ˈvɪsns]",
+    "plural": "—",
+    "example": "Das Buch des Wissens ist interessant."
+  },
   "wogen": {
     "meaning": "waves (poetic)",
     "gender": "die (f, plural)",
@@ -1110,5 +1347,20 @@
     "meaning": "too; to",
     "pronunciation": "[t͡suː]",
     "example": "Das ist zu viel."
+  },
+  "zu hause": {
+    "meaning": "at home",
+    "pronunciation": "[tsuː ˈhaʊ̯zə]",
+    "example": "Ich bin zu Hause."
+  },
+  "zur": {
+    "meaning": "to the (contraction of 'zu der')",
+    "pronunciation": "[tsuːɐ̯]",
+    "example": "Ich gehe zur Schule."
+  },
+  "zusammen": {
+    "meaning": "together",
+    "pronunciation": "[tsuˈzamən]",
+    "example": "Wir spielen zusammen."
   }
 }
