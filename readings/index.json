@@ -16,6 +16,15 @@
     "title": "Fahrradsitz im Laden"
   },
   {
+    "file": "im-Supermarkt.json",
+    "title": "Im Supermarkt"
+  },
+  {
+    "file": "ein-tag-im-park.json",
+    "title": "Ein Tag im Park"
+  },
+  
+  {
     "file": "ein-traum.json",
     "title": "Ein Traum"
   },
