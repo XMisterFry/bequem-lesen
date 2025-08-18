@@ -1,8 +1,162 @@
 {
+   "bäume": {
+    "meaning": "trees",
+    "gender": "masculine",
+    "pronunciation": "[ˈbɔʏmə]",
+    "singular": "Baum",
+    "example": "Im Park stehen viele Bäume."
+  },
+  "blau": {
+    "meaning": "blue",
+    "pronunciation": "[blaʊ̯]",
+    "example": "Der Himmel ist blau."
+  },
+  "buch": {
+    "meaning": "book",
+    "gender": "neuter",
+    "pronunciation": "[buːx]",
+    "plural": "Bücher",
+    "example": "Ich lese ein Buch."
+  },
+  "danach": {
+    "meaning": "after that",
+    "pronunciation": "[daˈnaːx]",
+    "example": "Wir essen und danach gehen wir spazieren."
+  },
+  "decken": {
+    "meaning": "blankets",
+    "gender": "feminine",
+    "pronunciation": "[ˈdɛkən]",
+    "singular": "Decke",
+    "example": "Die Decken liegen im Schrank."
+  },
+  "fahren": {
+    "meaning": "to drive; to go (by vehicle)",
+    "pronunciation": "[ˈfaːʁən]",
+    "example": "Wir fahren nach Berlin."
+  },
+  "fische": {
+    "meaning": "fishes",
+    "gender": "masculine",
+    "pronunciation": "[ˈfɪʃə]",
+    "singular": "Fisch",
+    "example": "Die Fische schwimmen im See."
+  },
+  "freitagabend": {
+    "meaning": "Friday evening",
+    "gender": "masculine",
+    "pronunciation": "[ˈfʁaɪ̯taːkˌʔaːbn̩t]",
+    "example": "Am Freitagabend sehe ich fern."
+  },
+  "gibt": {
+    "meaning": "gives; there is/are",
+    "pronunciation": "[ɡɪpt]",
+    "example": "Es gibt viele Äpfel."
+  },
+  "käse": {
+    "meaning": "cheese",
+    "gender": "masculine",
+    "pronunciation": "[ˈkɛːzə]",
+    "example": "Ich esse gern Käse."
+  },
+  "kleine": {
+    "meaning": "small (feminine/plural form)",
+    "pronunciation": "[ˈklaɪ̯nə]",
+    "example": "Die kleine Katze schläft."
+  },
+  "kommen": {
+    "meaning": "to come",
+    "pronunciation": "[ˈkɔmən]",
+    "example": "Kommst du mit?"
+  },
+  "kühlen": {
+    "meaning": "cool",
+    "pronunciation": "[ˈkyːlən]",
+    "example": "Der See ist kühl."
+  },
+  "laut": {
+    "meaning": "loud",
+    "pronunciation": "[laʊ̯t]",
+    "example": "Das Radio ist zu laut."
+  },
+  "manchmal": {
+    "meaning": "sometimes",
+    "pronunciation": "[ˈmançmaːl]",
+    "example": "Manchmal regnet es im Sommer."
+  },
+  "nimmt": {
+    "meaning": "takes (he/she/it takes)",
+    "pronunciation": "[nɪmt]",
+    "example": "Sie nimmt ein Buch."
+  },
+  "samstagmorgen": {
+    "meaning": "Saturday morning",
+    "gender": "masculine",
+    "pronunciation": "[ˈzamstaːkˌmɔʁɡn̩]",
+    "example": "Am Samstagmorgen schlafen viele Menschen aus."
+  },
+  "scheint": {
+    "meaning": "shines; seems",
+    "pronunciation": "[ʃaɪ̯nt]",
+    "example": "Die Sonne scheint."
+  },
+  "schwimmt": {
+    "meaning": "swims (he/she swims)",
+    "pronunciation": "[ʃvɪmt]",
+    "example": "Das Kind schwimmt im See."
+  },
+  "sofort": {
+    "meaning": "immediately",
+    "pronunciation": "[zoˈfɔʁt]",
+    "example": "Komm sofort nach Hause!"
+  },
+  "stehen": {
+    "meaning": "to stand",
+    "pronunciation": "[ˈʃteːən]",
+    "example": "Die Blumen stehen im Garten."
+  },
+  "tasche": {
+    "meaning": "bag",
+    "gender": "feminine",
+    "pronunciation": "[ˈtaʃə]",
+    "plural": "Taschen",
+    "example": "Meine Tasche ist neu."
+  },
+  "tomaten": {
+    "meaning": "tomatoes",
+    "gender": "feminine",
+    "pronunciation": "[toˈmaːtn̩]",
+    "singular": "Tomate",
+    "example": "Die Tomaten sind rot."
+  },
+  "trocknet": {
+    "meaning": "dries (he/she dries)",
+    "pronunciation": "[ˈtʁɔknət]",
+    "example": "Die Wäsche trocknet in der Sonne."
+  },
+  "wasser": {
+    "meaning": "water",
+    "gender": "neuter",
+    "pronunciation": "[ˈvasɐ]",
+    "example": "Ich trinke Wasser."
+  },
+  "zum": {
+    "meaning": "to the; for the (contraction of 'zu dem')",
+    "pronunciation": "[tsʊm]",
+    "example": "Wir gehen zum Park."
+  
+  },
   "ab": {
     "meaning": "from; as of",
     "pronunciation": "[ap]",
     "example": "Der Kurs beginnt ab Montag."
+  },
+  "abend": {
+    "meaning": "evening",
+    "gender": "masculine",
+    "pronunciation": "[ˈaːbn̩t]",
+    "plural": "Abende",
+    "example": "Am Abend lese ich ein Buch."
   },
   "aber": {
     "meaning": "but",
@@ -115,6 +269,11 @@
     "plural": "Bälle",
     "example": "Der Ball ist rund."
   },
+  "bauen": {
+    "meaning": "to build",
+    "pronunciation": "[ˈbaʊ̯ən]",
+    "example": "Wir bauen eine Sandburg."
+  },
   "bekommen": {
     "meaning": "get; receive",
     "pronunciation": "[bəˈkɔmən]",
@@ -185,7 +344,8 @@
     "meaning": "bread",
     "gender": "neuter",
     "pronunciation": "[bʁoːt]",
-    "example": "Ich esse Brot."
+    "plural": "Brote",
+    "example": "Zum Frühstück esse ich Brot."
   },
   "brotbox": {
     "meaning": "lunchbox",
@@ -675,6 +835,13 @@
     "plural": null,
     "example": "Ich bin hier."
   },
+  "himmel": {
+    "meaning": "sky",
+    "gender": "masculine",
+    "pronunciation": "[ˈhɪməl]",
+    "plural": "Himmel",
+    "example": "Der Himmel ist blau."
+  },
   "hoffe": {
     "meaning": "hope (I hope)",
     "pronunciation": "[ˈhɔfə]",
@@ -897,6 +1064,10 @@
     "plural": "Lieder",
     "example": "Wir singen ein Lied."
   },
+  "lisa": {
+    "meaning": "Lisa (female name)",
+    "pronunciation": "[ˈliːza]"
+  },
   "lob": {
     "meaning": "praise",
     "gender": "n",
@@ -989,6 +1160,12 @@
     "plural": null,
     "example": ""
   },
+  "mittagessen": {
+    "meaning": "lunch",
+    "gender": "neuter",
+    "pronunciation": "[ˈmɪtakˌʔɛsn̩]",
+    "example": "Wir essen Mittagessen in der Schule."
+  },
   "mitte": {
     "meaning": "middle / center",
     "gender": "die (f)",
@@ -1036,7 +1213,7 @@
     "gender": "masculine",
     "pronunciation": "[ˈnaχmɪtaːk]",
     "plural": "Nachmittage",
-    "example": "Am Nachmittag regnet es oft."
+    "example": "Am Nachmittag gehen wir spazieren."
   },
   "nehmen": {
     "meaning": "to take",
@@ -1090,7 +1267,7 @@
     "meaning": "fruit",
     "gender": "neuter",
     "pronunciation": "[oːpst]",
-    "example": "Zum Picknick essen wir Obst."
+    "example": "Ich esse Obst jeden Tag."
   },
   "oft": {
     "meaning": "often",
@@ -1176,6 +1353,11 @@
     "pronunciation": "[ˈʁuːəst]",
     "example": "Du ruhest sanft."
   },
+  "ruhig": {
+    "meaning": "quiet",
+    "pronunciation": "[ˈʁuːɪç]",
+    "example": "Der Park ist ruhig."
+  },
   "sagte": {
     "meaning": "said",
     "pronunciation": "[ˈzaːktə]",
@@ -1186,6 +1368,13 @@
     "gender": "masculine",
     "pronunciation": "[ˈzamstaːk]",
     "example": "Am Samstag habe ich frei."
+  },
+  "sandburg": {
+    "meaning": "sandcastle",
+    "gender": "feminine",
+    "pronunciation": "[ˈzantˌbʊʁk]",
+    "plural": "Sandburgen",
+    "example": "Wir bauen eine Sandburg."
   },
   "schatten": {
     "meaning": "shadow",
@@ -1239,6 +1428,13 @@
     "audio": "audio/schwinden.mp3",
     "plural": null,
     "example": "Die Hoffnung schwindet."
+  },
+  "see": {
+    "meaning": "lake",
+    "gender": "masculine",
+    "pronunciation": "[zeː]",
+    "plural": "Seen",
+    "example": "Der See ist blau."
   },
   "sehen": {
     "meaning": "to see",
@@ -1345,6 +1541,13 @@
     "pronunciation": "[zoː]",
     "example": "Das ist so schön!"
   },
+  "sonne": {
+    "meaning": "sun",
+    "gender": "feminine",
+    "pronunciation": "[ˈzɔnə]",
+    "plural": "Sonnen",
+    "example": "Die Sonne scheint."
+  },
   "spaß": {
     "meaning": "fun",
     "gender": "masculine",
@@ -1355,6 +1558,13 @@
     "meaning": "later",
     "pronunciation": "[ˈʃpɛːtɐ]",
     "example": "Wir gehen später ins Kino."
+  },
+  "spaziergang": {
+    "meaning": "walk, stroll",
+    "gender": "masculine",
+    "pronunciation": "[ʃpaˈtsiːɐ̯ˌɡaŋ]",
+    "plural": "Spaziergänge",
+    "example": "Wir machen einen Spaziergang."
   },
   "spielen": {
     "meaning": "to play",
@@ -1631,6 +1841,13 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "wiese": {
+    "meaning": "meadow",
+    "gender": "feminine",
+    "pronunciation": "[ˈviːzə]",
+    "plural": "Wiesen",
+    "example": "Die Kinder spielen auf der Wiese."
   },
   "wipfeln": {
     "meaning": "tree tops",
