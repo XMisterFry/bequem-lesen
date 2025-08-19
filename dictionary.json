@@ -1,151 +1,4 @@
 {
-   "bäume": {
-    "meaning": "trees",
-    "gender": "masculine",
-    "pronunciation": "[ˈbɔʏmə]",
-    "singular": "Baum",
-    "example": "Im Park stehen viele Bäume."
-  },
-  "blau": {
-    "meaning": "blue",
-    "pronunciation": "[blaʊ̯]",
-    "example": "Der Himmel ist blau."
-  },
-  "buch": {
-    "meaning": "book",
-    "gender": "neuter",
-    "pronunciation": "[buːx]",
-    "plural": "Bücher",
-    "example": "Ich lese ein Buch."
-  },
-  "danach": {
-    "meaning": "after that",
-    "pronunciation": "[daˈnaːx]",
-    "example": "Wir essen und danach gehen wir spazieren."
-  },
-  "decken": {
-    "meaning": "blankets",
-    "gender": "feminine",
-    "pronunciation": "[ˈdɛkən]",
-    "singular": "Decke",
-    "example": "Die Decken liegen im Schrank."
-  },
-  "fahren": {
-    "meaning": "to drive; to go (by vehicle)",
-    "pronunciation": "[ˈfaːʁən]",
-    "example": "Wir fahren nach Berlin."
-  },
-  "fische": {
-    "meaning": "fishes",
-    "gender": "masculine",
-    "pronunciation": "[ˈfɪʃə]",
-    "singular": "Fisch",
-    "example": "Die Fische schwimmen im See."
-  },
-  "freitagabend": {
-    "meaning": "Friday evening",
-    "gender": "masculine",
-    "pronunciation": "[ˈfʁaɪ̯taːkˌʔaːbn̩t]",
-    "example": "Am Freitagabend sehe ich fern."
-  },
-  "gibt": {
-    "meaning": "gives; there is/are",
-    "pronunciation": "[ɡɪpt]",
-    "example": "Es gibt viele Äpfel."
-  },
-  "käse": {
-    "meaning": "cheese",
-    "gender": "masculine",
-    "pronunciation": "[ˈkɛːzə]",
-    "example": "Ich esse gern Käse."
-  },
-  "kleine": {
-    "meaning": "small (feminine/plural form)",
-    "pronunciation": "[ˈklaɪ̯nə]",
-    "example": "Die kleine Katze schläft."
-  },
-  "kommen": {
-    "meaning": "to come",
-    "pronunciation": "[ˈkɔmən]",
-    "example": "Kommst du mit?"
-  },
-  "kühlen": {
-    "meaning": "cool",
-    "pronunciation": "[ˈkyːlən]",
-    "example": "Der See ist kühl."
-  },
-  "laut": {
-    "meaning": "loud",
-    "pronunciation": "[laʊ̯t]",
-    "example": "Das Radio ist zu laut."
-  },
-  "manchmal": {
-    "meaning": "sometimes",
-    "pronunciation": "[ˈmançmaːl]",
-    "example": "Manchmal regnet es im Sommer."
-  },
-  "nimmt": {
-    "meaning": "takes (he/she/it takes)",
-    "pronunciation": "[nɪmt]",
-    "example": "Sie nimmt ein Buch."
-  },
-  "samstagmorgen": {
-    "meaning": "Saturday morning",
-    "gender": "masculine",
-    "pronunciation": "[ˈzamstaːkˌmɔʁɡn̩]",
-    "example": "Am Samstagmorgen schlafen viele Menschen aus."
-  },
-  "scheint": {
-    "meaning": "shines; seems",
-    "pronunciation": "[ʃaɪ̯nt]",
-    "example": "Die Sonne scheint."
-  },
-  "schwimmt": {
-    "meaning": "swims (he/she swims)",
-    "pronunciation": "[ʃvɪmt]",
-    "example": "Das Kind schwimmt im See."
-  },
-  "sofort": {
-    "meaning": "immediately",
-    "pronunciation": "[zoˈfɔʁt]",
-    "example": "Komm sofort nach Hause!"
-  },
-  "stehen": {
-    "meaning": "to stand",
-    "pronunciation": "[ˈʃteːən]",
-    "example": "Die Blumen stehen im Garten."
-  },
-  "tasche": {
-    "meaning": "bag",
-    "gender": "feminine",
-    "pronunciation": "[ˈtaʃə]",
-    "plural": "Taschen",
-    "example": "Meine Tasche ist neu."
-  },
-  "tomaten": {
-    "meaning": "tomatoes",
-    "gender": "feminine",
-    "pronunciation": "[toˈmaːtn̩]",
-    "singular": "Tomate",
-    "example": "Die Tomaten sind rot."
-  },
-  "trocknet": {
-    "meaning": "dries (he/she dries)",
-    "pronunciation": "[ˈtʁɔknət]",
-    "example": "Die Wäsche trocknet in der Sonne."
-  },
-  "wasser": {
-    "meaning": "water",
-    "gender": "neuter",
-    "pronunciation": "[ˈvasɐ]",
-    "example": "Ich trinke Wasser."
-  },
-  "zum": {
-    "meaning": "to the; for the (contraction of 'zu dem')",
-    "pronunciation": "[tsʊm]",
-    "example": "Wir gehen zum Park."
-  
-  },
   "ab": {
     "meaning": "from; as of",
     "pronunciation": "[ap]",
@@ -162,6 +15,20 @@
     "meaning": "but",
     "pronunciation": "[ˈaːbɐ]",
     "example": "Ich mag Kaffee, aber ich trinke lieber Tee."
+  },
+  "affe": {
+    "meaning": "monkey",
+    "gender": "masculine",
+    "pronunciation": "[ˈafə]",
+    "plural": "Affen",
+    "example": "Der Affe klettert im Baum."
+  },
+  "affen": {
+    "meaning": "monkeys",
+    "gender": "masculine",
+    "pronunciation": "[ˈafən]",
+    "singular": "Affe",
+    "example": "Im Zoo gibt es viele Affen."
   },
   "alle": {
     "meaning": "all, everyone",
@@ -249,6 +116,13 @@
     "pronunciation": "[ˈaʊ̯s.proˌbiːʁən]",
     "example": "Kann ich das ausprobieren?"
   },
+  "auto": {
+    "meaning": "car",
+    "gender": "neuter",
+    "pronunciation": "[ˈaʊ̯to]",
+    "plural": "Autos",
+    "example": "Wir fahren mit dem Auto."
+  },
   "bald": {
     "meaning": "soon",
     "gender": null,
@@ -273,6 +147,13 @@
     "meaning": "to build",
     "pronunciation": "[ˈbaʊ̯ən]",
     "example": "Wir bauen eine Sandburg."
+  },
+  "bäume": {
+    "meaning": "trees",
+    "gender": "masculine",
+    "pronunciation": "[ˈbɔʏmə]",
+    "singular": "Baum",
+    "example": "Im Park stehen viele Bäume."
   },
   "bekommen": {
     "meaning": "get; receive",
@@ -317,6 +198,11 @@
     "pronunciation": "[bɪn]",
     "example": "Ich bin müde."
   },
+  "blau": {
+    "meaning": "blue",
+    "pronunciation": "[blaʊ̯]",
+    "example": "Der Himmel ist blau."
+  },
   "blicke": {
     "meaning": "glances",
     "gender": "m",
@@ -345,7 +231,7 @@
     "gender": "neuter",
     "pronunciation": "[bʁoːt]",
     "plural": "Brote",
-    "example": "Zum Frühstück esse ich Brot."
+    "example": "Zum Mittag esse ich Brot."
   },
   "brotbox": {
     "meaning": "lunchbox",
@@ -368,6 +254,18 @@
     "plural": "Brüder",
     "example": "Mein Bruder ist acht Jahre alt."
   },
+  "buch": {
+    "meaning": "book",
+    "gender": "neuter",
+    "pronunciation": "[buːx]",
+    "plural": "Bücher",
+    "example": "Ich lese ein Buch."
+  },
+  "danach": {
+    "meaning": "after that",
+    "pronunciation": "[daˈnaːx]",
+    "example": "Wir essen und danach gehen wir spazieren."
+  },
   "dann": {
     "meaning": "then",
     "pronunciation": "[dan]",
@@ -387,6 +285,13 @@
     "pronunciation": "[ˈdɛkə]",
     "plural": "Decken",
     "example": "Wir sitzen auf der Decke."
+  },
+  "decken": {
+    "meaning": "blankets",
+    "gender": "feminine",
+    "pronunciation": "[ˈdɛkən]",
+    "singular": "Decke",
+    "example": "Die Decken liegen im Schrank."
   },
   "dem": {
     "meaning": "the (dative masculine/neuter)",
@@ -475,6 +380,13 @@
     "pronunciation": "[ˈaɪ̯nən]",
     "example": "Ich sehe einen Hund."
   },
+  "eingang": {
+    "meaning": "entrance",
+    "gender": "masculine",
+    "pronunciation": "[ˈaɪ̯nɡaŋ]",
+    "plural": "Eingänge",
+    "example": "Wir warten am Eingang."
+  },
   "einkaufswagen": {
     "meaning": "shopping cart",
     "gender": "masculine",
@@ -498,11 +410,30 @@
     "plural": null,
     "example": ""
   },
+  "elefant": {
+    "meaning": "elephant",
+    "gender": "masculine",
+    "pronunciation": "[eleˈfant]",
+    "plural": "Elefanten",
+    "example": "Der Elefant ist groß."
+  },
+  "elefanten": {
+    "meaning": "elephants",
+    "gender": "masculine",
+    "pronunciation": "[eleˈfantən]",
+    "singular": "Elefant",
+    "example": "Die Elefanten sind groß."
+  },
   "eltern": {
     "meaning": "parents",
     "gender": "plural",
     "pronunciation": "[ˈɛltɐn]",
     "example": "Meine Eltern sind nett."
+  },
+  "entfernt": {
+    "meaning": "far, distant",
+    "pronunciation": "[ɛntˈfɛʁnt]",
+    "example": "Das Haus ist nicht weit entfernt."
   },
   "entzückendes": {
     "meaning": "delightful",
@@ -543,6 +474,11 @@
     "pronunciation": "[ɛɐ̯ˈtsɛːlə]",
     "example": "Ich erzähle eine Geschichte."
   },
+  "erzählen": {
+    "meaning": "to tell, to narrate",
+    "pronunciation": "[ɛɐ̯ˈt͡sɛːlən]",
+    "example": "Erzählen Sie bitte die Geschichte."
+  },
   "es": {
     "meaning": "it",
     "pronunciation": "[ɛs]",
@@ -566,6 +502,11 @@
     "plural": null,
     "example": "Die Liebe ist für die Ewigkeit."
   },
+  "fahren": {
+    "meaning": "to drive; to go (by vehicle)",
+    "pronunciation": "[ˈfaːʁən]",
+    "example": "Wir fahren nach Berlin."
+  },
   "fahrradsitz": {
     "meaning": "bike seat",
     "gender": "masculine",
@@ -578,7 +519,7 @@
     "gender": "feminine",
     "pronunciation": "[faˈmiːli̯ə]",
     "plural": "Familien",
-    "example": "Meine Familie ist groß."
+    "example": "Meine Familie ist freundlich."
   },
   "fangen": {
     "meaning": "to catch",
@@ -590,10 +531,29 @@
     "pronunciation": "[fiːl]",
     "example": "Das Glas fiel auf den Boden."
   },
+  "findet": {
+    "meaning": "(he/she/it) finds",
+    "pronunciation": "[ˈfɪndət]",
+    "example": "Sie findet den Hund süß."
+  },
+  "fische": {
+    "meaning": "fishes",
+    "gender": "masculine",
+    "pronunciation": "[ˈfɪʃə]",
+    "singular": "Fisch",
+    "example": "Die Fische schwimmen im See."
+  },
   "flog": {
     "meaning": "flew",
     "pronunciation": "[floːk]",
     "example": "Der Vogel flog weg."
+  },
+  "fotos": {
+    "meaning": "photos",
+    "gender": "neuter",
+    "pronunciation": "[ˈfoːtos]",
+    "singular": "Foto",
+    "example": "Wir machen viele Fotos."
   },
   "fragen": {
     "meaning": "to ask",
@@ -612,6 +572,12 @@
     "plural": "Frauen",
     "example": "Meine Frau ist nett."
   },
+  "freitagabend": {
+    "meaning": "Friday evening",
+    "gender": "masculine",
+    "pronunciation": "[ˈfʁaɪ̯taːkˌʔaːbn̩t]",
+    "example": "Am Freitagabend sehe ich fern."
+  },
   "freund": {
     "meaning": "friend",
     "gender": "m",
@@ -624,6 +590,11 @@
     "meaning": "friendly",
     "pronunciation": "[ˈfʁɔɪ̯ntlɪç]",
     "example": "Die Lehrerin ist freundlich."
+  },
+  "freut": {
+    "meaning": "is glad, (he/she) is happy",
+    "pronunciation": "[fʁɔʏt]",
+    "example": "Sie freut sich auf den Zoo."
   },
   "früh": {
     "meaning": "early",
@@ -672,6 +643,11 @@
     "plural": null,
     "example": ""
   },
+  "ganze": {
+    "meaning": "whole, entire",
+    "pronunciation": "[ˈɡant͡sə]",
+    "example": "Die ganze Familie fährt in den Zoo."
+  },
   "gefiel": {
     "meaning": "pleased (past of gefallen)",
     "gender": null,
@@ -684,6 +660,13 @@
     "meaning": "against; into",
     "pronunciation": "[ˈɡeːɡn̩]",
     "example": "Er läuft gegen die Tür."
+  },
+  "gehege": {
+    "meaning": "enclosure, pen",
+    "gender": "neuter",
+    "pronunciation": "[ɡəˈheːɡə]",
+    "plural": "Gehege",
+    "example": "Die Affen sind im Gehege."
   },
   "gehen": {
     "meaning": "to go",
@@ -741,6 +724,11 @@
     "plural": null,
     "example": ""
   },
+  "gibt": {
+    "meaning": "gives; there is/are",
+    "pronunciation": "[ɡɪpt]",
+    "example": "Es gibt viele Äpfel."
+  },
   "gipfeln": {
     "meaning": "peaks; summits",
     "gender": "masculine",
@@ -748,10 +736,22 @@
     "plural": "Gipfel",
     "example": "Die Gipfel der Alpen sind hoch."
   },
+  "giraffen": {
+    "meaning": "giraffes",
+    "gender": "feminine",
+    "pronunciation": "[ɡiˈʁafən]",
+    "singular": "Giraffe",
+    "example": "Die Giraffen sind sehr groß."
+  },
   "glücklich": {
     "meaning": "happy",
     "pronunciation": "[ˈɡlʏklɪç]",
     "example": "Ich bin sehr glücklich."
+  },
+  "große": {
+    "meaning": "big (feminine/plural form)",
+    "pronunciation": "[ˈɡʁoːsə]",
+    "example": "Sie haben eine große Tasche."
   },
   "gröttrup": {
     "meaning": "Gröttrup (name)",
@@ -965,6 +965,12 @@
     "pronunciation": "[kaˈpʊt]",
     "example": "Mein Auto ist kaputt."
   },
+  "käse": {
+    "meaning": "cheese",
+    "gender": "masculine",
+    "pronunciation": "[ˈkɛːzə]",
+    "example": "Ich esse gern Käse."
+  },
   "kasse": {
     "meaning": "checkout, cash register",
     "gender": "feminine",
@@ -986,6 +992,20 @@
     "meaning": "hardly; scarcely",
     "pronunciation": "[kaʊ̯m]",
     "example": "Ich habe kaum Zeit."
+  },
+  "keks": {
+    "meaning": "cookie, biscuit",
+    "gender": "masculine",
+    "pronunciation": "[keːks]",
+    "plural": "Kekse",
+    "example": "Ich esse einen Keks."
+  },
+  "kekse": {
+    "meaning": "cookies",
+    "gender": "masculine",
+    "pronunciation": "[ˈkeːksə]",
+    "singular": "Keks",
+    "example": "Die Kekse schmecken gut."
   },
   "kind": {
     "meaning": "child",
@@ -1009,10 +1029,35 @@
     "plural": "Klassen",
     "example": "Die Klasse ist groß."
   },
+  "kleine": {
+    "meaning": "small (feminine/plural form)",
+    "pronunciation": "[ˈklaɪ̯nə]",
+    "example": "Die kleine Katze schläft."
+  },
+  "kleinen": {
+    "meaning": "little, small (plural/masculine accusative)",
+    "pronunciation": "[ˈklaɪ̯nən]",
+    "example": "Die kleinen Ziegen sind süß."
+  },
+  "klettern": {
+    "meaning": "to climb",
+    "pronunciation": "[ˈklɛtɐn]",
+    "example": "Die Kinder klettern auf den Baum."
+  },
+  "kommen": {
+    "meaning": "to come",
+    "pronunciation": "[ˈkɔmən]",
+    "example": "Kommst du mit?"
+  },
   "kostet": {
     "meaning": "costs (it costs)",
     "pronunciation": "[ˈkɔstət]",
     "example": "Wie viel kostet das?"
+  },
+  "kühlen": {
+    "meaning": "cool",
+    "pronunciation": "[ˈkyːlən]",
+    "example": "Der See ist kühl."
   },
   "lachen": {
     "meaning": "laugh",
@@ -1037,6 +1082,11 @@
     "pronunciation": "[ˈlaʊ̯fn̩]",
     "example": "Viele Kinder laufen schnell."
   },
+  "laut": {
+    "meaning": "loud",
+    "pronunciation": "[laʊ̯t]",
+    "example": "Das Radio ist zu laut."
+  },
   "leben": {
     "meaning": "life",
     "gender": "das (n)",
@@ -1056,6 +1106,17 @@
     "meaning": "to read",
     "pronunciation": "[ˈleːzn̩]",
     "example": "Meine Eltern lesen Bücher."
+  },
+  "leute": {
+    "meaning": "people",
+    "gender": "plural",
+    "pronunciation": "[ˈlɔɪ̯tə]",
+    "example": "Viele Leute sind im Zoo."
+  },
+  "liebt": {
+    "meaning": "(he/she) loves",
+    "pronunciation": "[liːpt]",
+    "example": "Max liebt Tiere."
   },
   "lied": {
     "meaning": "song",
@@ -1084,6 +1145,20 @@
     "plural": null,
     "example": ""
   },
+  "löwe": {
+    "meaning": "lion",
+    "gender": "masculine",
+    "pronunciation": "[ˈløːvə]",
+    "plural": "Löwen",
+    "example": "Der Löwe schläft."
+  },
+  "löwen": {
+    "meaning": "lions",
+    "gender": "masculine",
+    "pronunciation": "[ˈløːvən]",
+    "singular": "Löwe",
+    "example": "Die Löwen schlafen."
+  },
   "machen": {
     "meaning": "to do; to make",
     "pronunciation": "[ˈmaxən]",
@@ -1094,12 +1169,21 @@
     "pronunciation": "[maxt]",
     "example": "Sie macht Kuchen."
   },
+  "manchmal": {
+    "meaning": "sometimes",
+    "pronunciation": "[ˈmançmaːl]",
+    "example": "Manchmal regnet es im Sommer."
+  },
   "mann": {
     "meaning": "man",
     "gender": "masculine",
     "pronunciation": "[man]",
     "plural": "Männer",
     "example": "Der Mann liest ein Buch."
+  },
+  "max": {
+    "meaning": "Max (male name)",
+    "pronunciation": "[maks]"
   },
   "mein": {
     "meaning": "my (masculine/neuter)",
@@ -1160,6 +1244,12 @@
     "plural": null,
     "example": ""
   },
+  "mittag": {
+    "meaning": "noon, lunchtime",
+    "gender": "masculine",
+    "pronunciation": "[ˈmɪtaːk]",
+    "example": "Am Mittag essen wir zusammen."
+  },
   "mittagessen": {
     "meaning": "lunch",
     "gender": "neuter",
@@ -1213,7 +1303,7 @@
     "gender": "masculine",
     "pronunciation": "[ˈnaχmɪtaːk]",
     "plural": "Nachmittage",
-    "example": "Am Nachmittag gehen wir spazieren."
+    "example": "Am Nachmittag spielen wir."
   },
   "nehmen": {
     "meaning": "to take",
@@ -1240,6 +1330,11 @@
     "pronunciation": "[ˈnɔʏəs]",
     "example": "Das ist ein neues Auto."
   },
+  "neun": {
+    "meaning": "nine",
+    "pronunciation": "[nɔʏn]",
+    "example": "Um neun Uhr gehen wir los."
+  },
   "nicht": {
     "meaning": "not",
     "gender": null,
@@ -1247,6 +1342,16 @@
     "audio": "",
     "plural": null,
     "example": "Ich bin nicht müde."
+  },
+  "niedlich": {
+    "meaning": "cute",
+    "pronunciation": "[ˈniːtlɪç]",
+    "example": "Das Baby ist niedlich."
+  },
+  "nimmt": {
+    "meaning": "takes (he/she/it takes)",
+    "pronunciation": "[nɪmt]",
+    "example": "Sie nimmt ein Buch."
   },
   "noch": {
     "meaning": "still; yet",
@@ -1273,6 +1378,18 @@
     "meaning": "often",
     "pronunciation": "[ɔft]",
     "example": "Er liest oft Bücher."
+  },
+  "oma": {
+    "meaning": "grandma",
+    "gender": "feminine",
+    "pronunciation": "[ˈoːma]",
+    "plural": "Omas",
+    "example": "Oma backt Kuchen."
+  },
+  "paar": {
+    "meaning": "a few, couple",
+    "pronunciation": "[paːɐ̯]",
+    "example": "Ich nehme ein paar Kekse."
   },
   "packen": {
     "meaning": "to pack",
@@ -1309,6 +1426,20 @@
     "gender": "neuter",
     "pronunciation": "[ˈpɪk.nɪk]",
     "example": "Das Picknick ist lecker."
+  },
+  "pinguin": {
+    "meaning": "penguin",
+    "gender": "masculine",
+    "pronunciation": "[ˈpɪŋguˌiːn]",
+    "plural": "Pinguine",
+    "example": "Der Pinguin schwimmt."
+  },
+  "pinguinen": {
+    "meaning": "penguins (dative/plural)",
+    "gender": "masculine",
+    "pronunciation": "[ˈpɪŋguˌiːnən]",
+    "singular": "Pinguin",
+    "example": "Die Kinder gehen zu den Pinguinen."
   },
   "plötzlich": {
     "meaning": "suddenly",
@@ -1369,6 +1500,12 @@
     "pronunciation": "[ˈzamstaːk]",
     "example": "Am Samstag habe ich frei."
   },
+  "samstagmorgen": {
+    "meaning": "Saturday morning",
+    "gender": "masculine",
+    "pronunciation": "[ˈzamstaːkˌmɔʁɡn̩]",
+    "example": "Am Samstagmorgen schlafen viele Menschen aus."
+  },
   "sandburg": {
     "meaning": "sandcastle",
     "gender": "feminine",
@@ -1384,15 +1521,30 @@
     "plural": "Schatten",
     "example": "Der Schatten ist lang."
   },
+  "scheint": {
+    "meaning": "shines; seems",
+    "pronunciation": "[ʃaɪ̯nt]",
+    "example": "Die Sonne scheint."
+  },
   "schnell": {
     "meaning": "fast; quickly",
     "pronunciation": "[ʃnɛl]",
     "example": "Er läuft schnell."
   },
+  "schon": {
+    "meaning": "already",
+    "pronunciation": "[ʃoːn]",
+    "example": "Es sind schon viele Leute da."
+  },
   "schön": {
     "meaning": "beautiful, nice",
     "pronunciation": "[ʃøːn]",
     "example": "Das Wetter ist schön."
+  },
+  "schönen": {
+    "meaning": "nice, beautiful (masc. acc./plural/fem. gen.)",
+    "pronunciation": "[ˈʃøːnən]",
+    "example": "Sie erzählt vom schönen Tag."
   },
   "schule": {
     "meaning": "school",
@@ -1420,6 +1572,18 @@
     "meaning": "to be silent",
     "pronunciation": "[ˈʃvaɪ̯ɡn̩]",
     "example": "Sie schweigen während des Vortrags."
+  },
+  "schwester": {
+    "meaning": "sister",
+    "gender": "feminine",
+    "pronunciation": "[ˈʃvɛstɐ]",
+    "plural": "Schwestern",
+    "example": "Anna ist seine Schwester."
+  },
+  "schwimmt": {
+    "meaning": "swims (he/she swims)",
+    "pronunciation": "[ʃvɪmt]",
+    "example": "Das Kind schwimmt im See."
   },
   "schwinden": {
     "meaning": "to fade / to vanish",
@@ -1541,12 +1705,23 @@
     "pronunciation": "[zoː]",
     "example": "Das ist so schön!"
   },
+  "sofort": {
+    "meaning": "immediately",
+    "pronunciation": "[zoˈfɔʁt]",
+    "example": "Komm sofort nach Hause!"
+  },
   "sonne": {
     "meaning": "sun",
     "gender": "feminine",
     "pronunciation": "[ˈzɔnə]",
     "plural": "Sonnen",
     "example": "Die Sonne scheint."
+  },
+  "sonntagmorgen": {
+    "meaning": "Sunday morning",
+    "gender": "masculine",
+    "pronunciation": "[ˈzɔntakˌmɔʁgən]",
+    "example": "Am Sonntagmorgen wacht die Familie früh auf."
   },
   "spaß": {
     "meaning": "fun",
@@ -1584,6 +1759,11 @@
     "pronunciation": "[ˈʃpʁɛçn̩]",
     "example": "Wir sprechen Deutsch."
   },
+  "springen": {
+    "meaning": "to jump",
+    "pronunciation": "[ˈʃpʁɪŋən]",
+    "example": "Die Affen springen im Gehege."
+  },
   "spürest": {
     "meaning": "feel (you feel)",
     "pronunciation": "[ˈʃpyːʁəst]",
@@ -1596,6 +1776,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "stehen": {
+    "meaning": "to stand",
+    "pronunciation": "[ˈʃteːən]",
+    "example": "Die Blumen stehen im Garten."
   },
   "supermarkt": {
     "meaning": "supermarket",
@@ -1610,6 +1795,34 @@
     "pronunciation": "[taːk]",
     "plural": "Tage",
     "example": "Heute ist ein schöner Tag."
+  },
+  "tasche": {
+    "meaning": "bag",
+    "gender": "feminine",
+    "pronunciation": "[ˈtaʃə]",
+    "plural": "Taschen",
+    "example": "Meine Tasche ist neu."
+  },
+  "ticket": {
+    "meaning": "ticket",
+    "gender": "neuter",
+    "pronunciation": "[ˈtɪkɛt]",
+    "plural": "Tickets",
+    "example": "Max kauft ein Ticket."
+  },
+  "tickets": {
+    "meaning": "tickets",
+    "gender": "neuter",
+    "pronunciation": "[ˈtɪkɛts]",
+    "singular": "Ticket",
+    "example": "Er kauft die Tickets."
+  },
+  "tier": {
+    "meaning": "animal",
+    "gender": "neuter",
+    "pronunciation": "[ˈtiːɐ̯]",
+    "plural": "Tiere",
+    "example": "Im Zoo gibt es viele Tiere."
   },
   "tiere": {
     "meaning": "animals",
@@ -1629,6 +1842,13 @@
   "tom": {
     "meaning": "Tom (name)",
     "pronunciation": "[tɔm]"
+  },
+  "tomaten": {
+    "meaning": "tomatoes",
+    "gender": "feminine",
+    "pronunciation": "[toˈmaːtn̩]",
+    "singular": "Tomate",
+    "example": "Die Tomaten sind rot."
   },
   "trägen": {
     "meaning": "sluggish / lazy",
@@ -1669,10 +1889,22 @@
     "plural": "Tritte",
     "example": "Seine Tritte hallten im Gang."
   },
+  "trocknet": {
+    "meaning": "dries (he/she dries)",
+    "pronunciation": "[ˈtʁɔknət]",
+    "example": "Die Wäsche trocknet in der Sonne."
+  },
   "über": {
     "meaning": "over",
     "pronunciation": "[ˈyːbɐ]",
     "example": "Über den Wolken ist die Sonne."
+  },
+  "uhr": {
+    "meaning": "o'clock; clock",
+    "gender": "feminine",
+    "pronunciation": "[uːɐ̯]",
+    "plural": "Uhren",
+    "example": "Es ist neun Uhr."
   },
   "um": {
     "meaning": "around",
@@ -1767,10 +1999,25 @@
     "plural": "Vögelein",
     "example": "Die Vögelein singen früh."
   },
+  "vom": {
+    "meaning": "from the; of the (contraction of 'von dem')",
+    "pronunciation": "[fɔm]",
+    "example": "Erzählen Sie mir vom Zoo!"
+  },
   "von": {
     "meaning": "from; of",
     "pronunciation": "[fɔn]",
     "example": "Das ist ein Geschenk von meiner Mutter."
+  },
+  "vor": {
+    "meaning": "in front of; before",
+    "pronunciation": "[foːɐ̯]",
+    "example": "Die Kinder warten vor dem Eingang."
+  },
+  "wach": {
+    "meaning": "awake",
+    "pronunciation": "[vaχ]",
+    "example": "Max ist früh wach."
   },
   "wacht": {
     "meaning": "wakes up",
@@ -1802,6 +2049,12 @@
     "pronunciation": "[ˈvaʁtə]",
     "example": "Warte auf mich!"
   },
+  "wasser": {
+    "meaning": "water",
+    "gender": "neuter",
+    "pronunciation": "[ˈvasɐ]",
+    "example": "Ich trinke Wasser."
+  },
   "weder": {
     "meaning": "neither",
     "gender": null,
@@ -1814,6 +2067,16 @@
     "meaning": "soft",
     "pronunciation": "[vaɪç]",
     "example": "Das Ei ist weich."
+  },
+  "weit": {
+    "meaning": "far",
+    "pronunciation": "[vaɪ̯t]",
+    "example": "Der Park ist nicht weit."
+  },
+  "weiter": {
+    "meaning": "further, on, continue",
+    "pronunciation": "[ˈvaɪ̯tɐ]",
+    "example": "Danach geht es weiter zum Spielplatz."
   },
   "wetter": {
     "meaning": "weather",
@@ -1886,6 +2149,11 @@
     "pronunciation": "",
     "example": ""
   },
+  "wollen": {
+    "meaning": "want to (we/they want)",
+    "pronunciation": "[ˈvɔlən]",
+    "example": "Wir wollen Eis essen."
+  },
   "wurde": {
     "meaning": "was (became)",
     "gender": null,
@@ -1907,10 +2175,24 @@
     "pronunciation": "[t͡sɛɐ̯ˈbʁɔxən]",
     "example": "Das Glas ist zerbrochen."
   },
+  "ziegen": {
+    "meaning": "goats",
+    "gender": "feminine",
+    "pronunciation": "[ˈtsiːgən]",
+    "singular": "Ziege",
+    "example": "Die Ziegen sind klein und süß."
+  },
   "ziehen": {
     "meaning": "to pull; to put on (clothes)",
     "pronunciation": "[ˈtsiːən]",
     "example": "Wir ziehen die Jacken an."
+  },
+  "zoo": {
+    "meaning": "zoo",
+    "gender": "masculine",
+    "pronunciation": "[t͡soː]",
+    "plural": "Zoos",
+    "example": "Der Zoo ist groß."
   },
   "zu": {
     "meaning": "too; to",
@@ -1921,6 +2203,11 @@
     "meaning": "at home",
     "pronunciation": "[tsuː ˈhaʊ̯zə]",
     "example": "Ich bin zu Hause."
+  },
+  "zum": {
+    "meaning": "to the; for the (contraction of 'zu dem')",
+    "pronunciation": "[tsʊm]",
+    "example": "Wir gehen zum Park."
   },
   "zur": {
     "meaning": "to the (contraction of 'zu der')",
