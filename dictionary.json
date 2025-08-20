@@ -16,6 +16,11 @@
     "pronunciation": "[ˈaːbɐ]",
     "example": "Ich mag Kaffee, aber ich trinke lieber Tee."
   },
+  "acht": {
+    "meaning": "eight",
+    "pronunciation": "[aχt]",
+    "example": "Es ist acht Uhr."
+  },
   "affe": {
     "meaning": "monkey",
     "gender": "masculine",
@@ -106,6 +111,11 @@
     "pronunciation": "[ˈaʊ̯fɡəʁeːkt]",
     "example": "Ich bin aufgeregt."
   },
+  "aufs": {
+    "meaning": "to the (short for 'auf das' when followed by neuter noun)",
+    "pronunciation": "[aʊfs]",
+    "example": "Sie geht aufs Klo."
+  },
   "aus": {
     "meaning": "from; out of",
     "pronunciation": "[aʊ̯s]",
@@ -122,6 +132,13 @@
     "pronunciation": "[ˈaʊ̯to]",
     "plural": "Autos",
     "example": "Wir fahren mit dem Auto."
+  },
+  "bad": {
+    "meaning": "bathroom",
+    "gender": "neuter",
+    "pronunciation": "[baːt]",
+    "plural": "Bäder",
+    "example": "Das Bad ist sauber."
   },
   "bald": {
     "meaning": "soon",
@@ -164,6 +181,11 @@
     "meaning": "comfortable",
     "pronunciation": "[bəˈkveːm]",
     "example": "Der Stuhl ist bequem."
+  },
+  "bereitet": {
+    "meaning": "prepares (he/she prepares)",
+    "pronunciation": "[bəˈʁaɪ̯tət]",
+    "example": "Die Mutter bereitet das Essen vor."
   },
   "besten": {
     "meaning": "best (plural/dative)",
@@ -252,7 +274,7 @@
     "gender": "masculine",
     "pronunciation": "[ˈbʁuːdɐ]",
     "plural": "Brüder",
-    "example": "Mein Bruder ist acht Jahre alt."
+    "example": "Mein Bruder heißt Paul."
   },
   "buch": {
     "meaning": "book",
@@ -260,6 +282,12 @@
     "pronunciation": "[buːx]",
     "plural": "Bücher",
     "example": "Ich lese ein Buch."
+  },
+  "butter": {
+    "meaning": "butter",
+    "gender": "feminine",
+    "pronunciation": "[ˈbʊtɐ]",
+    "example": "Ich esse Brot mit Butter."
   },
   "danach": {
     "meaning": "after that",
@@ -479,6 +507,11 @@
     "pronunciation": "[ɛɐ̯ˈt͡sɛːlən]",
     "example": "Erzählen Sie bitte die Geschichte."
   },
+  "erzählt": {
+    "meaning": "(he/she) tells",
+    "pronunciation": "[ɛɐ̯ˈt͡sɛːlt]",
+    "example": "Lena erzählt von der Schule."
+  },
   "es": {
     "meaning": "it",
     "pronunciation": "[ɛs]",
@@ -605,7 +638,8 @@
     "meaning": "breakfast",
     "gender": "neuter",
     "pronunciation": "[ˈfʁyːˌʃtʏk]",
-    "example": "Das Frühstück ist fertig."
+    "plural": "Frühstücke",
+    "example": "Zum Frühstück esse ich ein Ei."
   },
   "frühstücksei": {
     "meaning": "boiled egg",
@@ -691,6 +725,16 @@
     "pronunciation": "[ɡəˈmaxt]",
     "example": "Ich habe meine Hausaufgaben gemacht."
   },
+  "gemeinsam": {
+    "meaning": "together",
+    "pronunciation": "[ɡəˈmaɪ̯nzaːm]",
+    "example": "Wir lernen gemeinsam."
+  },
+  "gern": {
+    "meaning": "gladly, with pleasure; likes to",
+    "pronunciation": "[ɡɛʁn]",
+    "example": "Ich esse gern Obst."
+  },
   "geschäft": {
     "meaning": "shop; store",
     "gender": "neuter",
@@ -705,6 +749,13 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "gesicht": {
+    "meaning": "face",
+    "gender": "neuter",
+    "pronunciation": "[ɡəˈzɪçt]",
+    "plural": "Gesichter",
+    "example": "Ich wasche mein Gesicht."
   },
   "gespielt": {
     "meaning": "played",
@@ -761,6 +812,13 @@
     "meaning": "good",
     "pronunciation": "[ɡuːt]",
     "example": "Der Film war gut."
+  },
+  "haare": {
+    "meaning": "hair",
+    "gender": "plural",
+    "pronunciation": "[ˈhaːʁə]",
+    "singular": "Haar",
+    "example": "Sie hat lange Haare."
   },
   "habe": {
     "meaning": "have (I have)",
@@ -905,6 +963,11 @@
     "plural": null,
     "example": "Ich bin in Berlin."
   },
+  "ins": {
+    "meaning": "into the (contraction of 'in das')",
+    "pronunciation": "[ɪns]",
+    "example": "Lena geht ins Bad."
+  },
   "isst": {
     "meaning": "eats",
     "pronunciation": "[ɪst]",
@@ -937,6 +1000,16 @@
     "plural": null,
     "example": ""
   },
+  "jeden": {
+    "meaning": "every (masculine accusative)",
+    "pronunciation": "[ˈjeːdən]",
+    "example": "Jeden Tag lerne ich Deutsch."
+  },
+  "jeder": {
+    "meaning": "everyone, each",
+    "pronunciation": "[ˈjeːdɐ]",
+    "example": "Jeder hat einen Teller."
+  },
   "jetzt": {
     "meaning": "now",
     "pronunciation": "[jɛtst]",
@@ -954,6 +1027,11 @@
     "gender": "masculine",
     "pronunciation": "[ˈkafe]",
     "example": "Meine Mutter trinkt Kaffee."
+  },
+  "kämmt": {
+    "meaning": "combs (he/she combs)",
+    "pronunciation": "[kɛm(t)]",
+    "example": "Sie kämmt die Haare."
   },
   "kann": {
     "meaning": "can (I/he/she/it can)",
@@ -1044,6 +1122,11 @@
     "pronunciation": "[ˈklɛtɐn]",
     "example": "Die Kinder klettern auf den Baum."
   },
+  "klingelt": {
+    "meaning": "rings (he/she/it rings)",
+    "pronunciation": "[ˈklɪŋəlt]",
+    "example": "Der Wecker klingelt um sieben Uhr."
+  },
   "kommen": {
     "meaning": "to come",
     "pronunciation": "[ˈkɔmən]",
@@ -1053,6 +1136,13 @@
     "meaning": "costs (it costs)",
     "pronunciation": "[ˈkɔstət]",
     "example": "Wie viel kostet das?"
+  },
+  "küche": {
+    "meaning": "kitchen",
+    "gender": "feminine",
+    "pronunciation": "[ˈkʏçə]",
+    "plural": "Küchen",
+    "example": "Die Küche ist sauber."
   },
   "kühlen": {
     "meaning": "cool",
@@ -1102,6 +1192,15 @@
     "plural": "Lehrerinnen",
     "example": "Meine Lehrerin ist freundlich."
   },
+  "lena": {
+    "meaning": "Lena (female name)",
+    "pronunciation": "[ˈleːna]"
+  },
+  "lenas": {
+    "meaning": "Lena's (possessive)",
+    "pronunciation": "[ˈleːnas]",
+    "example": "Lenas Mutter bereitet das Frühstück vor."
+  },
   "lesen": {
     "meaning": "to read",
     "pronunciation": "[ˈleːzn̩]",
@@ -1124,6 +1223,11 @@
     "pronunciation": "[liːt]",
     "plural": "Lieder",
     "example": "Wir singen ein Lied."
+  },
+  "liest": {
+    "meaning": "(he/she) reads",
+    "pronunciation": "[liːst]",
+    "example": "Der Vater liest die Zeitung."
   },
   "lisa": {
     "meaning": "Lisa (female name)",
@@ -1180,6 +1284,13 @@
     "pronunciation": "[man]",
     "plural": "Männer",
     "example": "Der Mann liest ein Buch."
+  },
+  "marmelade": {
+    "meaning": "jam",
+    "gender": "feminine",
+    "pronunciation": "[maʁməˈlaːdə]",
+    "plural": "Marmeladen",
+    "example": "Sie isst Brot mit Marmelade."
   },
   "max": {
     "meaning": "Max (male name)",
@@ -1269,6 +1380,13 @@
     "pronunciation": "[ˈmœçtə]",
     "example": "Ich möchte schlafen."
   },
+  "morgen": {
+    "meaning": "morning",
+    "gender": "masculine",
+    "pronunciation": "[ˈmɔʁɡn̩]",
+    "plural": "Morgende",
+    "example": "Guten Morgen!"
+  },
   "müde": {
     "meaning": "tired",
     "pronunciation": "[ˈmyːdə]",
@@ -1279,7 +1397,7 @@
     "gender": "feminine",
     "pronunciation": "[ˈmʊtɐ]",
     "plural": "Mütter",
-    "example": "Meine Mutter heißt Anna."
+    "example": "Meine Mutter arbeitet viel."
   },
   "nach": {
     "meaning": "to; after",
@@ -1372,7 +1490,7 @@
     "meaning": "fruit",
     "gender": "neuter",
     "pronunciation": "[oːpst]",
-    "example": "Ich esse Obst jeden Tag."
+    "example": "Zum Frühstück esse ich Obst."
   },
   "oft": {
     "meaning": "often",
@@ -1453,6 +1571,11 @@
     "plural": "Probleme",
     "example": "Hast du ein Problem?"
   },
+  "putzt": {
+    "meaning": "cleans, brushes (he/she does)",
+    "pronunciation": "[pʊtst]",
+    "example": "Er putzt die Zähne."
+  },
   "ranzen": {
     "meaning": "satchel (school bag)",
     "gender": "masculine",
@@ -1467,6 +1590,11 @@
     "audio": "audio/raum.mp3",
     "plural": "Räume",
     "example": "Dieser Raum ist groß."
+  },
+  "räumt": {
+    "meaning": "clears, puts away (he/she does)",
+    "pronunciation": "[ʁɔʏ̯mt]",
+    "example": "Sie räumt das Geschirr auf."
   },
   "rennt": {
     "meaning": "runs (he/she runs)",
@@ -1488,6 +1616,13 @@
     "meaning": "quiet",
     "pronunciation": "[ˈʁuːɪç]",
     "example": "Der Park ist ruhig."
+  },
+  "saft": {
+    "meaning": "juice",
+    "gender": "masculine",
+    "pronunciation": "[zaft]",
+    "plural": "Säfte",
+    "example": "Ich trinke gern Saft."
   },
   "sagte": {
     "meaning": "said",
@@ -1551,7 +1686,7 @@
     "gender": "feminine",
     "pronunciation": "[ˈʃuːlə]",
     "plural": "Schulen",
-    "example": "Die Schule ist nah."
+    "example": "Die Schule ist groß."
   },
   "schultag": {
     "meaning": "school day",
@@ -1618,6 +1753,11 @@
     "pronunciation": "[ˈzaɪ̯nə]",
     "example": "Seine Mutter ist Ärztin."
   },
+  "seinen": {
+    "meaning": "his (masculine accusative)",
+    "pronunciation": "[ˈzaɪ̯nən]",
+    "example": "Er nimmt seinen Teller."
+  },
   "seiner": {
     "meaning": "his (masculine/neuter dative or feminine genitive)",
     "pronunciation": "[ˈzaɪ̯nɐ]",
@@ -1659,6 +1799,11 @@
     "meaning": "she; they",
     "pronunciation": "[ziː]",
     "example": "Sie ist meine Freundin."
+  },
+  "sieben": {
+    "meaning": "seven",
+    "pronunciation": "[ˈziːbən]",
+    "example": "Es ist sieben Uhr."
   },
   "sieht": {
     "meaning": "sees (he/she sees)",
@@ -1764,6 +1909,13 @@
     "pronunciation": "[ˈʃpʁɪŋən]",
     "example": "Die Affen springen im Gehege."
   },
+  "spülmaschine": {
+    "meaning": "dishwasher",
+    "gender": "feminine",
+    "pronunciation": "[ˈʃpyːlmaˌʃiːnə]",
+    "plural": "Spülmaschinen",
+    "example": "Die Tassen sind in der Spülmaschine."
+  },
   "spürest": {
     "meaning": "feel (you feel)",
     "pronunciation": "[ˈʃpyːʁəst]",
@@ -1781,6 +1933,11 @@
     "meaning": "to stand",
     "pronunciation": "[ˈʃteːən]",
     "example": "Die Blumen stehen im Garten."
+  },
+  "steht": {
+    "meaning": "(he/she/it) stands",
+    "pronunciation": "[ʃteːt]",
+    "example": "Lena steht auf."
   },
   "supermarkt": {
     "meaning": "supermarket",
@@ -1802,6 +1959,26 @@
     "pronunciation": "[ˈtaʃə]",
     "plural": "Taschen",
     "example": "Meine Tasche ist neu."
+  },
+  "tasse": {
+    "meaning": "cup",
+    "gender": "feminine",
+    "pronunciation": "[ˈtasə]",
+    "plural": "Tassen",
+    "example": "Ich trinke Tee aus einer Tasse."
+  },
+  "tee": {
+    "meaning": "tea",
+    "gender": "masculine",
+    "pronunciation": "[teː]",
+    "example": "Ich trinke gern Tee."
+  },
+  "teller": {
+    "meaning": "plate",
+    "gender": "masculine",
+    "pronunciation": "[ˈtɛlɐ]",
+    "plural": "Teller",
+    "example": "Bitte nimm einen Teller."
   },
   "ticket": {
     "meaning": "ticket",
@@ -1880,6 +2057,11 @@
     "meaning": "to drink",
     "pronunciation": "[ˈtʁɪŋkən]",
     "example": "Wir trinken Wasser."
+  },
+  "trinkt": {
+    "meaning": "drinks (he/she drinks)",
+    "pronunciation": "[tʁɪŋkt]",
+    "example": "Sie trinkt Tee."
   },
   "tritte": {
     "meaning": "steps / footsteps",
@@ -2044,16 +2226,33 @@
     "pronunciation": "[vaːɐ̯]",
     "example": "Er war müde."
   },
+  "warm": {
+    "meaning": "warm",
+    "pronunciation": "[vaʁm]",
+    "example": "Im Sommer ist es warm."
+  },
   "warte": {
     "meaning": "wait (you wait / imperative)",
     "pronunciation": "[ˈvaʁtə]",
     "example": "Warte auf mich!"
+  },
+  "wäscht": {
+    "meaning": "washes (he/she washes)",
+    "pronunciation": "[vɛʃt]",
+    "example": "Sie wäscht das Gesicht."
   },
   "wasser": {
     "meaning": "water",
     "gender": "neuter",
     "pronunciation": "[ˈvasɐ]",
     "example": "Ich trinke Wasser."
+  },
+  "wecker": {
+    "meaning": "alarm clock",
+    "gender": "masculine",
+    "pronunciation": "[ˈvɛkɐ]",
+    "plural": "Wecker",
+    "example": "Der Wecker klingelt jeden Morgen."
   },
   "weder": {
     "meaning": "neither",
@@ -2162,6 +2361,13 @@
     "plural": null,
     "example": ""
   },
+  "zähne": {
+    "meaning": "teeth",
+    "gender": "plural",
+    "pronunciation": "[ˈt͡sɛːnə]",
+    "singular": "Zahn",
+    "example": "Ich putze meine Zähne."
+  },
   "zeit": {
     "meaning": "time",
     "gender": "die (f)",
@@ -2169,6 +2375,13 @@
     "audio": "audio/zeit.mp3",
     "plural": "Zeiten",
     "example": "Die Zeit vergeht schnell."
+  },
+  "zeitung": {
+    "meaning": "newspaper",
+    "gender": "feminine",
+    "pronunciation": "[ˈt͡saɪ̯tʊŋ]",
+    "plural": "Zeitungen",
+    "example": "Mein Vater liest die Zeitung."
   },
   "zerbrochen": {
     "meaning": "broken; shattered",
@@ -2186,6 +2399,11 @@
     "meaning": "to pull; to put on (clothes)",
     "pronunciation": "[ˈtsiːən]",
     "example": "Wir ziehen die Jacken an."
+  },
+  "zieht": {
+    "meaning": "(he/she) puts on, gets dressed",
+    "pronunciation": "[t͡siːt]",
+    "example": "Er zieht seine Jacke an."
   },
   "zoo": {
     "meaning": "zoo",
