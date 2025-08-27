@@ -1,8 +1,8 @@
 {
   "ab": {
-    "meaning": "from; as of",
+    "meaning": "from, as of, off (a starting point)",
     "pronunciation": "[ap]",
-    "example": "Der Kurs beginnt ab Montag."
+    "example": "Ab morgen habe ich Urlaub."
   },
   "abend": {
     "meaning": "evening",
@@ -16,10 +16,39 @@
     "pronunciation": "[ˈaːbɐ]",
     "example": "Ich mag Kaffee, aber ich trinke lieber Tee."
   },
+  "abfahren": {
+    "meaning": "to leave, depart",
+    "pronunciation": "[ˈapfaːʁən]",
+    "example": "Der Bus fährt um acht Uhr ab."
+  },
+  "abfahrt": {
+    "meaning": "departure",
+    "gender": "feminine",
+    "pronunciation": "[ˈapfaːʁt]",
+    "plural": "Abfahrten",
+    "example": "Die Abfahrt ist um acht Uhr."
+  },
+  "abholen": {
+    "meaning": "to pick up",
+    "pronunciation": "[ˈaphoːlən]",
+    "example": "Kannst du mich vom Bahnhof abholen?"
+  },
+  "absender": {
+    "meaning": "sender",
+    "gender": "masculine",
+    "pronunciation": "[ˈapzɛndɐ]",
+    "plural": "Absender",
+    "example": "Der Absender steht auf dem Brief."
+  },
   "acht": {
     "meaning": "eight",
     "pronunciation": "[aχt]",
     "example": "Es ist acht Uhr."
+  },
+  "achtung": {
+    "meaning": "Attention! Watch out!",
+    "pronunciation": "[ˈaχtʊŋ]",
+    "example": "Achtung! Der Zug fährt ab."
   },
   "affe": {
     "meaning": "monkey",
@@ -39,6 +68,11 @@
     "meaning": "all, everyone",
     "pronunciation": "[ˈalə]",
     "example": "Alle Kinder spielen draußen."
+  },
+  "allein": {
+    "meaning": "alone",
+    "pronunciation": "[aˈlaɪ̯n]",
+    "example": "Er fährt allein nach Hause."
   },
   "allen": {
     "meaning": "all",
@@ -69,14 +103,77 @@
     "pronunciation": "[an]",
     "example": "Setz dich an den Tisch."
   },
+  "anbieten": {
+    "meaning": "to offer",
+    "pronunciation": "[ˈanˌbiːtən]",
+    "example": "Der Mann bietet Hilfe an."
+  },
+  "ander": {
+    "meaning": "other",
+    "pronunciation": "[ˈandɐ]",
+    "example": "Hast du ein anderes Buch?"
+  },
+  "anderer": {
+    "meaning": "other (masculine, nominative)",
+    "pronunciation": "[ˈandəʁɐ]",
+    "example": "Ein anderer Mann wartet hier."
+  },
+  "anfangen": {
+    "meaning": "to start, begin",
+    "pronunciation": "[ˈanˌfaŋən]",
+    "example": "Der Kurs fängt um neun Uhr an."
+  },
   "angerufen": {
     "meaning": "called (by phone)",
     "pronunciation": "[ˈanɡəˌʁuːfən]",
     "example": "Ich habe meine Mutter angerufen."
   },
+  "ankommen": {
+    "meaning": "to arrive",
+    "pronunciation": "[ˈanˌkɔmən]",
+    "example": "Wann kommst du an?"
+  },
+  "ankreuzen": {
+    "meaning": "to tick, check (a box)",
+    "pronunciation": "[ˈanˌkrɔʏ̯t͡sn]",
+    "example": "Bitte kreuzen Sie die richtige Antwort an."
+  },
+  "ankunft": {
+    "meaning": "arrival",
+    "gender": "feminine",
+    "pronunciation": "[ˈankʊnft]",
+    "plural": "Ankünfte",
+    "example": "Die Ankunft ist um 16 Uhr."
+  },
+  "anmelden": {
+    "meaning": "to register, sign up",
+    "pronunciation": "[ˈanˌmɛldən]",
+    "example": "Ich möchte mich für den Kurs anmelden."
+  },
+  "anmeldung": {
+    "meaning": "registration",
+    "gender": "feminine",
+    "pronunciation": "[ˈanˌmɛldʊŋ]",
+    "plural": "Anmeldungen",
+    "example": "Die Anmeldung ist am Schalter."
+  },
   "anna": {
     "meaning": "Anna (name)",
     "pronunciation": "[ˈana]"
+  },
+  "ansage": {
+    "meaning": "announcement",
+    "gender": "feminine",
+    "pronunciation": "[ˈanˌzaːɡə]",
+    "plural": "Ansagen",
+    "example": "Die Ansage ist wichtig."
+  },
+  "anschluss": {
+    "meaning": "connection, transfer (train/bus)",
+    "gender": "masculine",
+    "pronunciation": "[ˈanˌʃlʊs]",
+    "plural": "Anschlüsse",
+    "example": "Mein Anschluss hat Verspätung."
   },
   "äpfel": {
     "meaning": "apples",
@@ -139,6 +236,13 @@
     "pronunciation": "[baːt]",
     "plural": "Bäder",
     "example": "Das Bad ist sauber."
+  },
+  "bahnhof": {
+    "meaning": "train station",
+    "gender": "masculine",
+    "pronunciation": "[ˈbaːnˌhoːf]",
+    "plural": "Bahnhöfe",
+    "example": "Der Bahnhof ist groß."
   },
   "bald": {
     "meaning": "soon",
@@ -207,6 +311,11 @@
     "meaning": "pays (she/he pays)",
     "pronunciation": "[bəˈt͡saːlt]",
     "example": "Anna bezahlt die Milch."
+  },
+  "bietet": {
+    "meaning": "offers (he/she/it offers)",
+    "pronunciation": "[ˈbiːtət]",
+    "example": "Der Mann bietet Hilfe an."
   },
   "bildschirm": {
     "meaning": "screen",
@@ -299,6 +408,11 @@
     "pronunciation": "[dan]",
     "example": "Wir essen und dann gehen wir spazieren."
   },
+  "darauf": {
+    "meaning": "on it, on there, onto it",
+    "pronunciation": "[daˈʁaʊ̯f]",
+    "example": "Die Adresse steht darauf."
+  },
   "das": {
     "meaning": "the (neuter)",
     "gender": null,
@@ -350,15 +464,99 @@
     "plural": null,
     "example": "Der Mann ist groß."
   },
+  "der absender": {
+    "meaning": "sender",
+    "gender": "masculine",
+    "pronunciation": "[ˈapˌzɛndɐ]",
+    "plural": "Absender",
+    "example": "Der Absender steht auf dem Brief."
+  },
+  "der anschluss": {
+    "meaning": "the connection (transport, phone)",
+    "gender": "masculine",
+    "pronunciation": "[ˈanʃlʊs]",
+    "plural": "Anschlüsse",
+    "example": "Ich habe Anschluss nach Hamburg."
+  },
+  "der norden": {
+    "meaning": "north",
+    "gender": "masculine",
+    "pronunciation": "[ˈnɔʁdn̩]",
+    "example": "Hamburg liegt im Norden."
+  },
+  "der osten": {
+    "meaning": "east",
+    "gender": "masculine",
+    "pronunciation": "[ˈɔstn̩]",
+    "example": "Berlin liegt im Osten von Deutschland."
+  },
+  "der süden": {
+    "meaning": "south",
+    "gender": "masculine",
+    "pronunciation": "[ˈzyːdn̩]",
+    "example": "München liegt im Süden."
+  },
+  "der westen": {
+    "meaning": "west",
+    "gender": "masculine",
+    "pronunciation": "[ˈvɛstn̩]",
+    "example": "Köln liegt im Westen."
+  },
   "die": {
     "meaning": "the (feminine / plural)",
     "pronunciation": "[diː]",
     "example": "Die Frau lächelt."
   },
+  "die abfahrt": {
+    "meaning": "the departure",
+    "gender": "feminine",
+    "pronunciation": "[ˈapfaːʁt]",
+    "plural": "Abfahrten",
+    "example": "Unsere Abfahrt ist um zehn Uhr."
+  },
+  "die ankunft": {
+    "meaning": "the arrival",
+    "gender": "feminine",
+    "pronunciation": "[ˈankʊnft]",
+    "plural": "Ankünfte",
+    "example": "Die Ankunft ist um drei Uhr."
+  },
+  "die anmeldung": {
+    "meaning": "registration, sign-up",
+    "gender": "feminine",
+    "pronunciation": "[ˈanˌmɛldʊŋ]",
+    "plural": "Anmeldungen",
+    "example": "Die Anmeldung ist bis Freitag offen."
+  },
+  "die ansage": {
+    "meaning": "announcement",
+    "gender": "feminine",
+    "pronunciation": "[ˈanˌzaːɡə]",
+    "plural": "Ansagen",
+    "example": "Die Ansage ist am Bahnhof laut."
+  },
+  "die himmelsrichtungen": {
+    "meaning": "directions, cardinal points",
+    "gender": "plural",
+    "pronunciation": "[ˈhɪml̩sˌrɪçtʊŋən]",
+    "example": "Norden, Süden, Osten und Westen sind Himmelsrichtungen."
+  },
+  "die richtung": {
+    "meaning": "direction",
+    "gender": "feminine",
+    "pronunciation": "[ˈrɪçtʊŋ]",
+    "plural": "Richtungen",
+    "example": "In welche Richtung fährst du?"
+  },
   "dieses": {
     "meaning": "this (neuter, accusative)",
     "pronunciation": "[ˈdiːzəs]",
     "example": "Gefällt dir dieses Buch?"
+  },
+  "directions": {
+    "meaning": "Richtungen, directions",
+    "pronunciation": "[dɪˈʁɛkt͡si̯oːns]",
+    "example": "Norden, Süden, Osten und Westen sind directions."
   },
   "draußen": {
     "meaning": "outside",
@@ -547,6 +745,18 @@
     "plural": "Fahrradsitze",
     "example": "Der Fahrradsitz ist bequem."
   },
+  "fahrt": {
+    "meaning": "ride, journey",
+    "gender": "feminine",
+    "pronunciation": "[faːʁt]",
+    "plural": "Fahrten",
+    "example": "Die Fahrt dauert 2 Stunden."
+  },
+  "fährt": {
+    "meaning": "drives, goes (he/she/it goes)",
+    "pronunciation": "[fɛːɐ̯t]",
+    "example": "Der Bus fährt um zehn Uhr ab."
+  },
   "familie": {
     "meaning": "family",
     "gender": "feminine",
@@ -730,6 +940,11 @@
     "pronunciation": "[ɡəˈmaɪ̯nzaːm]",
     "example": "Wir lernen gemeinsam."
   },
+  "genannt": {
+    "meaning": "named, called",
+    "pronunciation": "[ɡəˈnant]",
+    "example": "Der Name wird in der Ansage genannt."
+  },
   "gern": {
     "meaning": "gladly, with pleasure; likes to",
     "pronunciation": "[ɡɛʁn]",
@@ -741,6 +956,11 @@
     "pronunciation": "[ɡəˈʃɛft]",
     "plural": "Geschäfte",
     "example": "Das Geschäft ist groß."
+  },
+  "gesehen": {
+    "meaning": "seen",
+    "pronunciation": "[ɡəˈzeːən]",
+    "example": "Ich habe viele Städte gesehen."
   },
   "geselligsten": {
     "meaning": "most sociable",
@@ -900,6 +1120,12 @@
     "plural": "Himmel",
     "example": "Der Himmel ist blau."
   },
+  "himmelsrichtungen": {
+    "meaning": "cardinal directions",
+    "gender": "plural",
+    "pronunciation": "[ˈhɪml̩sˌrɪçtʊŋən]",
+    "example": "Norden, Süden, Osten und Westen sind Himmelsrichtungen."
+  },
   "hoffe": {
     "meaning": "hope (I hope)",
     "pronunciation": "[ˈhɔfə]",
@@ -1043,6 +1269,13 @@
     "pronunciation": "[kaˈpʊt]",
     "example": "Mein Auto ist kaputt."
   },
+  "karte": {
+    "meaning": "map, card",
+    "gender": "feminine",
+    "pronunciation": "[ˈkaʁtə]",
+    "plural": "Karten",
+    "example": "Wir brauchen eine Karte."
+  },
   "käse": {
     "meaning": "cheese",
     "gender": "masculine",
@@ -1137,6 +1370,11 @@
     "pronunciation": "[ˈkɔstət]",
     "example": "Wie viel kostet das?"
   },
+  "kreuzen": {
+    "meaning": "tick, check, cross",
+    "pronunciation": "[ˈkʁɔʏ̯t͡sn̩]",
+    "example": "Bitte kreuzen Sie das richtige Feld an."
+  },
   "küche": {
     "meaning": "kitchen",
     "gender": "feminine",
@@ -1158,6 +1396,11 @@
     "meaning": "laughs (he/she laughs)",
     "pronunciation": "[laχt]",
     "example": "Mia lacht laut."
+  },
+  "langer": {
+    "meaning": "long (masculine/neuter genitive/dative or fem. genitive)",
+    "pronunciation": "[ˈlaŋɐ]",
+    "example": "Nach langer Fahrt sind wir müde."
   },
   "lassen": {
     "meaning": "to let, to allow",
@@ -1311,6 +1554,11 @@
     "pronunciation": "[ˈmaɪ̯nəm]",
     "example": "Ich gebe meinem Freund das Buch."
   },
+  "melden": {
+    "meaning": "to report, register, announce",
+    "pronunciation": "[ˈmɛldən]",
+    "example": "Bitte melden Sie sich am Schalter."
+  },
   "messen": {
     "meaning": "to measure",
     "gender": null,
@@ -1391,6 +1639,11 @@
     "meaning": "tired",
     "pronunciation": "[ˈmyːdə]",
     "example": "Nach dem Sport bin ich müde."
+  },
+  "muss": {
+    "meaning": "must, have to (I/he/she/it)",
+    "pronunciation": "[mʊs]",
+    "example": "Ich muss gehen."
   },
   "mutter": {
     "meaning": "mother",
@@ -1476,6 +1729,12 @@
     "pronunciation": "[nɔx]",
     "example": "Ich bin noch nicht fertig."
   },
+  "norden": {
+    "meaning": "north",
+    "gender": "masculine",
+    "pronunciation": "[ˈnɔʁdn̩]",
+    "example": "Hamburg liegt im Norden."
+  },
   "nur": {
     "meaning": "only; just",
     "pronunciation": "[nuːɐ̯]",
@@ -1504,6 +1763,12 @@
     "plural": "Omas",
     "example": "Oma backt Kuchen."
   },
+  "osten": {
+    "meaning": "east",
+    "gender": "masculine",
+    "pronunciation": "[ˈɔstən]",
+    "example": "Berlin liegt im Osten."
+  },
   "paar": {
     "meaning": "a few, couple",
     "pronunciation": "[paːɐ̯]",
@@ -1530,6 +1795,15 @@
     "meaning": "fits (it fits)",
     "pronunciation": "[past]",
     "example": "Der Schuh passt mir."
+  },
+  "paula": {
+    "meaning": "Paula (female name)",
+    "pronunciation": "[ˈpaʊ̯la]"
+  },
+  "paulas": {
+    "meaning": "Paula’s (possessive)",
+    "pronunciation": "[ˈpaʊ̯las]",
+    "example": "Paulas Familie geht auf Reise."
   },
   "phönix": {
     "meaning": "phoenix",
@@ -1558,6 +1832,13 @@
     "pronunciation": "[ˈpɪŋguˌiːnən]",
     "singular": "Pinguin",
     "example": "Die Kinder gehen zu den Pinguinen."
+  },
+  "plan": {
+    "meaning": "plan, map",
+    "gender": "masculine",
+    "pronunciation": "[plaːn]",
+    "plural": "Pläne",
+    "example": "Der Plan hilft uns."
   },
   "plötzlich": {
     "meaning": "suddenly",
@@ -1596,10 +1877,35 @@
     "pronunciation": "[ʁɔʏ̯mt]",
     "example": "Sie räumt das Geschirr auf."
   },
+  "reise": {
+    "meaning": "trip, journey",
+    "gender": "feminine",
+    "pronunciation": "[ˈʁaɪ̯zə]",
+    "plural": "Reisen",
+    "example": "Die Reise war lang."
+  },
+  "reisender": {
+    "meaning": "traveler (male)",
+    "gender": "masculine",
+    "pronunciation": "[ˈʁaɪ̯zn̩dɐ]",
+    "plural": "Reisende",
+    "example": "Der Reisende kauft eine Fahrkarte."
+  },
   "rennt": {
     "meaning": "runs (he/she runs)",
     "pronunciation": "[ʁɛnt]",
     "example": "Mia rennt sehr schnell."
+  },
+  "richtigen": {
+    "meaning": "correct, right (masc. acc./neut. pl.)",
+    "pronunciation": "[ˈʁɪçtɪɡn̩]",
+    "example": "Bitte kreuzen Sie die richtigen Antworten an."
+  },
+  "richtungen": {
+    "meaning": "directions (plural)",
+    "gender": "feminine",
+    "pronunciation": "[ˈrɪçtʊŋən]",
+    "example": "Wir kennen viele Richtungen."
   },
   "ruh": {
     "meaning": "peace; rest",
@@ -1648,6 +1954,13 @@
     "plural": "Sandburgen",
     "example": "Wir bauen eine Sandburg."
   },
+  "schalter": {
+    "meaning": "counter, desk",
+    "gender": "masculine",
+    "pronunciation": "[ˈʃaltɐ]",
+    "plural": "Schalter",
+    "example": "Ich gehe zum Schalter im Bahnhof."
+  },
   "schatten": {
     "meaning": "shadow",
     "gender": "der (m)",
@@ -1680,6 +1993,11 @@
     "meaning": "nice, beautiful (masc. acc./plural/fem. gen.)",
     "pronunciation": "[ˈʃøːnən]",
     "example": "Sie erzählt vom schönen Tag."
+  },
+  "schreibt": {
+    "meaning": "writes (he/she/it)",
+    "pronunciation": "[ʃʁaɪ̯pt]",
+    "example": "Er schreibt eine Karte."
   },
   "schule": {
     "meaning": "school",
@@ -1767,6 +2085,11 @@
     "meaning": "to sit",
     "pronunciation": "[ˈzɛt͡sn̩]",
     "example": "Wir setzen uns auf die Decke."
+  },
+  "setzt": {
+    "meaning": "puts, sets, sits (he/she/it)",
+    "pronunciation": "[zɛt͡st]",
+    "example": "Er setzt seinen Namen auf das Formular."
   },
   "seufzten": {
     "meaning": "sighed",
@@ -1868,6 +2191,11 @@
     "pronunciation": "[ˈzɔntakˌmɔʁgən]",
     "example": "Am Sonntagmorgen wacht die Familie früh auf."
   },
+  "spannend": {
+    "meaning": "exciting",
+    "pronunciation": "[ˈʃpanənt]",
+    "example": "Die Reise war spannend."
+  },
   "spaß": {
     "meaning": "fun",
     "gender": "masculine",
@@ -1938,6 +2266,12 @@
     "meaning": "(he/she/it) stands",
     "pronunciation": "[ʃteːt]",
     "example": "Lena steht auf."
+  },
+  "süden": {
+    "meaning": "south",
+    "gender": "masculine",
+    "pronunciation": "[ˈzyːdn̩]",
+    "example": "München liegt im Süden."
   },
   "supermarkt": {
     "meaning": "supermarket",
@@ -2143,6 +2477,13 @@
     "plural": null,
     "example": ""
   },
+  "verspätung": {
+    "meaning": "delay",
+    "gender": "feminine",
+    "pronunciation": "[fɛʁˈʃpɛːtʊŋ]",
+    "plural": "Verspätungen",
+    "example": "Der Zug hat Verspätung."
+  },
   "viel": {
     "meaning": "much; a lot",
     "pronunciation": "[fiːl]",
@@ -2276,6 +2617,12 @@
     "meaning": "further, on, continue",
     "pronunciation": "[ˈvaɪ̯tɐ]",
     "example": "Danach geht es weiter zum Spielplatz."
+  },
+  "westen": {
+    "meaning": "west",
+    "gender": "masculine",
+    "pronunciation": "[ˈvɛstən]",
+    "example": "Köln liegt im Westen."
   },
   "wetter": {
     "meaning": "weather",
@@ -2421,6 +2768,13 @@
     "meaning": "at home",
     "pronunciation": "[tsuː ˈhaʊ̯zə]",
     "example": "Ich bin zu Hause."
+  },
+  "zug": {
+    "meaning": "train",
+    "gender": "masculine",
+    "pronunciation": "[tsuːk]",
+    "plural": "Züge",
+    "example": "Der Zug fährt ab."
   },
   "zum": {
     "meaning": "to the; for the (contraction of 'zu dem')",
