@@ -1,4 +1,18 @@
 [
+
+  {
+    "file": "ein-tag-mit-paula.json",
+    "title": "A1 Vocab Ein Tag mit Paula"
+  },
+  {
+    "file": "reise-in-alle-himmelsrichtungen.json",
+    "title": "A1 Vocab Eine Reise in alle Himmelsrichtungen"
+  },
+  {
+    "file": "ein-tag-bei-der-arbeit.json",
+    "title": "A1 Vocab Ein Tag bei der Arbeit"
+  },
+
   {
     "file": "herr-groettrup-setzt-sich-hin.json",
     "title": "Herr Groettrup setzt sich hin"
@@ -24,9 +38,10 @@
     "title": "Der Ausflug zum Zoo"
   },
   {
-    "file": "reise-in-alle-himmelsrichtungen.json",
-    "title": "Eine Reise in alle Himmelsrichtungen"
+    "file": "ein-tag-mit-paula.json",
+    "title": "Ein Tag mit Paula"
   },
+  
 
   {
     "file": "Ein Morgen zu Hause.json",

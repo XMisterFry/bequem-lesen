@@ -103,6 +103,11 @@
     "pronunciation": "[an]",
     "example": "Setz dich an den Tisch."
   },
+  "an sein": {
+    "meaning": "to be on, to be operating",
+    "pronunciation": "[an ˈzaɪ̯n]",
+    "example": "Das Licht ist an sein."
+  },
   "anbieten": {
     "meaning": "to offer",
     "pronunciation": "[ˈanˌbiːtən]",
@@ -175,12 +180,63 @@
     "plural": "Anschlüsse",
     "example": "Mein Anschluss hat Verspätung."
   },
+  "antworten": {
+    "meaning": "to answer",
+    "pronunciation": "[ˈantvɔʁtən]",
+    "example": "Kannst du mir bitte antworten?"
+  },
+  "anziehen": {
+    "meaning": "to put on (clothes)",
+    "pronunciation": "[ˈantsiːən]",
+    "example": "Ich ziehe eine Jacke an."
+  },
+  "apfel": {
+    "meaning": "apple",
+    "gender": "masculine",
+    "pronunciation": "[ˈapfl̩]",
+    "plural": "Äpfel",
+    "example": "Ich esse einen Apfel."
+  },
   "äpfel": {
     "meaning": "apples",
     "gender": "masculine",
     "pronunciation": "[ˈɛpfl̩]",
     "singular": "Apfel",
     "example": "Die Äpfel sind rot."
+  },
+  "appetit": {
+    "meaning": "appetite",
+    "gender": "masculine",
+    "pronunciation": "[apɛˈtiːt]",
+    "example": "Ich habe großen Appetit."
+  },
+  "arbeiten": {
+    "meaning": "to work",
+    "pronunciation": "[ˈaʁbaɪ̯tn̩]",
+    "example": "Er arbeitet im Büro."
+  },
+  "arbeitet": {
+    "meaning": "(he/she) works",
+    "pronunciation": "[ˈaʁbaɪ̯tət]",
+    "example": "Sie arbeitet im Büro."
+  },
+  "arbeitslos": {
+    "meaning": "unemployed",
+    "pronunciation": "[ˈaʁbaɪ̯tsloːs]",
+    "example": "Er ist arbeitslos."
+  },
+  "arbeitsplatz": {
+    "meaning": "workplace, job",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʁbaɪ̯tsplats]",
+    "plural": "Arbeitsplätze",
+    "example": "Mein Arbeitsplatz ist in der Stadt."
+  },
+  "arbeitstag": {
+    "meaning": "workday",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʁbaɪ̯tstaːk]",
+    "example": "Der Arbeitstag beginnt um neun Uhr."
   },
   "art": {
     "meaning": "kind, species",
@@ -203,20 +259,61 @@
     "plural": null,
     "example": "Das Buch liegt auf dem Tisch."
   },
+  "auf sein": {
+    "meaning": "to be open",
+    "pronunciation": "[aʊ̯f zaɪ̯n]",
+    "example": "Die Tür ist auf."
+  },
+  "aufgabe": {
+    "meaning": "task, assignment",
+    "gender": "feminine",
+    "pronunciation": "[ˈaufɡaːbə]",
+    "plural": "Aufgaben",
+    "example": "Ich habe heute viele Aufgaben."
+  },
   "aufgeregt": {
     "meaning": "excited, nervous",
     "pronunciation": "[ˈaʊ̯fɡəʁeːkt]",
     "example": "Ich bin aufgeregt."
+  },
+  "aufhören": {
+    "meaning": "to stop",
+    "pronunciation": "[ˈaʊ̯fhøːʁən]",
+    "example": "Ich höre jetzt auf."
   },
   "aufs": {
     "meaning": "to the (short for 'auf das' when followed by neuter noun)",
     "pronunciation": "[aʊfs]",
     "example": "Sie geht aufs Klo."
   },
+  "aufstehen": {
+    "meaning": "to get up",
+    "pronunciation": "[ˈaʊ̯fʃteːən]",
+    "example": "Ich stehe um sieben Uhr auf."
+  },
+  "aufzug": {
+    "meaning": "elevator",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯ftsʊk]",
+    "plural": "Aufzüge",
+    "example": "Der Aufzug ist im Gebäude."
+  },
   "aus": {
     "meaning": "from; out of",
     "pronunciation": "[aʊ̯s]",
     "example": "Er kommt aus Deutschland."
+  },
+  "ausflug": {
+    "meaning": "excursion, trip",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sfluːk]",
+    "plural": "Ausflüge",
+    "example": "Wir machen einen Ausflug."
+  },
+  "ausfüllen": {
+    "meaning": "to fill in (a form)",
+    "pronunciation": "[ˈaʊ̯sˌfʏlən]",
+    "example": "Füllen Sie bitte das Formular aus."
   },
   "ausprobieren": {
     "meaning": "to try out",
@@ -264,6 +361,13 @@
     "plural": "Bälle",
     "example": "Der Ball ist rund."
   },
+  "bank": {
+    "meaning": "bench; bank",
+    "gender": "feminine",
+    "pronunciation": "[baŋk]",
+    "plural": "Bänke",
+    "example": "Ich sitze auf der Bank."
+  },
   "bauen": {
     "meaning": "to build",
     "pronunciation": "[ˈbaʊ̯ən]",
@@ -285,6 +389,11 @@
     "meaning": "comfortable",
     "pronunciation": "[bəˈkveːm]",
     "example": "Der Stuhl ist bequem."
+  },
+  "bereit": {
+    "meaning": "ready",
+    "pronunciation": "[bəˈʁaɪ̯t]",
+    "example": "Ich bin bereit zu gehen."
   },
   "bereitet": {
     "meaning": "prepares (he/she prepares)",
@@ -328,6 +437,11 @@
     "meaning": "am (I am)",
     "pronunciation": "[bɪn]",
     "example": "Ich bin müde."
+  },
+  "bitte": {
+    "meaning": "please; you're welcome",
+    "pronunciation": "[ˈbɪtə]",
+    "example": "Bitte helfen Sie mir."
   },
   "blau": {
     "meaning": "blue",
@@ -392,6 +506,13 @@
     "plural": "Bücher",
     "example": "Ich lese ein Buch."
   },
+  "büro": {
+    "meaning": "office",
+    "neuter": "das",
+    "pronunciation": "[byˈʁoː]",
+    "plural": "Büros",
+    "example": "Ich arbeite im Büro."
+  },
   "butter": {
     "meaning": "butter",
     "gender": "feminine",
@@ -420,6 +541,18 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "das apartment": {
+    "meaning": "apartment",
+    "pronunciation": "[apartaˈmɛnt]",
+    "example": "Sie wohnt in einem kleinen Apartment."
+  },
+  "das auge": {
+    "meaning": "eye",
+    "gender": "neuter",
+    "pronunciation": "[ˈaʊ̯ɡə]",
+    "plural": "Augen",
+    "example": "Er hat blaue Augen."
   },
   "decke": {
     "meaning": "blanket",
@@ -451,6 +584,11 @@
     "plural": null,
     "example": "Ich sehe den Mann."
   },
+  "denkt": {
+    "meaning": "(he/she) thinks",
+    "pronunciation": "[dɛŋkt]",
+    "example": "Sie denkt über das Problem nach."
+  },
   "denn": {
     "meaning": "because; for",
     "pronunciation": "[dɛn]",
@@ -478,6 +616,60 @@
     "plural": "Anschlüsse",
     "example": "Ich habe Anschluss nach Hamburg."
   },
+  "der apfel": {
+    "meaning": "the apple",
+    "gender": "masculine",
+    "pronunciation": "[ˈapfl̩]",
+    "plural": "Äpfel",
+    "example": "Ich esse einen Apfel."
+  },
+  "der appetit": {
+    "meaning": "appetite",
+    "gender": "masculine",
+    "pronunciation": "[apɛtiːt]",
+    "example": "Ich habe großen Appetit."
+  },
+  "der arbeitsplatz": {
+    "meaning": "workplace, job",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʁbaɪ̯tsplats]",
+    "plural": "Arbeitsplätze",
+    "example": "Der Arbeitsplatz ist modern."
+  },
+  "der arm": {
+    "meaning": "arm",
+    "gender": "masculine",
+    "pronunciation": "[aʁm]",
+    "example": "Er hat den Arm gebrochen."
+  },
+  "der arzt": {
+    "meaning": "doctor (male)",
+    "gender": "masculine",
+    "pronunciation": "[aʁtst]",
+    "plural": "Ärzte",
+    "example": "Der Arzt kommt ins Krankenhaus."
+  },
+  "der aufzug": {
+    "meaning": "elevator",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯ftsʊk]",
+    "plural": "Aufzüge",
+    "example": "Der Aufzug ist im Haus."
+  },
+  "der ausflug": {
+    "meaning": "excursion, trip",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sˌfluːk]",
+    "plural": "Ausflüge",
+    "example": "Wir machen einen Ausflug."
+  },
+  "der ausgang": {
+    "meaning": "exit",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sɡaŋ]",
+    "plural": "Ausgänge",
+    "example": "Der Ausgang ist dort."
+  },
   "der norden": {
     "meaning": "north",
     "gender": "masculine",
@@ -501,6 +693,11 @@
     "gender": "masculine",
     "pronunciation": "[ˈvɛstn̩]",
     "example": "Köln liegt im Westen."
+  },
+  "des": {
+    "meaning": "of the (genitive masculine/neuter article)",
+    "pronunciation": "[dɛs]",
+    "example": "Das Ende des Tages."
   },
   "die": {
     "meaning": "the (feminine / plural)",
@@ -534,6 +731,40 @@
     "pronunciation": "[ˈanˌzaːɡə]",
     "plural": "Ansagen",
     "example": "Die Ansage ist am Bahnhof laut."
+  },
+  "die antwort": {
+    "meaning": "the answer",
+    "gender": "feminine",
+    "pronunciation": "[ˈantvɔʁt]",
+    "plural": "Antworten",
+    "example": "Ich habe die richtige Antwort."
+  },
+  "die anzeige": {
+    "meaning": "the advertisement",
+    "gender": "feminine",
+    "pronunciation": "[ˈantˌtsaɪɡə]",
+    "plural": "Anzeigen",
+    "example": "Ich habe eine Anzeige in der Zeitung gesehen."
+  },
+  "die arbeit": {
+    "meaning": "the work, job",
+    "gender": "feminine",
+    "pronunciation": "[ˈaʁbaɪ̯t]",
+    "example": "Die Arbeit ist wichtig."
+  },
+  "die aufgabe": {
+    "meaning": "task, assignment",
+    "gender": "feminine",
+    "pronunciation": "[ˈaufɡaːbə]",
+    "plural": "Aufgaben",
+    "example": "Er hat die Aufgabe gemacht."
+  },
+  "die auskunft": {
+    "meaning": "information, inquiry",
+    "gender": "feminine",
+    "pronunciation": "[ˈaʊ̯sˌkʊnft]",
+    "plural": "Auskünfte",
+    "example": "Kann ich eine Auskunft bekommen?"
   },
   "die himmelsrichtungen": {
     "meaning": "directions, cardinal points",
@@ -605,6 +836,11 @@
     "meaning": "a; one (masculine, accusative)",
     "pronunciation": "[ˈaɪ̯nən]",
     "example": "Ich sehe einen Hund."
+  },
+  "einfach": {
+    "meaning": "simple, easy",
+    "pronunciation": "[ˈaɪ̯nfax]",
+    "example": "Das ist einfach zu lernen."
   },
   "eingang": {
     "meaning": "entrance",
@@ -681,6 +917,11 @@
     "audio": "audio/erden.mp3",
     "plural": null,
     "example": "Auf Erden leben viele Menschen."
+  },
+  "erledigen": {
+    "meaning": "to complete, to do",
+    "pronunciation": "[ɛɐ̯ˈleːdɪɡən]",
+    "example": "Ich muss meine Aufgaben erledigen."
   },
   "erschien": {
     "meaning": "appeared",
@@ -791,6 +1032,13 @@
     "pronunciation": "[floːk]",
     "example": "Der Vogel flog weg."
   },
+  "formulare": {
+    "meaning": "forms (documents)",
+    "neuter": "das Formular",
+    "pronunciation": "[fɔʁmuˈlaːʁə]",
+    "plural": "Formulare",
+    "example": "Füllen Sie bitte die Formulare aus."
+  },
   "fotos": {
     "meaning": "photos",
     "gender": "neuter",
@@ -862,6 +1110,11 @@
     "meaning": "has breakfast (he/she has breakfast)",
     "pronunciation": "[ˈfʁyːʃtʏkt]",
     "example": "Sie frühstückt jeden Morgen um acht."
+  },
+  "füllt": {
+    "meaning": "(he/she) fills in",
+    "pronunciation": "[fʏlt]",
+    "example": "Sie füllt das Formular aus."
   },
   "fünf": {
     "meaning": "five",
@@ -1023,6 +1276,11 @@
     "meaning": "big (feminine/plural form)",
     "pronunciation": "[ˈɡʁoːsə]",
     "example": "Sie haben eine große Tasche."
+  },
+  "großen": {
+    "meaning": "big (accusative masculine or plural form)",
+    "pronunciation": "[ˈɡʁoːsən]",
+    "example": "Ich habe einen großen Hund."
   },
   "gröttrup": {
     "meaning": "Gröttrup (name)",
@@ -1365,6 +1623,11 @@
     "pronunciation": "[ˈkɔmən]",
     "example": "Kommst du mit?"
   },
+  "kommt": {
+    "meaning": "(he/she) comes",
+    "pronunciation": "[kɔmt]",
+    "example": "Der Zug kommt an."
+  },
   "kostet": {
     "meaning": "costs (it costs)",
     "pronunciation": "[ˈkɔstət]",
@@ -1374,6 +1637,11 @@
     "meaning": "tick, check, cross",
     "pronunciation": "[ˈkʁɔʏ̯t͡sn̩]",
     "example": "Bitte kreuzen Sie das richtige Feld an."
+  },
+  "kreuzt": {
+    "meaning": "(he/she) ticks, crosses (a box)",
+    "pronunciation": "[kʁɔyt͡st]",
+    "example": "Bitte kreuzt die richtige Antwort an."
   },
   "küche": {
     "meaning": "kitchen",
@@ -1492,6 +1760,11 @@
     "plural": null,
     "example": ""
   },
+  "loszufahren": {
+    "meaning": "to start to travel; to set off",
+    "pronunciation": "[loːs.tsuːˈfaːʁən]",
+    "example": "Wir sind bereit loszufahren."
+  },
   "löwe": {
     "meaning": "lion",
     "gender": "masculine",
@@ -1539,6 +1812,13 @@
     "meaning": "Max (male name)",
     "pronunciation": "[maks]"
   },
+  "meeting": {
+    "meaning": "meeting",
+    "neuter": "das",
+    "pronunciation": "[ˈmiːtɪŋ]",
+    "plural": "Meetings",
+    "example": "Ich habe heute ein Meeting."
+  },
   "mein": {
     "meaning": "my (masculine/neuter)",
     "pronunciation": "[maɪ̯n]",
@@ -1558,6 +1838,11 @@
     "meaning": "to report, register, announce",
     "pronunciation": "[ˈmɛldən]",
     "example": "Bitte melden Sie sich am Schalter."
+  },
+  "meldet": {
+    "meaning": "(he/she) reports or registers",
+    "pronunciation": "[ˈmɛldət]",
+    "example": "Er meldet sich am Schalter an."
   },
   "messen": {
     "meaning": "to measure",
@@ -1676,6 +1961,16 @@
     "plural": "Nachmittage",
     "example": "Am Nachmittag spielen wir."
   },
+  "nächste": {
+    "meaning": "next (feminine or plural)",
+    "pronunciation": "[ˈnɛːçstə]",
+    "example": "Die nächste Station ist Berlin."
+  },
+  "nächsten": {
+    "meaning": "next (masculine accusative or plural)",
+    "pronunciation": "[ˈnɛːçstən]",
+    "example": "Ich sehe den nächsten Zug."
+  },
   "nehmen": {
     "meaning": "to take",
     "pronunciation": "[ˈneːmən]",
@@ -1735,6 +2030,13 @@
     "pronunciation": "[ˈnɔʁdn̩]",
     "example": "Hamburg liegt im Norden."
   },
+  "notizen": {
+    "meaning": "notes",
+    "feminine": "die Notiz",
+    "pronunciation": "[noˈtsiːʦən]",
+    "plural": "Notizen",
+    "example": "Ich schreibe Notizen während des Meetings."
+  },
   "nur": {
     "meaning": "only; just",
     "pronunciation": "[nuːɐ̯]",
@@ -1744,6 +2046,11 @@
     "meaning": "if; whether",
     "pronunciation": "[ɔp]",
     "example": "Weißt du, ob er kommt?"
+  },
+  "oben": {
+    "meaning": "above, upstairs",
+    "pronunciation": "[ˈoːbn̩]",
+    "example": "Das Büro ist oben."
   },
   "obst": {
     "meaning": "fruit",
@@ -1805,6 +2112,13 @@
     "pronunciation": "[ˈpaʊ̯las]",
     "example": "Paulas Familie geht auf Reise."
   },
+  "pause": {
+    "meaning": "break, pause",
+    "feminine": "die",
+    "pronunciation": "[ˈpaʊ̯zə]",
+    "plural": "Pausen",
+    "example": "Wir machen eine Pause."
+  },
   "phönix": {
     "meaning": "phoenix",
     "gender": "m",
@@ -1844,6 +2158,13 @@
     "meaning": "suddenly",
     "pronunciation": "[ˈplœt͡slɪç]",
     "example": "Plötzlich regnete es."
+  },
+  "postkarte": {
+    "meaning": "postcard",
+    "gender": "feminine",
+    "pronunciation": "[ˈpoːstkʁaːtə]",
+    "plural": "Postkarten",
+    "example": "Ich schreibe eine Postkarte."
   },
   "problem": {
     "meaning": "problem",
@@ -1929,6 +2250,11 @@
     "pronunciation": "[zaft]",
     "plural": "Säfte",
     "example": "Ich trinke gern Saft."
+  },
+  "sagt": {
+    "meaning": "(he/she) says",
+    "pronunciation": "[zaːkt]",
+    "example": "Sie sagt die Wahrheit."
   },
   "sagte": {
     "meaning": "said",
@@ -2267,6 +2593,11 @@
     "pronunciation": "[ʃteːt]",
     "example": "Lena steht auf."
   },
+  "steigt": {
+    "meaning": "(he/she) gets in/on/up",
+    "pronunciation": "[ʃtaɪ̯gt]",
+    "example": "Sie steigt in den Aufzug ein."
+  },
   "süden": {
     "meaning": "south",
     "gender": "masculine",
@@ -2537,6 +2868,11 @@
     "pronunciation": "[foːɐ̯]",
     "example": "Die Kinder warten vor dem Eingang."
   },
+  "vorbereiten": {
+    "meaning": "to prepare",
+    "pronunciation": "[ˈfoːɐ̯bəˌʁaɪ̯tn̩]",
+    "example": "Ich bereite mich auf die Prüfung vor."
+  },
   "wach": {
     "meaning": "awake",
     "pronunciation": "[vaχ]",
@@ -2634,6 +2970,11 @@
     "meaning": "important",
     "pronunciation": "[ˈvɪçtɪç]",
     "example": "Sicherheit ist wichtig."
+  },
+  "wichtige": {
+    "meaning": "important (feminine or plural)",
+    "pronunciation": "[ˈvɪçtɪɡə]",
+    "example": "Das ist eine wichtige Aufgabe."
   },
   "wie": {
     "meaning": "like / how",
@@ -2776,6 +3117,11 @@
     "plural": "Züge",
     "example": "Der Zug fährt ab."
   },
+  "zugs": {
+    "meaning": "of the train (genitive)",
+    "pronunciation": "[tsuːks]",
+    "example": "Die Ankunft des Zugs ist um acht."
+  },
   "zum": {
     "meaning": "to the; for the (contraction of 'zu dem')",
     "pronunciation": "[tsʊm]",
@@ -2790,5 +3136,10 @@
     "meaning": "together",
     "pronunciation": "[tsuˈzamən]",
     "example": "Sie gehen zusammen spazieren."
+  },
+  "zwischendurch": {
+    "meaning": "in between, meanwhile",
+    "pronunciation": "[ˈt͡svɪʃn̩ˌdʊʁx]",
+    "example": "Zwischendurch machen wir eine kurze Pause."
   }
 }
