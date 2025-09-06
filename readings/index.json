@@ -16,8 +16,18 @@
     "file": "reise-ins-ausland.json",
     "title": "A1 Vocab Reise ins Ausland"
   },
-
-
+  {
+    "file": "ein-tag-mit-beispielen.json",
+    "title": "A1 Vocab Ein Tag mit vielen Beispielen"
+  },
+  {
+    "file": "ein-tag-im-cafe.json",
+    "title": "A1 Vocab Ein Tag im Café"
+  },
+  {
+    "file": "ein-kalter-tag.json",
+    "title": "A1 Vocab Ein kalter Tag"
+  },
   {
     "file": "herr-groettrup-setzt-sich-hin.json",
     "title": "Herr Groettrup setzt sich hin"
