@@ -303,6 +303,11 @@
     "pronunciation": "[aʊ̯s]",
     "example": "Er kommt aus Deutschland."
   },
+  "aus sein": {
+    "meaning": "to be off (switched off)",
+    "pronunciation": "[aʊ̯s zaɪ̯n]",
+    "example": "Das Licht ist aus."
+  },
   "ausflug": {
     "meaning": "excursion, trip",
     "gender": "masculine",
@@ -315,10 +320,67 @@
     "pronunciation": "[ˈaʊ̯sˌfʏlən]",
     "example": "Füllen Sie bitte das Formular aus."
   },
+  "ausland": {
+    "meaning": "abroad",
+    "gender": "neuter",
+    "pronunciation": "[ˈaʊ̯sˌlant]",
+    "example": "Ich reise ins Ausland."
+  },
+  "ausländer": {
+    "meaning": "foreigner",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sˌlɛndɐ]",
+    "plural": "Ausländer",
+    "example": "Der Ausländer kommt aus Italien."
+  },
+  "ausländisch": {
+    "meaning": "foreign",
+    "pronunciation": "[ˈaʊ̯sˌlɛndɪʃ]",
+    "example": "Das ist eine ausländische Sprache."
+  },
+  "ausländische": {
+    "meaning": "foreign (feminine/plural form)",
+    "pronunciation": "[ˈaʊ̯sˌlɛndɪʃə]",
+    "example": "Das ist eine ausländische Sprache."
+  },
+  "ausmachen": {
+    "meaning": "to turn off",
+    "pronunciation": "[ˈaʊ̯sˌmaxən]",
+    "example": "Kannst du das Licht ausmachen?"
+  },
   "ausprobieren": {
     "meaning": "to try out",
     "pronunciation": "[ˈaʊ̯s.proˌbiːʁən]",
     "example": "Kann ich das ausprobieren?"
+  },
+  "aussage": {
+    "meaning": "statement",
+    "gender": "feminine",
+    "pronunciation": "[ˈaʊ̯sˌzaːgə]",
+    "plural": "Aussagen",
+    "example": "Die Aussage ist klar."
+  },
+  "aussehen": {
+    "meaning": "to look, to appear",
+    "pronunciation": "[ˈaʊ̯sˌzeːən]",
+    "example": "Du siehst müde aus."
+  },
+  "aussteigen": {
+    "meaning": "to get out, get off",
+    "pronunciation": "[ˈaʊ̯sˌʃtaɪ̯ɡən]",
+    "example": "Bitte hier aussteigen."
+  },
+  "ausweis": {
+    "meaning": "ID card",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sˌvaɪ̯s]",
+    "plural": "Ausweise",
+    "example": "Hast du deinen Ausweis?"
+  },
+  "ausziehen sich": {
+    "meaning": "to take off (clothes)",
+    "pronunciation": "[ˈaʊ̯sˌtsiːən]",
+    "example": "Er zieht seine Jacke aus."
   },
   "auto": {
     "meaning": "car",
@@ -327,12 +389,43 @@
     "plural": "Autos",
     "example": "Wir fahren mit dem Auto."
   },
+  "automat": {
+    "meaning": "machine, vending machine",
+    "gender": "masculine",
+    "pronunciation": "[aʊ̯toˈmaːt]",
+    "plural": "Automaten",
+    "example": "Ich kaufe das Ticket am Automat."
+  },
+  "automatisch": {
+    "meaning": "automatically",
+    "pronunciation": "[aʊ̯toˈmaːtɪʃ]",
+    "example": "Die Tür öffnet sich automatisch."
+  },
+  "baby": {
+    "meaning": "baby",
+    "gender": "neuter",
+    "pronunciation": "[ˈbeːbi]",
+    "plural": "Babys",
+    "example": "Das Baby lacht."
+  },
+  "bäckerei": {
+    "meaning": "bakery",
+    "gender": "feminine",
+    "pronunciation": "[bɛkəˈraɪ̯]",
+    "plural": "Bäckereien",
+    "example": "Ich kaufe Brot in der Bäckerei."
+  },
   "bad": {
     "meaning": "bathroom",
     "gender": "neuter",
     "pronunciation": "[baːt]",
     "plural": "Bäder",
     "example": "Das Bad ist sauber."
+  },
+  "baden": {
+    "meaning": "to bathe",
+    "pronunciation": "[ˈbaːdən]",
+    "example": "Ich bade gern im See."
   },
   "bahnhof": {
     "meaning": "train station",
@@ -354,6 +447,13 @@
     "pronunciation": "[ˈbaldə]",
     "example": "Bald wird es Sommer."
   },
+  "balkon": {
+    "meaning": "balcony",
+    "gender": "masculine",
+    "pronunciation": "[balˈkoːn]",
+    "plural": "Balkone",
+    "example": "Wir sitzen auf dem Balkon."
+  },
   "ball": {
     "meaning": "ball",
     "gender": "masculine",
@@ -361,12 +461,24 @@
     "plural": "Bälle",
     "example": "Der Ball ist rund."
   },
+  "banane": {
+    "meaning": "banana",
+    "gender": "feminine",
+    "pronunciation": "[baˈnaːnə]",
+    "plural": "Bananen",
+    "example": "Die Banane ist gelb."
+  },
   "bank": {
     "meaning": "bench; bank",
     "gender": "feminine",
     "pronunciation": "[baŋk]",
     "plural": "Bänke",
     "example": "Ich sitze auf der Bank."
+  },
+  "bar": {
+    "meaning": "cash",
+    "pronunciation": "[baːɐ̯]",
+    "example": "Kann ich bar bezahlen?"
   },
   "bauen": {
     "meaning": "to build",
@@ -485,6 +597,13 @@
     "plural": "Brotboxen",
     "example": "Meine Brotbox ist neu."
   },
+  "brötchen": {
+    "meaning": "bread roll",
+    "gender": "neuter",
+    "pronunciation": "[ˈbʁøːtçən]",
+    "plural": "Brötchen",
+    "example": "Zum Frühstück esse ich ein Brötchen."
+  },
   "brote": {
     "meaning": "breads",
     "gender": "neuter",
@@ -553,6 +672,33 @@
     "pronunciation": "[ˈaʊ̯ɡə]",
     "plural": "Augen",
     "example": "Er hat blaue Augen."
+  },
+  "das ausland": {
+    "meaning": "abroad",
+    "gender": "neuter",
+    "pronunciation": "[ˈaʊ̯sˌlant]",
+    "example": "Ich reise gern ins Ausland."
+  },
+  "das auto": {
+    "meaning": "car",
+    "gender": "neuter",
+    "pronunciation": "[ˈaʊ̯to]",
+    "plural": "Autos",
+    "example": "Das Auto ist schnell."
+  },
+  "das baby": {
+    "meaning": "baby",
+    "gender": "neuter",
+    "pronunciation": "[ˈbeːbi]",
+    "plural": "Babys",
+    "example": "Das Baby schläft."
+  },
+  "das bad": {
+    "meaning": "bath, bathroom",
+    "gender": "neuter",
+    "pronunciation": "[baːt]",
+    "plural": "Bäder",
+    "example": "Das Bad ist sauber."
   },
   "decke": {
     "meaning": "blanket",
@@ -670,6 +816,48 @@
     "plural": "Ausgänge",
     "example": "Der Ausgang ist dort."
   },
+  "der ausländer": {
+    "meaning": "foreigner",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sˌlɛndɐ]",
+    "plural": "Ausländer",
+    "example": "Der Ausländer spricht Deutsch."
+  },
+  "der ausweis": {
+    "meaning": "ID card",
+    "gender": "masculine",
+    "pronunciation": "[ˈaʊ̯sˌvaɪ̯s]",
+    "plural": "Ausweise",
+    "example": "Haben Sie Ihren Ausweis?"
+  },
+  "der automat": {
+    "meaning": "machine, vending machine",
+    "gender": "masculine",
+    "pronunciation": "[aʊ̯toˈmaːt]",
+    "plural": "Automaten",
+    "example": "Ich kaufe die Karte am Automat."
+  },
+  "der bahnhof": {
+    "meaning": "train station",
+    "gender": "masculine",
+    "pronunciation": "[ˈbaːnˌhoːf]",
+    "plural": "Bahnhöfe",
+    "example": "Der Bahnhof ist groß."
+  },
+  "der bahnsteig": {
+    "meaning": "platform",
+    "gender": "masculine",
+    "pronunciation": "[ˈbaːnˌʃtaɪ̯k]",
+    "plural": "Bahnsteige",
+    "example": "Der Zug steht am Bahnsteig."
+  },
+  "der balkon": {
+    "meaning": "balcony",
+    "gender": "masculine",
+    "pronunciation": "[balˈkoːn]",
+    "plural": "Balkone",
+    "example": "Wir essen auf dem Balkon."
+  },
   "der norden": {
     "meaning": "north",
     "gender": "masculine",
@@ -765,6 +953,48 @@
     "pronunciation": "[ˈaʊ̯sˌkʊnft]",
     "plural": "Auskünfte",
     "example": "Kann ich eine Auskunft bekommen?"
+  },
+  "die aussage": {
+    "meaning": "statement",
+    "gender": "feminine",
+    "pronunciation": "[ˈaʊ̯sˌzaːɡə]",
+    "plural": "Aussagen",
+    "example": "Die Aussage war klar."
+  },
+  "die autobahn": {
+    "meaning": "motorway, highway",
+    "gender": "feminine",
+    "pronunciation": "[ˈaʊ̯toˌbaːn]",
+    "plural": "Autobahnen",
+    "example": "Die Autobahn ist lang."
+  },
+  "die bäckerei": {
+    "meaning": "bakery",
+    "gender": "feminine",
+    "pronunciation": "[bɛkəˈraɪ̯]",
+    "plural": "Bäckereien",
+    "example": "Ich kaufe Brot in der Bäckerei."
+  },
+  "die bahn": {
+    "meaning": "train, railway",
+    "gender": "feminine",
+    "pronunciation": "[baːn]",
+    "plural": "Bahnen",
+    "example": "Die Bahn kommt um zehn Uhr."
+  },
+  "die banane": {
+    "meaning": "banana",
+    "gender": "feminine",
+    "pronunciation": "[baˈnaːnə]",
+    "plural": "Bananen",
+    "example": "Die Banane ist gelb."
+  },
+  "die bank": {
+    "meaning": "bank (financial), bench",
+    "gender": "feminine",
+    "pronunciation": "[baŋk]",
+    "plural": "Banken",
+    "example": "Ich gehe zur Bank."
   },
   "die himmelsrichtungen": {
     "meaning": "directions, cardinal points",
@@ -979,6 +1209,13 @@
     "pronunciation": "[ˈfaːʁən]",
     "example": "Wir fahren nach Berlin."
   },
+  "fahrkarte": {
+    "meaning": "ticket (for travel)",
+    "gender": "feminine",
+    "pronunciation": "[ˈfaːɐ̯ˌkaʁtə]",
+    "plural": "Fahrkarten",
+    "example": "Ich kaufe eine Fahrkarte."
+  },
   "fahrradsitz": {
     "meaning": "bike seat",
     "gender": "masculine",
@@ -1175,6 +1412,12 @@
     "pronunciation": "[ɡeːt]",
     "example": "Er geht nach Hause."
   },
+  "geld": {
+    "meaning": "money",
+    "gender": "neuter",
+    "pronunciation": "[ɡɛlt]",
+    "example": "Ich habe kein Geld."
+  },
   "geliebte": {
     "meaning": "beloved",
     "gender": "m/f",
@@ -1247,6 +1490,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "gewesen": {
+    "meaning": "been (past participle of 'sein')",
+    "pronunciation": "[ɡəˈveːzn̩]",
+    "example": "Ich bin dort gewesen."
   },
   "gibt": {
     "meaning": "gives; there is/are",
@@ -1389,12 +1637,28 @@
     "pronunciation": "[ˈhɔfə]",
     "example": "Ich hoffe auf gutes Wetter."
   },
+  "holt": {
+    "meaning": "(he/she) fetches; gets",
+    "pronunciation": "[hɔlt]",
+    "example": "Er holt das Geld."
+  },
+  "hört": {
+    "meaning": "(he/she) hears",
+    "pronunciation": "[høːɐ̯t]",
+    "example": "Sie hört Musik."
+  },
   "hund": {
     "meaning": "dog",
     "gender": "masculine",
     "pronunciation": "[hʊnt]",
     "plural": "Hunde",
     "example": "Der Hund ist freundlich."
+  },
+  "hunger": {
+    "meaning": "hunger",
+    "gender": "masculine",
+    "pronunciation": "[ˈhʊŋɐ]",
+    "example": "Ich habe Hunger."
   },
   "ich": {
     "meaning": "I",
@@ -1461,6 +1725,13 @@
     "meaning": "is",
     "pronunciation": "[ɪst]",
     "example": "Das ist gut."
+  },
+  "jacke": {
+    "meaning": "jacket",
+    "gender": "feminine",
+    "pronunciation": "[ˈjakə]",
+    "plural": "Jacken",
+    "example": "Meine Jacke ist rot."
   },
   "jacken": {
     "meaning": "jackets",
@@ -1628,6 +1899,13 @@
     "pronunciation": "[kɔmt]",
     "example": "Der Zug kommt an."
   },
+  "kontrolle": {
+    "meaning": "control, check",
+    "gender": "feminine",
+    "pronunciation": "[kɔnˈtʁɔlə]",
+    "plural": "Kontrollen",
+    "example": "Ich zeige meinen Ausweis bei der Kontrolle."
+  },
   "kostet": {
     "meaning": "costs (it costs)",
     "pronunciation": "[ˈkɔstət]",
@@ -1722,6 +2000,12 @@
     "gender": "plural",
     "pronunciation": "[ˈlɔɪ̯tə]",
     "example": "Viele Leute sind im Zoo."
+  },
+  "licht": {
+    "meaning": "light",
+    "gender": "neuter",
+    "pronunciation": "[lɪçt]",
+    "example": "Das Licht ist aus."
   },
   "liebt": {
     "meaning": "(he/she) loves",
@@ -2009,6 +2293,11 @@
     "plural": null,
     "example": "Ich bin nicht müde."
   },
+  "nie": {
+    "meaning": "never",
+    "pronunciation": "[niː]",
+    "example": "Ich war nie in Paris."
+  },
   "niedlich": {
     "meaning": "cute",
     "pronunciation": "[ˈniːtlɪç]",
@@ -2057,6 +2346,11 @@
     "gender": "neuter",
     "pronunciation": "[oːpst]",
     "example": "Zum Frühstück esse ich Obst."
+  },
+  "öffnet": {
+    "meaning": "(he/she/it) opens",
+    "pronunciation": "[ˈœfnət]",
+    "example": "Die Tür öffnet sich automatisch."
   },
   "oft": {
     "meaning": "often",
@@ -2178,6 +2472,13 @@
     "pronunciation": "[pʊtst]",
     "example": "Er putzt die Zähne."
   },
+  "radio": {
+    "meaning": "radio",
+    "gender": "neuter",
+    "pronunciation": "[ˈʁaːdio]",
+    "plural": "Radios",
+    "example": "Das Radio ist an."
+  },
   "ranzen": {
     "meaning": "satchel (school bag)",
     "gender": "masculine",
@@ -2244,6 +2545,10 @@
     "pronunciation": "[ˈʁuːɪç]",
     "example": "Der Park ist ruhig."
   },
+  "sabine": {
+    "meaning": "Sabine (female name)",
+    "pronunciation": "[zaˈbiːnə]"
+  },
   "saft": {
     "meaning": "juice",
     "gender": "masculine",
@@ -2294,6 +2599,11 @@
     "audio": "audio/schatten.mp3",
     "plural": "Schatten",
     "example": "Der Schatten ist lang."
+  },
+  "schaut": {
+    "meaning": "(he/she) looks",
+    "pronunciation": "[ʃaʊ̯t]",
+    "example": "Sabine schaut in den Spiegel."
   },
   "scheint": {
     "meaning": "shines; seems",
@@ -2540,6 +2850,13 @@
     "plural": "Spaziergänge",
     "example": "Wir machen einen Spaziergang."
   },
+  "spiegel": {
+    "meaning": "mirror",
+    "gender": "masculine",
+    "pronunciation": "[ˈʃpiːɡəl]",
+    "plural": "Spiegel",
+    "example": "Er sieht sich im Spiegel."
+  },
   "spielen": {
     "meaning": "to play",
     "pronunciation": "[ˈʃpiːlən]",
@@ -2553,10 +2870,22 @@
     "plural": null,
     "example": ""
   },
+  "sprache": {
+    "meaning": "language",
+    "gender": "feminine",
+    "pronunciation": "[ˈʃpʁaːxə]",
+    "plural": "Sprachen",
+    "example": "Deutsch ist eine Sprache."
+  },
   "sprechen": {
     "meaning": "to talk; to speak",
     "pronunciation": "[ˈʃpʁɛçn̩]",
     "example": "Wir sprechen Deutsch."
+  },
+  "spricht": {
+    "meaning": "(he/she) speaks",
+    "pronunciation": "[ʃpʁɪçt]",
+    "example": "Er spricht Deutsch."
   },
   "springen": {
     "meaning": "to jump",
@@ -2741,6 +3070,13 @@
     "pronunciation": "[ˈtʁɔknət]",
     "example": "Die Wäsche trocknet in der Sonne."
   },
+  "tür": {
+    "meaning": "door",
+    "gender": "feminine",
+    "pronunciation": "[tyːɐ̯]",
+    "plural": "Türen",
+    "example": "Die Tür ist offen."
+  },
   "über": {
     "meaning": "over",
     "pronunciation": "[ˈyːbɐ]",
@@ -2913,6 +3249,13 @@
     "pronunciation": "[ˈvaʁtə]",
     "example": "Warte auf mich!"
   },
+  "warteraum": {
+    "meaning": "waiting room",
+    "gender": "masculine",
+    "pronunciation": "[ˈvaʁtəˌʁaʊ̯m]",
+    "plural": "Warteräume",
+    "example": "Im Warteraum warten viele Leute."
+  },
   "wäscht": {
     "meaning": "washes (he/she washes)",
     "pronunciation": "[vɛʃt]",
@@ -2999,6 +3342,11 @@
     "plural": "Wiesen",
     "example": "Die Kinder spielen auf der Wiese."
   },
+  "will": {
+    "meaning": "(he/she) wants",
+    "pronunciation": "[vɪl]",
+    "example": "Sabine will ins Ausland fahren."
+  },
   "wipfeln": {
     "meaning": "tree tops",
     "gender": "masculine",
@@ -3056,6 +3404,11 @@
     "singular": "Zahn",
     "example": "Ich putze meine Zähne."
   },
+  "zeigt": {
+    "meaning": "(he/she) shows",
+    "pronunciation": "[t͡saɪ̯kt]",
+    "example": "Er zeigt seinen Ausweis."
+  },
   "zeit": {
     "meaning": "time",
     "gender": "die (f)",
@@ -3092,6 +3445,13 @@
     "meaning": "(he/she) puts on, gets dressed",
     "pronunciation": "[t͡siːt]",
     "example": "Er zieht seine Jacke an."
+  },
+  "zimmer": {
+    "meaning": "room",
+    "gender": "neuter",
+    "pronunciation": "[ˈtsɪmɐ]",
+    "plural": "Zimmer",
+    "example": "Das Zimmer ist groß."
   },
   "zoo": {
     "meaning": "zoo",
