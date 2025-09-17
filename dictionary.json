@@ -1,11 +1,8 @@
 {
   "40": {
-    "meaning": "fourty",
-    "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "meaning": "forty",
+    "pronunciation": "[ˈfɪʁt͡sɪç]",
+    "example": "Er ist vierzig Jahre alt."
   },
   "'das": {
     "meaning": "the (neuter nominative/accusative); that",
@@ -104,6 +101,11 @@
     "singular": "Affe",
     "example": "Im Zoo gibt es viele Affen."
   },
+  "akku": {
+    "meaning": "[translate:Batterie, Akku] - battery",
+    "pronunciation": "[ˈakku]",
+    "example": "[translate:Der Akku ist leer.]"
+  },
   "alle": {
     "meaning": "all, everyone",
     "pronunciation": "[ˈalə]",
@@ -132,6 +134,11 @@
     "meaning": "old",
     "pronunciation": "[alt]",
     "example": "Mein Hund ist alt."
+  },
+  "alten": {
+    "meaning": "old (accusative/dative plural of alt)",
+    "pronunciation": "[ˈaltən]",
+    "example": "[translate:Die alten Batterien müssen ersetzt werden.]"
   },
   "alter": {
     "meaning": "old",
@@ -548,6 +555,11 @@
     "pronunciation": "[baːɐ̯]",
     "example": "Kann ich bar bezahlen?"
   },
+  "batterien": {
+    "meaning": "[translate:Batterien] - batteries",
+    "pronunciation": "[batəˈʁiːən]",
+    "example": "[translate:Ich kaufe neue Batterien.]"
+  },
   "bauch": {
     "meaning": "belly, stomach",
     "gender": "masculine",
@@ -695,6 +707,11 @@
     "pronunciation": "[bəˈʁaɪ̯tət]",
     "example": "Die Mutter bereitet das Essen vor."
   },
+  "beschließt": {
+    "meaning": "(he/she) decides",
+    "pronunciation": "[bəˈʃliːst]",
+    "example": "Das Ehepaar beschließt, einen Ausflug zu machen."
+  },
   "besser": {
     "meaning": "better",
     "pronunciation": "[ˈbɛsɐ]",
@@ -723,6 +740,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "besuchen": {
+    "meaning": "to visit",
+    "pronunciation": "[bəˈzuːxən]",
+    "example": "Wir besuchen die Käserei."
   },
   "bewunderten": {
     "meaning": "admired",
@@ -1368,6 +1390,11 @@
     "pronunciation": "[dɔʁf]",
     "example": "Das Dorf ist klein."
   },
+  "dort": {
+    "meaning": "there",
+    "pronunciation": "[dɔʁt]",
+    "example": "Dort ist die Käserei."
+  },
   "draußen": {
     "meaning": "outside",
     "pronunciation": "[ˈdʁaʊ̯sən]",
@@ -1387,6 +1414,12 @@
     "meaning": "through",
     "pronunciation": "[dʊʁç]",
     "example": "Sie schaut durch das Fenster."
+  },
+  "ehepaar": {
+    "meaning": "married couple",
+    "gender": "neuter",
+    "pronunciation": "[ˈeːəpaːɐ̯]",
+    "example": "Das Ehepaar ist freundlich."
   },
   "ei": {
     "meaning": "egg",
@@ -1461,6 +1494,11 @@
     "plural": null,
     "example": ""
   },
+  "einsam": {
+    "meaning": "lonely",
+    "pronunciation": "[ˈaɪ̯nzaːm]",
+    "example": "Er fühlt sich einsam."
+  },
   "eintragen'": {
     "meaning": "to enter (a name)",
     "gender": null,
@@ -1509,6 +1547,11 @@
     "pronunciation": "[ɛntˈfɛʁnt]",
     "example": "Das Haus ist nicht weit entfernt."
   },
+  "entscheidung": {
+    "meaning": "[translate:Entscheidung] - decision",
+    "pronunciation": "[ɛntˈʃaɪ̯dʊŋ]",
+    "example": "[translate:Das war eine schwere Entscheidung.]"
+  },
   "entzückendes": {
     "meaning": "delightful",
     "gender": null,
@@ -1542,6 +1585,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "ersetzen": {
+    "meaning": "[translate:ersetzen] - to replace",
+    "pronunciation": "[ɛɐ̯ˈzɛtsn̩]",
+    "example": "[translate:Du musst den alten Akku ersetzen.]"
   },
   "erster": {
     "meaning": "first (masculine)",
@@ -1753,10 +1801,21 @@
     "pronunciation": "[ˈfʁyːʃtʏkt]",
     "example": "Sie frühstückt jeden Morgen um acht."
   },
+  "fühlen": {
+    "meaning": "to feel",
+    "pronunciation": "[ˈfyːlən]",
+    "example": "Sie fühlen sich glücklich."
+  },
   "fühlt": {
     "meaning": "(he/she) feels",
     "pronunciation": "[fyːlt]",
     "example": "Er fühlt sich gut."
+  },
+  "führungen": {
+    "meaning": "tours (plural of Führung)",
+    "gender": "feminine (plural)",
+    "pronunciation": "[ˈfyːʁʊŋən]",
+    "example": "Die Führungen in der Käserei sind interessant."
   },
   "füllt": {
     "meaning": "(he/she) fills in",
@@ -1792,6 +1851,13 @@
     "pronunciation": "[ˈɡant͡sə]",
     "example": "Die ganze Familie fährt in den Zoo."
   },
+  "garten": {
+    "meaning": "garden",
+    "gender": "masculine",
+    "pronunciation": "[ˈɡaʁtn̩]",
+    "plural": "Gärten",
+    "example": "Der Garten ist schön."
+  },
   "geben": {
     "meaning": "to give",
     "gender": null,
@@ -1812,6 +1878,11 @@
     "meaning": "against; into",
     "pronunciation": "[ˈɡeːɡn̩]",
     "example": "Er läuft gegen die Tür."
+  },
+  "gegner": {
+    "meaning": "[translate:Gegner] - opponent",
+    "pronunciation": "[ˈɡeːgnɐ]",
+    "example": "[translate:Tom ist mein Gegner im Spiel.]"
   },
   "gehege": {
     "meaning": "enclosure, pen",
@@ -1870,6 +1941,13 @@
     "pronunciation": "[ɡəˈʃɛft]",
     "plural": "Geschäfte",
     "example": "Das Geschäft ist groß."
+  },
+  "geschichte": {
+    "meaning": "story, history",
+    "gender": "feminine",
+    "pronunciation": "[ɡəˈʃɪçtə]",
+    "plural": "Geschichten",
+    "example": "Die Geschichte der Käserei ist alt."
   },
   "gesehen": {
     "meaning": "seen",
@@ -2103,6 +2181,11 @@
     "pronunciation": "[hɔlt]",
     "example": "Er holt das Geld."
   },
+  "hören": {
+    "meaning": "to hear, to listen",
+    "pronunciation": "[ˈhøːʁən]",
+    "example": "Wir hören Musik."
+  },
   "hört": {
     "meaning": "(he/she) hears",
     "pronunciation": "[høːɐ̯t]",
@@ -2138,6 +2221,11 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "ihnen": {
+    "meaning": "them (dative, plural), you (formal dative)",
+    "pronunciation": "[ˈiːnən]",
+    "example": "Der Chef zeigt ihnen die Käserei."
   },
   "ihr": {
     "meaning": "her; their (possessive) / you (formal, singular dative)",
@@ -2226,10 +2314,20 @@
     "pronunciation": "[ˈjeːdɐ]",
     "example": "Jeder hat einen Teller."
   },
+  "jens": {
+    "meaning": "Jens (male name)",
+    "pronunciation": "[jɛns]",
+    "example": "Jens ist Annas Mann."
+  },
   "jetzt": {
     "meaning": "now",
     "pronunciation": "[jɛtst]",
     "example": "Jetzt ist Pause."
+  },
+  "jugend": {
+    "meaning": "[translate:Jugend] - youth",
+    "pronunciation": "[ˈjuːɡnt]",
+    "example": "[translate:Die Jugend spielt im Park.]"
   },
   "junge": {
     "meaning": "boy",
@@ -2276,6 +2374,13 @@
     "gender": "masculine",
     "pronunciation": "[ˈkɛːzə]",
     "example": "Ich esse gern Käse."
+  },
+  "käserei": {
+    "meaning": "cheese factory",
+    "gender": "feminine",
+    "pronunciation": "[kɛːzəˈʁaɪ̯]",
+    "plural": "Käsereien",
+    "example": "Die Käserei macht guten Käse."
   },
   "kasse": {
     "meaning": "checkout, cash register",
@@ -2329,6 +2434,11 @@
     "plural": "Kellnerinnen",
     "example": "Die Kellnerin nimmt die Bestellung auf."
   },
+  "kennen": {
+    "meaning": "to know (someone)",
+    "pronunciation": "[ˈkɛnən]",
+    "example": "Ich kenne den Chef."
+  },
   "kind": {
     "meaning": "child",
     "gender": "neuter",
@@ -2343,6 +2453,11 @@
     "singular": "Kind",
     "example": "Die Kinder spielen.",
     "plural": "Kinder"
+  },
+  "kiosk": {
+    "meaning": "[translate:Kiosk] - kiosk, small shop",
+    "pronunciation": "[kiˈɔsk]",
+    "example": "[translate:Ich kaufe eine Fahrkarte am Kiosk.]"
   },
   "klasse": {
     "meaning": "class (school)",
@@ -2388,10 +2503,22 @@
     "plural": "Kontrollen",
     "example": "Ich zeige meinen Ausweis bei der Kontrolle."
   },
+  "kopfhörer": {
+    "meaning": "headphones",
+    "gender": "masculine",
+    "pronunciation": "[ˈkɔp(f)høːʁɐ]",
+    "example": "Mit Kopfhörern kann er Musik hören."
+  },
   "kostet": {
     "meaning": "costs (it costs)",
     "pronunciation": "[ˈkɔstət]",
     "example": "Wie viel kostet das?"
+  },
+  "kräutertee": {
+    "meaning": "herbal tea",
+    "gender": "masculine",
+    "pronunciation": "[ˈkʁɔɪ̯tɐteː]",
+    "example": "Sie trinken Kräutertee."
   },
   "kreuzen": {
     "meaning": "tick, check, cross",
@@ -2414,6 +2541,16 @@
     "meaning": "cool",
     "pronunciation": "[ˈkyːlən]",
     "example": "Der See ist kühl."
+  },
+  "kurz": {
+    "meaning": "short; brief",
+    "pronunciation": "[kʊʁt͡s]",
+    "example": "Ein kurzer Rundgang durch die Käserei."
+  },
+  "kurzen": {
+    "meaning": "short (accusative or dative, masculine/neuter)",
+    "pronunciation": "[ˈkʊʁt͡sən]",
+    "example": "Ein kurzen Moment bitte."
   },
   "lachen": {
     "meaning": "laugh",
@@ -2461,6 +2598,11 @@
     "plural": "Leben",
     "example": "Das Leben ist schön."
   },
+  "leer": {
+    "meaning": "[translate:leer] - empty",
+    "pronunciation": "[leːɐ̯]",
+    "example": "[translate:Der Akku ist leer.]"
+  },
   "lehrerin": {
     "meaning": "female teacher",
     "gender": "feminine",
@@ -2476,6 +2618,11 @@
     "meaning": "Lena's (possessive)",
     "pronunciation": "[ˈleːnas]",
     "example": "Lenas Mutter bereitet das Frühstück vor."
+  },
+  "lernen": {
+    "meaning": "to learn",
+    "pronunciation": "[ˈlɛʁnən]",
+    "example": "Sie lernen viel über Käse."
   },
   "lesen": {
     "meaning": "to read",
@@ -2599,6 +2746,11 @@
     "plural": "Meetings",
     "example": "Ich habe heute ein Meeting."
   },
+  "mehr": {
+    "meaning": "more",
+    "pronunciation": "[meːɐ̯]",
+    "example": "Ich möchte mehr Käse."
+  },
   "mein": {
     "meaning": "my (masculine/neuter)",
     "pronunciation": "[maɪ̯n]",
@@ -2696,6 +2848,11 @@
     "plural": "Mitten",
     "example": "In der Mitte des Raumes."
   },
+  "mitzuarbeiten": {
+    "meaning": "to work along, to help (infinitive)",
+    "pronunciation": "[ˈmɪtˌʔaʁbaɪ̯tən]",
+    "example": "Das Ehepaar möchte in der Käserei mitzuarbeiten."
+  },
   "möchte": {
     "meaning": "would like (I/he/she would like)",
     "pronunciation": "[ˈmœçtə]",
@@ -2712,6 +2869,16 @@
     "meaning": "tired",
     "pronunciation": "[ˈmyːdə]",
     "example": "Nach dem Sport bin ich müde."
+  },
+  "müll": {
+    "meaning": "[translate:Müll] - garbage, trash",
+    "pronunciation": "[mʏl]",
+    "example": "[translate:Wirf den Müll in den Mülleimer.]"
+  },
+  "münze": {
+    "meaning": "[translate:Münze] - coin",
+    "pronunciation": "[ˈmʏnt͡sə]",
+    "example": "[translate:Die Münze liegt auf dem Tisch.]"
   },
   "muss": {
     "meaning": "must, have to (I/he/she/it)",
@@ -2807,6 +2974,19 @@
     "meaning": "new (feminine/plural form)",
     "pronunciation": "[ˈnɔʏə]",
     "example": "Ich habe eine neue Tasche."
+  },
+  "neuerung": {
+    "meaning": "innovation",
+    "gender": "feminine",
+    "pronunciation": "[ˈnɔɪ̯əʁʊŋ]",
+    "plural": "Neuerungen",
+    "example": "Die Neuerung bringt viele Besucher."
+  },
+  "neuerungen": {
+    "meaning": "innovations",
+    "gender": "feminine (plural)",
+    "pronunciation": "[ˈnɔɪ̯əʁʊŋən]",
+    "example": "Die Käserei zeigt viele Neuerungen."
   },
   "neues": {
     "meaning": "new (neuter/accusative form)",
@@ -2989,6 +3169,11 @@
     "plural": "Pläne",
     "example": "Der Plan hilft uns."
   },
+  "platz": {
+    "meaning": "[translate:Platz] - place, square",
+    "pronunciation": "[plats]",
+    "example": "[translate:Der Platz ist voll.]"
+  },
   "plötzlich": {
     "meaning": "suddenly",
     "pronunciation": "[ˈplœt͡slɪç]",
@@ -3000,6 +3185,11 @@
     "pronunciation": "[ˈpoːstkʁaːtə]",
     "plural": "Postkarten",
     "example": "Ich schreibe eine Postkarte."
+  },
+  "probieren": {
+    "meaning": "to try, to taste",
+    "pronunciation": "[pʁoˈbiːʁən]",
+    "example": "Wir probieren den Käse."
   },
   "problem": {
     "meaning": "problem",
@@ -3076,6 +3266,12 @@
     "pronunciation": "[ˈrɪçtʊŋən]",
     "example": "Wir kennen viele Richtungen."
   },
+  "rückblick": {
+    "meaning": "review, look back",
+    "gender": "masculine",
+    "pronunciation": "[ˈʁʏkˌblɪk]",
+    "example": "Der Rückblick war interessant."
+  },
   "ruh": {
     "meaning": "peace; rest",
     "gender": "feminine",
@@ -3092,6 +3288,13 @@
     "pronunciation": "[ˈʁuːɪç]",
     "example": "Der Park ist ruhig."
   },
+  "rundgang": {
+    "meaning": "tour, walk round",
+    "gender": "masculine",
+    "pronunciation": "[ˈʁʊntˌɡaŋ]",
+    "plural": "Rundgänge",
+    "example": "Wir machen einen Rundgang."
+  },
   "sabine": {
     "meaning": "Sabine (female name)",
     "pronunciation": "[zaˈbiːnə]"
@@ -3102,6 +3305,11 @@
     "pronunciation": "[zaft]",
     "plural": "Säfte",
     "example": "Ich trinke gern Saft."
+  },
+  "sagen": {
+    "meaning": "to say",
+    "pronunciation": "[ˈzaːɡən]",
+    "example": "Sie sagen: Danke!"
   },
   "sagt": {
     "meaning": "(he/she) says",
@@ -3176,6 +3384,11 @@
     "meaning": "nice, beautiful (masc. acc./plural/fem. gen.)",
     "pronunciation": "[ˈʃøːnən]",
     "example": "Sie erzählt vom schönen Tag."
+  },
+  "schöner": {
+    "meaning": "nicer, more beautiful (comparative of schön; also possessive masc./neuter genitive)",
+    "pronunciation": "[ˈʃøːnɐ]",
+    "example": "Es ist ein schöner Tag."
   },
   "schreibt": {
     "meaning": "writes (he/she/it)",
@@ -3371,6 +3584,11 @@
     "pronunciation": "[zoˈfɔʁt]",
     "example": "Komm sofort nach Hause!"
   },
+  "sonderangebot": {
+    "meaning": "[translate:Sonderangebot] - special offer",
+    "pronunciation": "[ˈzɔndɐʔanɡəˌboːt]",
+    "example": "[translate:Das Sonderangebot ist sehr gut.]"
+  },
   "sonne": {
     "meaning": "sun",
     "gender": "feminine",
@@ -3388,6 +3606,11 @@
     "meaning": "exciting",
     "pronunciation": "[ˈʃpanənt]",
     "example": "Die Reise war spannend."
+  },
+  "spannenden": {
+    "meaning": "exciting (accusative/dative masc./neuter or plural form of spannend)",
+    "pronunciation": "[ˈʃpanəndən]",
+    "example": "Sie hören einen spannenden Bericht."
   },
   "spaß": {
     "meaning": "fun",
@@ -3603,6 +3826,10 @@
     "singular": "Tomate",
     "example": "Die Tomaten sind rot."
   },
+  "toms": {
+    "meaning": "Tom’s (possessive form)",
+    "example": "[translate:Toms Akku ist leer.]"
+  },
   "trägen": {
     "meaning": "sluggish / lazy",
     "gender": null,
@@ -3801,6 +4028,11 @@
     "plural": "Vögelein",
     "example": "Die Vögelein singen früh."
   },
+  "voll": {
+    "meaning": "full",
+    "pronunciation": "[fɔl]",
+    "example": "Das Glas ist voll."
+  },
   "vom": {
     "meaning": "from the; of the (contraction of 'von dem')",
     "pronunciation": "[fɔm]",
@@ -3842,6 +4074,13 @@
     "pronunciation": "[ˈvaldə]",
     "plural": "Wälder",
     "example": "Im Walde ist es still."
+  },
+  "wanderer": {
+    "meaning": "hiker, wanderer",
+    "gender": "masculine",
+    "pronunciation": "[ˈvandəʁɐ]",
+    "plural": "Wanderer",
+    "example": "Der Wanderer macht eine Pause."
   },
   "wandten": {
     "meaning": "turned (past of wenden)",
@@ -3943,6 +4182,16 @@
     "pronunciation": "[ˈvaɪ̯tɐ]",
     "example": "Danach geht es weiter zum Spielplatz."
   },
+  "wenig": {
+    "meaning": "[translate:wenig] - little, few, not much",
+    "pronunciation": "[ˈveːnɪç]",
+    "example": "[translate:Es kostet nur wenig Geld.]"
+  },
+  "werbung": {
+    "meaning": "[translate:Werbung] - advertisement",
+    "pronunciation": "[ˈvɛʁbʊŋ]",
+    "example": "[translate:Die Werbung im Fernsehen ist laut.]"
+  },
   "westen": {
     "meaning": "west",
     "gender": "masculine",
@@ -4009,6 +4258,11 @@
     "meaning": "will (future tense auxiliary)",
     "pronunciation": "[vɪʁt]",
     "example": "Es wird warm."
+  },
+  "wirft": {
+    "meaning": "[translate:wirft] - (he/she) throws",
+    "pronunciation": "[vɪʁft]",
+    "example": "[translate:Er wirft den Müll in den Eimer.]"
   },
   "wissens": {
     "meaning": "of knowledge (genitive form of Wissen)",
@@ -4158,10 +4412,20 @@
     "pronunciation": "[tsuːɐ̯]",
     "example": "Ich gehe zur Schule."
   },
+  "zurückgeht": {
+    "meaning": "(he/she/it) goes back",
+    "pronunciation": "[t͡suˈʁʏkˌɡeːt]",
+    "example": "Der Wanderer geht zur Käserei zurück."
+  },
   "zusammen": {
     "meaning": "together",
     "pronunciation": "[tsuˈzamən]",
     "example": "Sie gehen zusammen spazieren."
+  },
+  "zwei": {
+    "meaning": "[translate:zwei] - two",
+    "pronunciation": "[tsvaɪ̯]",
+    "example": "[translate:Ich habe zwei Batterien gekauft.]"
   },
   "zwischendurch": {
     "meaning": "in between, meanwhile",
