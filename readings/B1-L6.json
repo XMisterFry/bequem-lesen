@@ -1,0 +1,16 @@
+{
+  "title": "Ein farbiger Tag im Büro",
+  "lines": [
+    ["Lisa", "setzt", "im", "Büro", "einen", "neuen", "Drucker", "ein"],
+    ["Sie", "steckt", "den", "Stecker", "in", "die", "Steckdose"],
+    ["Der", "Kasten", "unter", "dem", "Tisch", "ist", "voll", "mit", "Papier"],
+    ["Lisa", "anschaltet", "den", "Drucker", "und", "will", "drucken"],
+    ["Sie", "wählt", "ein", "farbiges", "Bild", "zum", "Drucken", "aus"],
+    ["Doch", "der", "Druck", "ist", "blass,", "sie", "macht", "eine", "Reklamation"],
+    ["Im", "Servicezentrum", "fällt", "es", "dem", "Techniker", "sofort", "auf"],
+    ["Er", "bemerkt", "dass", "die", "Patrone", "leer", "ist"],
+    ["Der", "Techniker", "berührt", "vorsichtig", "den", "Drucker", "und", "wechselt", "die", "Patrone"],
+    ["Jetzt", "druckt", "Lisa", "endlich", "farbig", "und", "alles", "funktioniert"]
+  ],
+  "translation": "Lisa installs a new printer at the office. She plugs the plug into the power outlet. The box under the desk is full of paper. Lisa turns on the printer and wants to print. She selects a colorful image to print. But the print is pale, so she makes a complaint. At the service desk, it stands out to the technician right away. He notices that the cartridge is empty. The technician carefully touches the printer and replaces the cartridge. Now Lisa finally prints in color and everything works."
+}

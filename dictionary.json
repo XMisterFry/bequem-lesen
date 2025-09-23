@@ -5,12 +5,10 @@
     "example": "Er ist vierzig Jahre alt."
   },
   "'das": {
-    "meaning": "the (neuter nominative/accusative); that",
+    "meaning": "the (neuter nominative/accusative), that",
     "gender": null,
-    "pronunciation": "",
-    "audio": "",
-    "plural": null,
-    "example": ""
+    "pronunciation": "[das]",
+    "example": "Das ist mein Buch."
   },
   "'du": {
     "meaning": "you (singular informal nominative)",
@@ -125,6 +123,12 @@
     "pronunciation": "[ˈaləs]",
     "example": "Alles ist gut."
   },
+  "als": {
+    "meaning": "as, when, than (in past tense comparison)",
+    "gender": null,
+    "pronunciation": "[als]",
+    "example": "Als ich jung war, spielte ich viel Fußball."
+  },
   "also": {
     "meaning": "so, therefore",
     "pronunciation": "[ˈalzo]",
@@ -175,6 +179,12 @@
     "pronunciation": "[ˈandəʁɐ]",
     "example": "Ein anderer Mann wartet hier."
   },
+  "ändert": {
+    "meaning": "(he/she) changes",
+    "gender": null,
+    "pronunciation": "[ˈɛndɐt]",
+    "example": "Das Wetter ändert sich oft."
+  },
   "anfangen": {
     "meaning": "to start, begin",
     "pronunciation": "[ˈanˌfaŋən]",
@@ -218,12 +228,30 @@
     "meaning": "Anna (name)",
     "pronunciation": "[ˈana]"
   },
+  "anpassen": {
+    "meaning": "to adapt, to adjust",
+    "gender": null,
+    "pronunciation": "[anˈpasn̩]",
+    "example": "Er passt die Kleidung an das Wetter an."
+  },
   "ansage": {
     "meaning": "announcement",
     "gender": "feminine",
     "pronunciation": "[ˈanˌzaːɡə]",
     "plural": "Ansagen",
     "example": "Die Ansage ist wichtig."
+  },
+  "anschalten": {
+    "meaning": "to turn on",
+    "gender": null,
+    "pronunciation": "[ˈanʃaltən]",
+    "example": "Ich möchte den Computer anschalten."
+  },
+  "anschaltet": {
+    "meaning": "turns on",
+    "gender": null,
+    "pronunciation": "[ˈanʃaltət]",
+    "example": "Er schaltet den Computer an."
   },
   "anschluss": {
     "meaning": "connection, transfer (train/bus)",
@@ -676,6 +704,12 @@
     "plural": null,
     "example": ""
   },
+  "bemerkt": {
+    "meaning": "(he/she) notices",
+    "gender": null,
+    "pronunciation": "[bəˈmɛɐkt]",
+    "example": "Sie bemerkt den Fehler im Text."
+  },
   "benutzt": {
     "meaning": "uses",
     "gender": null,
@@ -707,10 +741,22 @@
     "pronunciation": "[bəˈʁaɪ̯tət]",
     "example": "Die Mutter bereitet das Essen vor."
   },
+  "berührt": {
+    "meaning": "(he/she) touches",
+    "gender": null,
+    "pronunciation": "[bəˈʁyːɐt]",
+    "example": "Das Buch berührt sie tief."
+  },
   "beschließt": {
     "meaning": "(he/she) decides",
     "pronunciation": "[bəˈʃliːst]",
     "example": "Das Ehepaar beschließt, einen Ausflug zu machen."
+  },
+  "besonders": {
+    "meaning": "especially",
+    "gender": null,
+    "pronunciation": "[bəˈzɔndɐs]",
+    "example": "Heute ist das Wetter besonders schön."
   },
   "besser": {
     "meaning": "better",
@@ -772,6 +818,13 @@
     "pronunciation": "[ˈbiːtət]",
     "example": "Der Mann bietet Hilfe an."
   },
+  "bild": {
+    "meaning": "picture, image",
+    "gender": "neuter",
+    "pronunciation": "[bɪlt]",
+    "plural": "Bilder",
+    "example": "Das Bild ist sehr schön."
+  },
   "bildschirm": {
     "meaning": "screen",
     "gender": "masculine",
@@ -793,6 +846,18 @@
     "meaning": "bitter",
     "pronunciation": "[ˈbɪtɐ]",
     "example": "Der Kaffee schmeckt bitter."
+  },
+  "blass": {
+    "meaning": "pale",
+    "gender": null,
+    "pronunciation": "[blas]",
+    "example": "Die Farbe ist blass und nicht kräftig."
+  },
+  "blatt": {
+    "meaning": "sheet, leaf, page",
+    "gender": "neuter",
+    "pronunciation": "[blat]",
+    "example": "Das Blatt ist weiß."
   },
   "blau": {
     "meaning": "blue",
@@ -852,6 +917,12 @@
     "pronunciation": "[ˈbøːzə]",
     "example": "Der Junge war böse."
   },
+  "box": {
+    "meaning": "box",
+    "gender": "feminine",
+    "pronunciation": "[bɔks]",
+    "example": "Die Box ist voll mit Steckern."
+  },
   "brachen": {
     "meaning": "broke out",
     "gender": null,
@@ -877,6 +948,19 @@
     "audio": "",
     "plural": null,
     "example": "Der Winter ist kalter als der Herbst."
+  },
+  "brille": {
+    "meaning": "glasses",
+    "gender": "feminine",
+    "pronunciation": "[ˈbʁɪlə]",
+    "plural": "Brillen",
+    "example": "Meine Brille ist neu."
+  },
+  "brillen": {
+    "meaning": "glasses (plural)",
+    "gender": "feminine",
+    "pronunciation": "[ˈbʁɪln]",
+    "example": "Die Brillen liegen auf dem Tisch."
   },
   "bringt": {
     "meaning": "brings",
@@ -936,6 +1020,12 @@
     "plural": null,
     "example": "Er buchstabiert seinen Namen."
   },
+  "bunte": {
+    "meaning": "colorful (feminine or plural)",
+    "gender": null,
+    "pronunciation": "[ˈbʊntə]",
+    "example": "Die Ecke ist sehr bunt."
+  },
   "büro": {
     "meaning": "office",
     "neuter": "das",
@@ -989,6 +1079,12 @@
     "meaning": "approximately; about",
     "pronunciation": "[ˈt͡sɪʁka]",
     "example": "Er ist circa vierzig Jahre alt."
+  },
+  "computer": {
+    "meaning": "computer",
+    "gender": "masculine",
+    "pronunciation": "[kɔmˈpjuːtɐ]",
+    "example": "Der Computer ist neu."
   },
   "danach": {
     "meaning": "after that",
@@ -1384,6 +1480,12 @@
     "pronunciation": "[dɪˈʁɛkt͡si̯oːns]",
     "example": "Norden, Süden, Osten und Westen sind directions."
   },
+  "doch": {
+    "meaning": "but, nevertheless, still",
+    "gender": null,
+    "pronunciation": "[dɔx]",
+    "example": "Es funktioniert nicht, doch ich versuche es."
+  },
   "dorf": {
     "meaning": "village",
     "gender": "neuter",
@@ -1405,6 +1507,36 @@
     "pronunciation": "[dʁaɪ̯]",
     "example": "Das Kind ist drei Jahre alt."
   },
+  "druck": {
+    "meaning": "print, pressure",
+    "gender": "masculine",
+    "pronunciation": "[dʁʊk]",
+    "example": "Der Druck ist zu stark."
+  },
+  "drucken": {
+    "meaning": "to print",
+    "gender": null,
+    "pronunciation": "[ˈdrʊkən]",
+    "example": "Kannst du das Dokument drucken?"
+  },
+  "drucker": {
+    "meaning": "printer",
+    "gender": "masculine",
+    "pronunciation": "[ˈdʁʊkɐ]",
+    "example": "Der Drucker funktioniert gut."
+  },
+  "druckt": {
+    "meaning": "prints",
+    "gender": null,
+    "pronunciation": "[dʁʊkt]",
+    "example": "Der Drucker druckt das Dokument."
+  },
+  "drückt": {
+    "meaning": "presses, pushes",
+    "gender": null,
+    "pronunciation": "[drʏkt]",
+    "example": "Anna drückt auf drucken."
+  },
   "du": {
     "meaning": "you (singular, informal)",
     "pronunciation": "[duː]",
@@ -1414,6 +1546,12 @@
     "meaning": "through",
     "pronunciation": "[dʊʁç]",
     "example": "Sie schaut durch das Fenster."
+  },
+  "ecke": {
+    "meaning": "corner",
+    "gender": "feminine",
+    "pronunciation": "[ˈɛkə]",
+    "example": "Ich sitze in der Ecke."
   },
   "ehepaar": {
     "meaning": "married couple",
@@ -1435,6 +1573,12 @@
     "audio": "audio/ein.mp3",
     "plural": null,
     "example": "Ein Mann steht dort."
+  },
+  "eindruck": {
+    "meaning": "impression",
+    "gender": "masculine",
+    "pronunciation": "[ˈaɪ̯ndʁʊk]",
+    "example": "Der Eindruck des Films war stark."
   },
   "eine": {
     "meaning": "a; one (feminine)",
@@ -1541,6 +1685,12 @@
     "pronunciation": "[ˈɛndə]",
     "plural": "Enden",
     "example": "Am Ende des Tages ist sie müde."
+  },
+  "endlich": {
+    "meaning": "finally",
+    "gender": null,
+    "pronunciation": "[ˈɛntlɪç]",
+    "example": "Endlich funktioniert der Drucker."
   },
   "entfernt": {
     "meaning": "far, distant",
@@ -1665,6 +1815,12 @@
     "pronunciation": "[fɛːɐ̯t]",
     "example": "Der Bus fährt um zehn Uhr ab."
   },
+  "fällt": {
+    "meaning": "(he/she/it) falls",
+    "gender": null,
+    "pronunciation": "[fɛlt]",
+    "example": "Das Blatt fällt vom Baum."
+  },
   "familie": {
     "meaning": "family",
     "gender": "feminine",
@@ -1676,6 +1832,30 @@
     "meaning": "to catch",
     "pronunciation": "[ˈfaŋən]",
     "example": "Kinder spielen Fangen."
+  },
+  "farbe": {
+    "meaning": "color",
+    "gender": "feminine",
+    "pronunciation": "[ˈfaʁbə]",
+    "example": "Blau ist meine Lieblingsfarbe."
+  },
+  "farbig": {
+    "meaning": "colorful",
+    "gender": null,
+    "pronunciation": "[ˈfaːɐ̯bɪç]",
+    "example": "Das farbige Bild sieht gut aus."
+  },
+  "farbiges": {
+    "meaning": "colorful (accusative neuter singular)",
+    "gender": null,
+    "pronunciation": "[ˈfaːɐ̯bɪɡəs]",
+    "example": "Ich drucke ein farbiges Bild."
+  },
+  "fast": {
+    "meaning": "almost",
+    "gender": null,
+    "pronunciation": "[fast]",
+    "example": "Die Patrone ist fast leer."
   },
   "fenster": {
     "meaning": "window",
@@ -1745,6 +1925,12 @@
     "plural": "Frauen",
     "example": "Meine Frau ist nett."
   },
+  "frech": {
+    "meaning": "cheeky, naughty",
+    "gender": null,
+    "pronunciation": "[frɛç]",
+    "example": "Das Kind ist sehr frech."
+  },
   "freitagabend": {
     "meaning": "Friday evening",
     "gender": "masculine",
@@ -1781,6 +1967,12 @@
     "meaning": "early",
     "pronunciation": "[fʁyː]",
     "example": "Ich stehe früh auf."
+  },
+  "früher": {
+    "meaning": "earlier, formerly",
+    "gender": null,
+    "pronunciation": "[ˈfʁyːɐ]",
+    "example": "Früher lebte er in Berlin."
   },
   "frühstück": {
     "meaning": "breakfast",
@@ -1826,6 +2018,12 @@
     "meaning": "five",
     "pronunciation": "[fʏnf]",
     "example": "Ich habe fünf Äpfel."
+  },
+  "funktioniert": {
+    "meaning": "(it) works, functions",
+    "gender": null,
+    "pronunciation": "[fʊŋktsi̯oˈniːʁt]",
+    "example": "Der Drucker funktioniert."
   },
   "für": {
     "meaning": "for",
@@ -1884,6 +2082,12 @@
     "pronunciation": "[ˈɡeːgnɐ]",
     "example": "[translate:Tom ist mein Gegner im Spiel.]"
   },
+  "gehalt": {
+    "meaning": "salary",
+    "gender": "masculine",
+    "pronunciation": "[ɡəˈhalt]",
+    "example": "Mein Gehalt ist gut."
+  },
   "gehege": {
     "meaning": "enclosure, pen",
     "gender": "neuter",
@@ -1930,6 +2134,12 @@
     "pronunciation": "[ɡəˈnant]",
     "example": "Der Name wird in der Ansage genannt."
   },
+  "genuss": {
+    "meaning": "enjoyment, pleasure",
+    "gender": "masculine",
+    "pronunciation": "[ɡəˈnʊs]",
+    "example": "Der Genuss von gutem Essen ist wichtig."
+  },
   "gern": {
     "meaning": "gladly, with pleasure; likes to",
     "pronunciation": "[ɡɛʁn]",
@@ -1948,6 +2158,12 @@
     "pronunciation": "[ɡəˈʃɪçtə]",
     "plural": "Geschichten",
     "example": "Die Geschichte der Käserei ist alt."
+  },
+  "geschmacklos": {
+    "meaning": "tasteless",
+    "gender": null,
+    "pronunciation": "[ɡəˈʃmakloːs]",
+    "example": "Der Kuchen schmeckt geschmacklos."
   },
   "gesehen": {
     "meaning": "seen",
@@ -2058,6 +2274,12 @@
     "pronunciation": "[ɡuːt]",
     "example": "Der Film war gut."
   },
+  "guten": {
+    "meaning": "good (accusative masculine or plural)",
+    "gender": null,
+    "pronunciation": "[ˈɡuːtn̩]",
+    "example": "Er hat einen guten Tag."
+  },
   "haare": {
     "meaning": "hair",
     "gender": "plural",
@@ -2122,6 +2344,12 @@
     "pronunciation": "[ˈhaʊ̯zə]",
     "example": "Ich gehe nach Hause."
   },
+  "heizung": {
+    "meaning": "heating",
+    "gender": "feminine",
+    "pronunciation": "[ˈhaɪ̯̯t͡sʊŋ]",
+    "example": "Die Heizung ist an."
+  },
   "helfen": {
     "meaning": "help",
     "pronunciation": "[ˈhɛlfn̩]",
@@ -2175,6 +2403,12 @@
     "meaning": "hope (I hope)",
     "pronunciation": "[ˈhɔfə]",
     "example": "Ich hoffe auf gutes Wetter."
+  },
+  "höher": {
+    "meaning": "higher",
+    "gender": null,
+    "pronunciation": "[ˈhøːɐ]",
+    "example": "Mein Gehalt ist höher als letztes Jahr."
   },
   "holt": {
     "meaning": "(he/she) fetches; gets",
@@ -2389,6 +2623,13 @@
     "plural": "Kassen",
     "example": "Ich bezahle an der Kasse."
   },
+  "kasten": {
+    "meaning": "box",
+    "gender": "masculine",
+    "pronunciation": "[ˈkastn̩]",
+    "plural": "Kästen",
+    "example": "Der Kasten ist voll."
+  },
   "kaufen": {
     "meaning": "to buy",
     "pronunciation": "[ˈkaʊ̯fn̩]",
@@ -2536,6 +2777,18 @@
     "pronunciation": "[ˈkʏçə]",
     "plural": "Küchen",
     "example": "Die Küche ist sauber."
+  },
+  "kuchen": {
+    "meaning": "cake",
+    "gender": "masculine",
+    "pronunciation": "[ˈkuːxən]",
+    "example": "Der Kuchen ist lecker."
+  },
+  "kühle": {
+    "meaning": "coolness; cool (feminine)",
+    "gender": "feminine",
+    "pronunciation": "[ˈkyːlə]",
+    "example": "Ich mag die Kühle des Abends."
   },
   "kühlen": {
     "meaning": "cool",
@@ -2812,6 +3065,12 @@
     "plural": null,
     "example": ""
   },
+  "mitbewohner": {
+    "meaning": "roommate, resident",
+    "gender": "masculine",
+    "pronunciation": "[ˈmɪtbəvoːnɐ]",
+    "example": "Mein Mitbewohner ist freundlich."
+  },
   "miteinander": {
     "meaning": "together",
     "gender": null,
@@ -2857,6 +3116,12 @@
     "meaning": "would like (I/he/she would like)",
     "pronunciation": "[ˈmœçtə]",
     "example": "Ich möchte schlafen."
+  },
+  "moderne": {
+    "meaning": "modern",
+    "gender": null,
+    "pronunciation": "[moˈdɛrnə]",
+    "example": "Das ist eine moderne Stadt."
   },
   "morgen": {
     "meaning": "morning",
@@ -2917,6 +3182,12 @@
     "plural": "Nachbarn",
     "example": "Mein Nachbar ist freundlich."
   },
+  "nachbarn": {
+    "meaning": "neighbors",
+    "gender": "masculine (plural)",
+    "pronunciation": "[ˈnaːxbɑʁn]",
+    "example": "Die Nachbarn sind nett."
+  },
   "nachmittag": {
     "meaning": "afternoon",
     "gender": "masculine",
@@ -2970,10 +3241,22 @@
     "pronunciation": "[nɔʏ]",
     "example": "Mein Ranzen ist neu."
   },
+  "neubau": {
+    "meaning": "new building",
+    "gender": "masculine",
+    "pronunciation": "[ˈnɔʏbaʊ]",
+    "example": "Ich wohne im Neubau."
+  },
   "neue": {
     "meaning": "new (feminine/plural form)",
     "pronunciation": "[ˈnɔʏə]",
     "example": "Ich habe eine neue Tasche."
+  },
+  "neuen": {
+    "meaning": "new (masculine accusative/plural)",
+    "gender": null,
+    "pronunciation": "[ˈnɔʏən]",
+    "example": "Ich habe einen neuen Stecker."
   },
   "neuerung": {
     "meaning": "innovation",
@@ -3098,6 +3381,12 @@
     "pronunciation": "[pakt]",
     "example": "Er packt den Koffer."
   },
+  "papier": {
+    "meaning": "paper",
+    "gender": "neuter",
+    "pronunciation": "[paˈpiːɐ̯]",
+    "example": "Das Papier ist weiß."
+  },
   "park": {
     "meaning": "park",
     "gender": "masculine",
@@ -3109,6 +3398,12 @@
     "meaning": "fits (it fits)",
     "pronunciation": "[past]",
     "example": "Der Schuh passt mir."
+  },
+  "patrone": {
+    "meaning": "cartridge (ink)",
+    "gender": "feminine",
+    "pronunciation": "[paˈtʁoːnə]",
+    "example": "Die Patrone ist leer."
   },
   "paula": {
     "meaning": "Paula (female name)",
@@ -3191,6 +3486,12 @@
     "pronunciation": "[pʁoˈbiːʁən]",
     "example": "Wir probieren den Käse."
   },
+  "probiert": {
+    "meaning": "(he/she) tries, tastes",
+    "gender": null,
+    "pronunciation": "[pʁoˈbiːɐt]",
+    "example": "Er probiert das neue Gericht."
+  },
   "problem": {
     "meaning": "problem",
     "gender": "neuter",
@@ -3250,6 +3551,12 @@
     "plural": "Reisende",
     "example": "Der Reisende kauft eine Fahrkarte."
   },
+  "reklamation": {
+    "meaning": "complaint",
+    "gender": "feminine",
+    "pronunciation": "[ʁɛklamaˈtsi̯oːn]",
+    "example": "Ich mache eine Reklamation im Geschäft."
+  },
   "rennt": {
     "meaning": "runs (he/she runs)",
     "pronunciation": "[ʁɛnt]",
@@ -3265,6 +3572,18 @@
     "gender": "feminine",
     "pronunciation": "[ˈrɪçtʊŋən]",
     "example": "Wir kennen viele Richtungen."
+  },
+  "rollschuhe": {
+    "meaning": "roller skates",
+    "gender": "masculine (plural)",
+    "pronunciation": "[ˈʁɔlʃuːə]",
+    "example": "Ich fahre mit den Rollschuhen."
+  },
+  "rollschuhen": {
+    "meaning": "roller skates (dative/plural)",
+    "gender": "masculine (plural)",
+    "pronunciation": "[ˈʁɔlʃuːən]",
+    "example": "Sie spielt mit den Rollschuhen."
   },
   "rückblick": {
     "meaning": "review, look back",
@@ -3364,6 +3683,12 @@
     "meaning": "shines; seems",
     "pronunciation": "[ʃaɪ̯nt]",
     "example": "Die Sonne scheint."
+  },
+  "schließt": {
+    "meaning": "connects, closes",
+    "gender": null,
+    "pronunciation": "[ʃliːst]",
+    "example": "Sie schließt den Stecker an."
   },
   "schnell": {
     "meaning": "fast; quickly",
@@ -3486,6 +3811,12 @@
     "meaning": "his (masculine/neuter dative or feminine genitive)",
     "pronunciation": "[ˈzaɪ̯nɐ]",
     "example": "Ich helfe seiner Schwester."
+  },
+  "servicezentrum": {
+    "meaning": "service center",
+    "gender": "neuter",
+    "pronunciation": "[ˈzɛʁvɪtsaɪ̯trʊm]",
+    "example": "Im Servicezentrum bekommt man Hilfe."
   },
   "setzen": {
     "meaning": "to sit",
@@ -3650,6 +3981,12 @@
     "plural": "Spiegel",
     "example": "Er sieht sich im Spiegel."
   },
+  "spiel": {
+    "meaning": "game",
+    "gender": "neuter",
+    "pronunciation": "[ʃpiːl]",
+    "example": "Das Spiel macht Spaß."
+  },
   "spielen": {
     "meaning": "to play",
     "pronunciation": "[ˈʃpiːlən]",
@@ -3705,6 +4042,36 @@
     "plural": null,
     "example": ""
   },
+  "steckdose": {
+    "meaning": "socket, power outlet",
+    "gender": "feminine",
+    "pronunciation": "[ˈʃtɛkˌdoːzə]",
+    "example": "Die Steckdose ist an der Wand."
+  },
+  "steckdosen": {
+    "meaning": "sockets, power outlets (plural)",
+    "gender": "feminine",
+    "pronunciation": "[ˈʃtɛkˌdoːzən]",
+    "example": "Im Geschäft gibt es viele Steckdosen."
+  },
+  "stecker": {
+    "meaning": "plug",
+    "gender": "masculine",
+    "pronunciation": "[ˈʃtɛkɐ]",
+    "example": "Der Stecker ist defekt."
+  },
+  "steckern": {
+    "meaning": "plugs (plural, dative/genitive)",
+    "gender": "masculine",
+    "pronunciation": "[ˈʃtɛkɐn]",
+    "example": "Die Box ist voll mit Steckern."
+  },
+  "steckt": {
+    "meaning": "plugs in, sticks",
+    "gender": null,
+    "pronunciation": "[ʃtɛkt]",
+    "example": "Sie steckt den Stecker in die Steckdose."
+  },
   "stehen": {
     "meaning": "to stand",
     "pronunciation": "[ˈʃteːən]",
@@ -3719,6 +4086,12 @@
     "meaning": "(he/she) gets in/on/up",
     "pronunciation": "[ʃtaɪ̯gt]",
     "example": "Sie steigt in den Aufzug ein."
+  },
+  "steuert": {
+    "meaning": "(he/she) controls, manages",
+    "gender": null,
+    "pronunciation": "[ˈʃtɔʏ̯ɐt]",
+    "example": "Er steuert das Auto."
   },
   "straßen": {
     "meaning": "streets",
@@ -3739,6 +4112,12 @@
     "pronunciation": "[ˈzuːpɐˌmaʁkt]",
     "plural": "Supermärkte",
     "example": "Der Supermarkt ist groß."
+  },
+  "süßstoff": {
+    "meaning": "sweetener",
+    "gender": "masculine",
+    "pronunciation": "[ˈzyːsʃtɔf]",
+    "example": "Der Süßstoff ist in vielen Getränken."
   },
   "tag": {
     "meaning": "day",
@@ -3765,6 +4144,12 @@
     "pronunciation": "[ˈtasə]",
     "plural": "Tassen",
     "example": "Ich trinke Tee aus einer Tasse."
+  },
+  "techniker": {
+    "meaning": "technician",
+    "gender": "masculine",
+    "pronunciation": "[tɛçˈniːkɐ]",
+    "example": "Der Techniker repariert den Drucker."
   },
   "tee": {
     "meaning": "tea",
@@ -4058,6 +4443,12 @@
     "pronunciation": "[ˈfoːɐ̯bəˌʁaɪ̯tn̩]",
     "example": "Ich bereite mich auf die Prüfung vor."
   },
+  "vorsichtig": {
+    "meaning": "carefully, cautious",
+    "gender": null,
+    "pronunciation": "[foːɐ̯ˈzɪçtɪç]",
+    "example": "Der Techniker arbeitet vorsichtig."
+  },
   "wach": {
     "meaning": "awake",
     "pronunciation": "[vaχ]",
@@ -4068,12 +4459,24 @@
     "pronunciation": "[vaxt]",
     "example": "Mia wacht früh auf."
   },
+  "wählt": {
+    "meaning": "chooses",
+    "gender": null,
+    "pronunciation": "[veːlt]",
+    "example": "Sie wählt die Farbe aus."
+  },
   "walde": {
     "meaning": "forest (old/fancy dative form of Wald)",
     "gender": "masculine",
     "pronunciation": "[ˈvaldə]",
     "plural": "Wälder",
     "example": "Im Walde ist es still."
+  },
+  "wand": {
+    "meaning": "wall",
+    "gender": "feminine",
+    "pronunciation": "[vant]",
+    "example": "Die Wand ist blau."
   },
   "wanderer": {
     "meaning": "hiker, wanderer",
@@ -4137,6 +4540,12 @@
     "pronunciation": "[ˈvasɐ]",
     "example": "Ich trinke Wasser."
   },
+  "wechselt": {
+    "meaning": "changes, switches",
+    "gender": null,
+    "pronunciation": "[ˈvɛkslt]",
+    "example": "Er wechselt die Patrone."
+  },
   "wecker": {
     "meaning": "alarm clock",
     "gender": "masculine",
@@ -4167,6 +4576,12 @@
     "pronunciation": "[vaɪ̯l]",
     "example": "Ich bleibe zu Hause, weil ich krank bin."
   },
+  "weiß": {
+    "meaning": "white",
+    "gender": null,
+    "pronunciation": "[vaɪs]",
+    "example": "Das Blatt ist weiß."
+  },
   "weit": {
     "meaning": "far",
     "pronunciation": "[vaɪ̯t]",
@@ -4186,6 +4601,12 @@
     "meaning": "[translate:wenig] - little, few, not much",
     "pronunciation": "[ˈveːnɪç]",
     "example": "[translate:Es kostet nur wenig Geld.]"
+  },
+  "werbeanzeige": {
+    "meaning": "advertisement",
+    "gender": "feminine",
+    "pronunciation": "[ˈvɛʁbəˌʔant͡saɪ̯ɡə]",
+    "example": "Die Werbeanzeige ist im Fernsehen."
   },
   "werbung": {
     "meaning": "[translate:Werbung] - advertisement",
@@ -4270,6 +4691,12 @@
     "pronunciation": "[ˈvɪsns]",
     "plural": "—",
     "example": "Das Buch des Wissens ist interessant."
+  },
+  "witzige": {
+    "meaning": "funny (feminine or plural)",
+    "gender": null,
+    "pronunciation": "[ˈvɪt͡sɪɡə]",
+    "example": "Das ist eine witzige Geschichte."
   },
   "wochenende": {
     "meaning": "weekend",
