@@ -376,6 +376,18 @@
     "pronunciation": "[ˈaʊ̯fhøːʁən]",
     "example": "Ich höre jetzt auf."
   },
+  "aufpassen": {
+    "meaning": "to pay attention",
+    "gender": null,
+    "pronunciation": "[ˈaʊ̯fpassen]",
+    "example": "Du musst im Unterricht aufpassen."
+  },
+  "aufpasst": {
+    "meaning": "(he/she/it) pays attention",
+    "gender": null,
+    "pronunciation": "[ˈaʊ̯fˌpast]",
+    "example": "Er passt auf den Verkehr auf."
+  },
   "aufs": {
     "meaning": "to the (short for 'auf das' when followed by neuter noun)",
     "pronunciation": "[aʊfs]",
@@ -948,6 +960,12 @@
     "audio": "",
     "plural": null,
     "example": "Der Winter ist kalter als der Herbst."
+  },
+  "briefe": {
+    "meaning": "letters",
+    "gender": "masculine (plural)",
+    "pronunciation": "[ˈbʁiːfə]",
+    "example": "Ich schreibe jeden Monat viele Briefe."
   },
   "brille": {
     "meaning": "glasses",
@@ -1643,6 +1661,12 @@
     "pronunciation": "[ˈaɪ̯nzaːm]",
     "example": "Er fühlt sich einsam."
   },
+  "einsamkeit": {
+    "meaning": "loneliness",
+    "gender": "feminine",
+    "pronunciation": "[ˈaɪ̯nzamkaɪ̯t]",
+    "example": "Einsamkeit macht traurig."
+  },
   "eintragen'": {
     "meaning": "to enter (a name)",
     "gender": null,
@@ -1696,6 +1720,12 @@
     "meaning": "far, distant",
     "pronunciation": "[ɛntˈfɛʁnt]",
     "example": "Das Haus ist nicht weit entfernt."
+  },
+  "entscheiden": {
+    "meaning": "to decide",
+    "gender": null,
+    "pronunciation": "[ɛntˈʃaɪ̯dən]",
+    "example": "Sie muss schnell entscheiden."
   },
   "entscheidung": {
     "meaning": "[translate:Entscheidung] - decision",
@@ -2063,6 +2093,18 @@
     "audio": "",
     "plural": null,
     "example": ""
+  },
+  "gefahr": {
+    "meaning": "danger",
+    "gender": "feminine",
+    "pronunciation": "[ɡəˈfaːɐ̯]",
+    "example": "Hier gibt es große Gefahr."
+  },
+  "gefährlich": {
+    "meaning": "dangerous",
+    "gender": null,
+    "pronunciation": "[ɡəˈfɛːɐ̯lɪç]",
+    "example": "Das ist gefährlich für Kinder."
   },
   "gefiel": {
     "meaning": "pleased (past of gefallen)",
@@ -2486,6 +2528,12 @@
     "pronunciation": "[ɪm]",
     "example": "Im Park sind viele Leute."
   },
+  "immer": {
+    "meaning": "always",
+    "gender": null,
+    "pronunciation": "[ˈɪmɐ]",
+    "example": "Ich trinke immer Tee am Morgen."
+  },
   "in": {
     "meaning": "in",
     "gender": null,
@@ -2494,10 +2542,22 @@
     "plural": null,
     "example": "Ich bin in Berlin."
   },
+  "innovation": {
+    "meaning": "innovation",
+    "gender": "feminine",
+    "pronunciation": "[ɪnɔvaˈt͡si̯oːn]",
+    "example": "Die Innovation bringt neue Ideen."
+  },
   "ins": {
     "meaning": "into the (contraction of 'in das')",
     "pronunciation": "[ɪns]",
     "example": "Lena geht ins Bad."
+  },
+  "internet": {
+    "meaning": "internet",
+    "gender": "neuter",
+    "pronunciation": "[ˈɪntɐnɛt]",
+    "example": "Das Internet ist sehr praktisch."
   },
   "isst": {
     "meaning": "eats",
@@ -2557,6 +2617,12 @@
     "meaning": "now",
     "pronunciation": "[jɛtst]",
     "example": "Jetzt ist Pause."
+  },
+  "journalistin": {
+    "meaning": "female journalist",
+    "gender": "feminine",
+    "pronunciation": "[ʒʊʁnaˈlɪstɪn]",
+    "example": "Sie ist Journalistin bei einer Zeitung."
   },
   "jugend": {
     "meaning": "[translate:Jugend] - youth",
@@ -2851,6 +2917,12 @@
     "plural": "Leben",
     "example": "Das Leben ist schön."
   },
+  "lebt": {
+    "meaning": "(he/she/it) lives",
+    "gender": null,
+    "pronunciation": "[leːpt]",
+    "example": "Mein Freund lebt in Hamburg."
+  },
   "leer": {
     "meaning": "[translate:leer] - empty",
     "pronunciation": "[leːɐ̯]",
@@ -2877,6 +2949,12 @@
     "pronunciation": "[ˈlɛʁnən]",
     "example": "Sie lernen viel über Käse."
   },
+  "lernt": {
+    "meaning": "(he/she/it) learns",
+    "gender": null,
+    "pronunciation": "[lɛrnt]",
+    "example": "Er lernt Deutsch."
+  },
   "lesen": {
     "meaning": "to read",
     "pronunciation": "[ˈleːzn̩]",
@@ -2893,6 +2971,12 @@
     "gender": "neuter",
     "pronunciation": "[lɪçt]",
     "example": "Das Licht ist aus."
+  },
+  "lieblingsverein": {
+    "meaning": "favorite club/team",
+    "gender": "masculine",
+    "pronunciation": "[ˈliːblɪŋsˌfeːʁaɪ̯n]",
+    "example": "Mein Lieblingsverein ist Bayern München."
   },
   "liebt": {
     "meaning": "(he/she) loves",
@@ -2965,6 +3049,18 @@
     "pronunciation": "[maxt]",
     "example": "Sie macht Kuchen."
   },
+  "mag": {
+    "meaning": "(he/she) likes",
+    "gender": null,
+    "pronunciation": "[maːk]",
+    "example": "Sie mag Eiscreme."
+  },
+  "man": {
+    "meaning": "one, people (impersonal)",
+    "gender": null,
+    "pronunciation": "[man]",
+    "example": "Man braucht Geduld im Leben."
+  },
   "manchmal": {
     "meaning": "sometimes",
     "pronunciation": "[ˈmançmaːl]",
@@ -3018,6 +3114,12 @@
     "meaning": "my (masculine/neuter dative)",
     "pronunciation": "[ˈmaɪ̯nəm]",
     "example": "Ich gebe meinem Freund das Buch."
+  },
+  "meist": {
+    "meaning": "mostly",
+    "gender": null,
+    "pronunciation": "[maɪ̯st]",
+    "example": "Er ist meist zu Hause."
   },
   "melden": {
     "meaning": "to report, register, announce",
@@ -3123,6 +3225,12 @@
     "pronunciation": "[moˈdɛrnə]",
     "example": "Das ist eine moderne Stadt."
   },
+  "möglich": {
+    "meaning": "possible",
+    "gender": null,
+    "pronunciation": "[ˈmøːklɪç]",
+    "example": "Alles ist möglich mit Übung."
+  },
   "morgen": {
     "meaning": "morning",
     "gender": "masculine",
@@ -3144,6 +3252,12 @@
     "meaning": "[translate:Münze] - coin",
     "pronunciation": "[ˈmʏnt͡sə]",
     "example": "[translate:Die Münze liegt auf dem Tisch.]"
+  },
+  "musik": {
+    "meaning": "music",
+    "gender": "feminine",
+    "pronunciation": "[muˈziːk]",
+    "example": "Ich höre gern Musik."
   },
   "muss": {
     "meaning": "must, have to (I/he/she/it)",
@@ -3359,6 +3473,18 @@
     "pronunciation": "[ˈoːma]",
     "plural": "Omas",
     "example": "Oma backt Kuchen."
+  },
+  "online": {
+    "meaning": "online",
+    "gender": null,
+    "pronunciation": "[ˈɔnˌlaɪ̯n]",
+    "example": "Das Konzert kann man online sehen."
+  },
+  "ort": {
+    "meaning": "place, location, town",
+    "gender": "masculine",
+    "pronunciation": "[oːɐ̯t]",
+    "example": "Der Ort ist sehr weit weg."
   },
   "osten": {
     "meaning": "east",
@@ -3812,6 +3938,12 @@
     "pronunciation": "[ˈzaɪ̯nɐ]",
     "example": "Ich helfe seiner Schwester."
   },
+  "selten": {
+    "meaning": "rarely",
+    "gender": null,
+    "pronunciation": "[ˈzɛltən]",
+    "example": "Ich sehe meine Freunde selten."
+  },
   "servicezentrum": {
     "meaning": "service center",
     "gender": "neuter",
@@ -4145,6 +4277,12 @@
     "plural": "Tassen",
     "example": "Ich trinke Tee aus einer Tasse."
   },
+  "tastatur": {
+    "meaning": "keyboard",
+    "gender": "feminine",
+    "pronunciation": "[tastaˈtuːɐ̯]",
+    "example": "Die Tastatur ist neu."
+  },
   "techniker": {
     "meaning": "technician",
     "gender": "masculine",
@@ -4237,6 +4375,12 @@
     "audio": "audio/traum.mp3",
     "plural": "Träume",
     "example": "Ich hatte einen schönen Traum."
+  },
+  "traumberuf": {
+    "meaning": "dream profession",
+    "gender": "masculine",
+    "pronunciation": "[ˈtraʊ̯m bəˌʁuːf]",
+    "example": "Lehrer ist mein Traumberuf."
   },
   "traurig": {
     "meaning": "sad",
@@ -4485,6 +4629,12 @@
     "plural": "Wanderer",
     "example": "Der Wanderer macht eine Pause."
   },
+  "wandern": {
+    "meaning": "to hike",
+    "gender": null,
+    "pronunciation": "[ˈvandɐn]",
+    "example": "Wir wandern in den Bergen."
+  },
   "wandten": {
     "meaning": "turned (past of wenden)",
     "gender": null,
@@ -4601,6 +4751,12 @@
     "meaning": "[translate:wenig] - little, few, not much",
     "pronunciation": "[ˈveːnɪç]",
     "example": "[translate:Es kostet nur wenig Geld.]"
+  },
+  "wenn": {
+    "meaning": "if, when",
+    "gender": null,
+    "pronunciation": "[vɛn]",
+    "example": "Wenn es regnet, bleiben wir zu Hause."
   },
   "werbeanzeige": {
     "meaning": "advertisement",
@@ -4730,6 +4886,12 @@
     "pronunciation": "[ˈvœʁtɐ]",
     "singular": "Wort",
     "example": "Sie buchstabiert die Wörter langsam."
+  },
+  "wünscht": {
+    "meaning": "(he/she/it) wishes",
+    "gender": null,
+    "pronunciation": "[ˈvʏnʃt]",
+    "example": "Sie wünscht sich Urlaub."
   },
   "wurde": {
     "meaning": "was (became)",
